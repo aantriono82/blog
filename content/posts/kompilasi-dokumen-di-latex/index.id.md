@@ -38,7 +38,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX **harus dikompila
 
 ---
 
-## 1. Apa Itu Kompilasi LaTeX?
+## Apa Itu Kompilasi LaTeX?
 
 Kompilasi LaTeX adalah proses yang dilakukan oleh *compiler* untuk membaca file sumber (biasanya berekstensi `.tex`), menafsirkan perintah di dalamnya (`\section{}`, `\usepackage{}`, dll.), dan menghasilkan file keluaran seperti `.pdf`.
 
@@ -52,7 +52,7 @@ Proses ini berbeda dengan *word processor* biasa seperti Microsoft Word, karena 
 
 ---
 
-## 2. Jenis Compiler LaTeX
+## Jenis Compiler LaTeX
 
 Berikut beberapa compiler yang umum digunakan:
 
@@ -67,7 +67,7 @@ Berikut beberapa compiler yang umum digunakan:
 
 ---
 
-## 3. Proses Kompilasi Dokumen
+## Proses Kompilasi Dokumen
 
 Ketika menjalankan kompilasi, sistem LaTeX melalui beberapa tahap:
 
@@ -84,7 +84,7 @@ Karena adanya file bantu, **dokumen LaTeX sering perlu dikompilasi lebih dari se
 
 ---
 
-## 4. Perintah Kompilasi di Terminal
+## Perintah Kompilasi di Terminal
 
 Untuk pengguna sistem lokal (Windows, macOS, Linux), kompilasi bisa dilakukan melalui *command line*.
 
@@ -107,25 +107,25 @@ Langkah-langkah di atas:
 
 ---
 
-## 5. Kompilasi di Lingkungan Editor
+## Kompilasi di Lingkungan Editor
 
 Selain terminal, kompilasi bisa dilakukan langsung dari editor LaTeX. Berikut beberapa opsi umum:
 
 ![overleaf](overleaf.png "Tampilan antarmuka di Overleaf")
 
-### 5.1. Overleaf (Online)
+### Overleaf (Online)
 - Kompilasi otomatis setiap kali Anda menyimpan.
 - Pilih compiler di menu **Menu → Compiler → pdfLaTeX/XeLaTeX**.
 - Tidak memerlukan instalasi lokal.
 
-### 5.2. TeXworks / TeXstudio (Offline)
+### TeXworks / TeXstudio (Offline)
 - Tekan **Ctrl + T** atau klik ikon “Typeset”.
 - Dapat memilih compiler dari daftar dropdown.
 - Cocok untuk pengguna Windows/macOS.
 
 ![overleaf](texstudio.png "Tampilan antarmuka di TeXstudio")
 
-### 5.3. Visual Studio Code + LaTeX Workshop
+### Visual Studio Code + LaTeX Workshop
 - Ekstensi populer untuk pengguna modern.
 - Mendukung fitur “build chain” (urutan otomatis pdflatex → bibtex → pdflatex → pdflatex).
 - File konfigurasi: `.vscode/settings.json`
@@ -143,7 +143,7 @@ Contoh pengaturan build:
 
 ---
 
-## 6. Penanganan Error Umum
+## Penanganan Error Umum
 
 Berikut daftar kesalahan umum saat kompilasi beserta solusinya:
 
@@ -159,7 +159,7 @@ Berikut daftar kesalahan umum saat kompilasi beserta solusinya:
 
 ---
 
-## 7. Workflow Modern dan Otomatisasi
+## Workflow Modern dan Otomatisasi
 
 Untuk efisiensi, banyak pengguna kini mengandalkan **alat otomatisasi kompilasi**, seperti:
 
@@ -182,7 +182,7 @@ Dengan workflow otomatis ini, Anda cukup menjalankan satu perintah dan seluruh p
 
 ---
 
-## 8. Kesimpulan
+## Kesimpulan
 
 Kompilasi adalah inti dari sistem LaTeX — proses yang mengubah kode sumber menjadi dokumen berkualitas tinggi.  
 Memahami cara kerja *compiler*, urutan build, serta penanganan error akan sangat membantu dalam menulis dokumen ilmiah secara efisien dan profesional.

@@ -22,51 +22,51 @@ Pada tahun 1977, Knuth memulai proyek ambisius untuk menciptakan sistem penyusun
 
 ## Perkembangan TeX
 
-### 1. Rilis Pertama (1978)
+### Rilis Pertama (1978)
 Knuth merilis versi awal TeX pada tahun 1978. Sistem ini ditulis dalam bahasa pemrograman SAIL dan dijalankan pada komputer mainframe di Stanford. TeX dirancang untuk memberikan kontrol tingkat tinggi terhadap tata letak dokumen, termasuk pengaturan spasi, font, dan penempatan elemen seperti rumus matematika. Salah satu inovasi utama TeX adalah algoritma pemecahan baris (line-breaking algorithm), yang memastikan bahwa teks disusun dengan estetika optimal, menghindari jarak antar kata yang tidak merata atau baris yang terlalu padat.
 
-### 2. TeX82 (1982)
+### TeX82 (1982)
 Versi awal TeX memiliki keterbatasan, termasuk ketergantungan pada perangkat keras tertentu. Untuk mengatasinya, Knuth menulis ulang TeX pada tahun 1982 menggunakan bahasa pemrograman Pascal dan memperkenalkan sistem font berbasis Metafont, yang memungkinkan pembuatan font digital yang dapat diskalakan. Versi ini, yang dikenal sebagai TeX82, menjadi standar yang digunakan hingga saat ini. Knuth juga memastikan bahwa TeX bersifat open-source, memungkinkan komunitas untuk mengembangkan dan memodifikasi sistem ini.
 
-### 3. Fitur Utama TeX
+### Fitur Utama TeX
 - **Penyusunan Matematika:** TeX dirancang untuk menangani notasi matematika dengan sangat baik, memungkinkan penulisan rumus yang kompleks dengan sintaks yang relatif sederhana.
 - **Metafont:** Sistem ini memungkinkan pembuatan font digital berkualitas tinggi yang dapat disesuaikan dengan kebutuhan dokumen.
 - **Portabilitas:** TeX dirancang agar dapat berjalan di berbagai platform, menjadikannya alat yang fleksibel untuk berbagai sistem komputer.
 - **Stabilitas:** Knuth berkomitmen untuk menjaga kompatibilitas TeX, sehingga dokumen yang dibuat dengan TeX tetap dapat diproses dengan benar bahkan setelah puluhan tahun.
 
-### 4. Publikasi dan Adopsi
+### Publikasi dan Adopsi
 Setelah rilis TeX82, American Mathematical Society (AMS) mengadopsi TeX sebagai alat penyusunan standar untuk jurnal dan publikasi matematika. Komunitas ilmiah, terutama di bidang matematika, fisika, dan ilmu komputer, mulai menggunakannya secara luas karena kemampuannya menghasilkan dokumen yang indah dan konsisten.
 
 ## Kelahiran LaTeX
 
 Meskipun TeX sangat kuat, sintaksnya yang kompleks dan berorientasi pada detail tingkat rendah membuatnya sulit digunakan oleh pengguna non-teknis. Untuk mengatasi masalah ini, Leslie Lamport, seorang ilmuwan komputer di SRI International, mengembangkan LaTeX pada awal 1980-an.
 
-### 1. LaTeX 2.09 (1985)
+### LaTeX 2.09 (1985)
 LaTeX, yang merupakan kependekan dari "Lamport TeX," adalah sekumpulan makro berbasis TeX yang menyederhanakan proses penulisan dokumen. LaTeX memungkinkan pengguna untuk fokus pada konten dokumen, seperti struktur (bab, bagian, subbagian) dan format (judul, daftar isi, referensi), tanpa perlu mengatur detail tipografi secara manual. Versi pertama LaTeX, yang dirilis pada tahun 1985, segera menjadi populer di kalangan akademisi karena kemudahan penggunaannya.
 
-### 2. Fitur Utama LaTeX
+### Fitur Utama LaTeX
 - **Struktur Dokumen:** LaTeX memperkenalkan konsep kelas dokumen (seperti artikel, buku, atau laporan) dan perintah tingkat tinggi untuk menyusun dokumen dengan struktur yang jelas.
 - **Manajemen Referensi:** LaTeX mendukung alat seperti BibTeX untuk mengelola kutipan dan daftar pustaka secara otomatis.
 - **Ekstensibilitas:** Pengguna dapat membuat makro dan paket tambahan untuk menyesuaikan LaTeX sesuai kebutuhan mereka.
 - **Konsistensi Visual:** LaTeX memastikan bahwa dokumen memiliki tata letak yang konsisten dan profesional tanpa perlu keahlian desain.
 
-### 3. LaTeX2e (1994)
+### LaTeX2e (1994)
 Pada tahun 1994, tim yang dipimpin oleh Frank Mittelbach merilis LaTeX2e, sebuah pembaruan besar yang meningkatkan modularitas dan kompatibilitas LaTeX. LaTeX2e memperkenalkan sistem paket yang memungkinkan pengguna untuk menambahkan fungsionalitas baru tanpa mengubah inti sistem. Versi ini tetap menjadi standar hingga saat ini, dengan pembaruan berkala untuk mendukung fitur baru seperti font Unicode dan integrasi dengan teknologi modern.
 
 ## Evolusi dan Dampak
 
-### 1. Adopsi Global
+### Adopsi Global
 TeX dan LaTeX telah menjadi standar de facto untuk penyusunan dokumen ilmiah. Jurnal akademik, penerbit buku, dan institusi pendidikan di seluruh dunia menggunakan LaTeX untuk menghasilkan dokumen berkualitas tinggi. Komunitas open-source juga telah menghasilkan ribuan paket tambahan, seperti AMS-LaTeX untuk matematika lanjutan, Beamer untuk presentasi, dan TikZ untuk grafik.
 
-### 2. Komunitas dan Dukungan
+### Komunitas dan Dukungan
 Komunitas TeX dan LaTeX sangat aktif, dengan organisasi seperti TeX Users Group (TUG) yang didirikan pada tahun 1980 untuk mendukung pengguna dan pengembang. Platform seperti CTAN (Comprehensive TeX Archive Network) menyediakan repositori terpusat untuk perangkat lunak, paket, dan dokumentasi terkait TeX dan LaTeX.
 
-### 3. Perkembangan Modern
+### Perkembangan Modern
 - **XeTeX dan LuaTeX:** Untuk mengatasi keterbatasan font dan dukungan multibahasa, varian seperti XeTeX (2004) dan LuaTeX (2007) dikembangkan. XeTeX mendukung font OpenType dan Unicode, sementara LuaTeX mengintegrasikan bahasa pemrograman Lua untuk fleksibilitas lebih besar.
 - **Editor dan Alat Modern:** Editor seperti TeXShop, Overleaf, dan TeXworks telah mempermudah penggunaan LaTeX, terutama dengan antarmuka berbasis web seperti Overleaf yang memungkinkan kolaborasi real-time.
 - **Integrasi dengan Teknologi Baru:** LaTeX kini digunakan tidak hanya untuk dokumen cetak, tetapi juga untuk menghasilkan PDF interaktif, situs web, dan bahkan aplikasi mobile.
 
-### 4. Dampak pada Akademik dan Industri
+### Dampak pada Akademik dan Industri
 LaTeX telah menjadi alat penting dalam dunia akademik karena kemampuannya menghasilkan dokumen yang konsisten dan mudah diperbarui. Banyak konferensi dan jurnal ilmiah mensyaratkan naskah disusun dalam LaTeX untuk memastikan kualitas dan kompatibilitas. Di luar akademik, LaTeX digunakan dalam industri penerbitan, penulisan laporan teknis, dan bahkan pembuatan resume atau dokumen hukum.
 
 ## Tantangan dan Kritik

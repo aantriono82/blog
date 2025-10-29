@@ -2,7 +2,7 @@
 weight: 4
 title: "LaTeX Document Structure"
 date: 2025-10-14
-lastmod: 2025-10-14
+# lastmod: 2025-10-14
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
@@ -23,7 +23,7 @@ This article discusses LaTeX document structure for letter, article, report, and
 
 <!--more-->
 
-## 1. Introduction
+## Introduction
 
 **LaTeX** is a markup-based typesetting system widely used for writing scientific works, reports, books, and theses.  
 One popular platform for writing and composing LaTeX documents is **Overleaf**, an online editor that enables real-time collaboration and provides complete documentation and templates.
@@ -37,7 +37,7 @@ A `.tex` file generally consists of three main parts:
 
 ---
 
-## 2. General Structure of LaTeX Documents
+## General Structure of LaTeX Documents
 
 The minimal structure of a LaTeX document is as follows:
 ```latex
@@ -61,11 +61,11 @@ Overleaf explains that every LaTeX document **must begin** with a `\documentclas
 
 ---
 
-## 3. Preamble
+## Preamble
 
 The preamble contains all initial settings before the document begins. It typically includes:
 
-### a. Document Class
+### Document Class
 ```latex
 \documentclass[12pt, a4paper]{article}
 ```
@@ -82,7 +82,7 @@ Some standard classes:
 
 ---
 
-### b. Packages
+### Packages
 
 Packages extend LaTeX's capabilities.  
 Common examples:
@@ -95,7 +95,7 @@ Common examples:
 
 ---
 
-### c. Document Metadata
+### Document Metadata
 
 Metadata contains information such as title, author, and date.
 ```latex
@@ -108,7 +108,7 @@ This metadata is used when the `\maketitle` command is called in the document bo
 
 ---
 
-## 4. Document Body
+## Document Body
 
 This section contains the main content between `\begin{document}` and `\end{document}`.
 
@@ -133,7 +133,7 @@ Final conclusion of the discussion.
 \end{document}
 ```
 
-### a. Section Numbering
+### Section Numbering
 
 LaTeX automatically numbers sections (`\section`, `\subsection`, etc.).  
 For unnumbered sections, use an asterisk:
@@ -143,7 +143,7 @@ For unnumbered sections, use an asterisk:
 
 ---
 
-### b. Adding Images
+### Adding Images
 
 Use the `graphicx` package:
 ```latex
@@ -159,7 +159,7 @@ Use the `graphicx` package:
 
 ---
 
-### c. Writing Formulas and Equations
+### Writing Formulas and Equations
 
 Use the `amsmath` package:
 ```latex
@@ -170,11 +170,11 @@ E = mc^2
 
 ---
 
-## 5. Additional Sections (Optional)
+## Additional Sections (Optional)
 
 For academic documents or books, LaTeX provides additional divisions such as:
 
-### a. Frontmatter, Mainmatter, and Backmatter
+### Frontmatter, Mainmatter, and Backmatter
 ```latex
 \frontmatter    % For front matter (abstract, table of contents)
 \tableofcontents
@@ -189,7 +189,7 @@ For academic documents or books, LaTeX provides additional divisions such as:
 
 ---
 
-### b. Bibliography
+### Bibliography
 
 Use `biblatex` for automatic bibliography:
 ```latex
@@ -203,7 +203,7 @@ Use `biblatex` for automatic bibliography:
 
 ---
 
-## 6. Minimal Document Example
+## Minimal Document Example
 
 Here's an example of the **simplest** valid document:
 ```latex
@@ -226,7 +226,7 @@ This is a minimal document example in LaTeX.
 
 ---
 
-## 7. Tips and Best Practices
+## Tips and Best Practices
 
 - Use **separate folder structure** (`/images`, `/chapters`, `/bib`) to make large documents easier to manage.  
 - Separate each chapter into `.tex` files and call them with `\input{}` or `\include{}`.  
@@ -235,7 +235,7 @@ This is a minimal document example in LaTeX.
 
 ---
 
-## 8. Conclusion
+## Conclusion
 
 The basic structure of LaTeX documents is highly organized and modular.  
 By understanding the division between **preamble**, **body**, and **additional sections**, writers can manage technical documents more efficiently.  

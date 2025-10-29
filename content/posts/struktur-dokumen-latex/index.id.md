@@ -2,7 +2,7 @@
 weight: 4
 title: "Struktur Dokumen LaTeX"
 date: 2025-10-14
-lastmod: 2025-10-14
+# lastmod: 2025-10-14
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
@@ -22,7 +22,7 @@ Artikel ini membahas tentang struktur dokumen LaTeX baik pada kelas dokumen sura
 
 <!--more-->
 
-## 1. Pendahuluan
+## Pendahuluan
 
 **LaTeX** adalah sistem typesetting berbasis markup yang banyak digunakan untuk penulisan karya ilmiah, laporan, buku, hingga skripsi.  
 Salah satu platform populer untuk menulis dan menyusun dokumen LaTeX adalah **Overleaf**, editor daring yang memungkinkan kolaborasi real-time serta menyediakan dokumentasi dan template lengkap.
@@ -36,7 +36,7 @@ Sebuah file `.tex` umumnya terdiri dari tiga bagian besar:
 
 ---
 
-## 2. Struktur Umum Dokumen LaTeX
+## Struktur Umum Dokumen LaTeX
 
 Struktur minimal dokumen LaTeX adalah sebagai berikut:
 
@@ -61,11 +61,11 @@ Overleaf menjelaskan bahwa setiap dokumen LaTeX **harus dimulai** dengan deklara
 
 ---
 
-## 3. Preamble
+## Preamble
 
 Preamble berisi semua pengaturan awal sebelum dokumen dimulai. Biasanya meliputi:
 
-### a. Kelas Dokumen
+### Kelas Dokumen
 
 ```latex
 \documentclass[12pt, a4paper]{article}
@@ -83,7 +83,7 @@ Beberapa kelas standar:
 
 ---
 
-### b. Paket (Packages)
+### Paket (Packages)
 
 Paket memperluas kemampuan LaTeX.  
 Contoh umum:
@@ -97,7 +97,7 @@ Contoh umum:
 
 ---
 
-### c. Metadata Dokumen
+### Metadata Dokumen
 
 Metadata berisi informasi seperti judul, penulis, dan tanggal.
 
@@ -111,7 +111,7 @@ Metadata ini digunakan ketika perintah `\maketitle` dipanggil dalam body dokumen
 
 ---
 
-## 4. Body Dokumen
+## Body Dokumen
 
 Bagian ini berisi konten utama antara `\begin{document}` dan `\end{document}`.
 
@@ -137,7 +137,7 @@ Kesimpulan akhir dari pembahasan.
 \end{document}
 ```
 
-### a. Penomoran Bagian
+### Penomoran Bagian
 
 LaTeX secara otomatis menomori bagian (`\section`, `\subsection`, dll).  
 Untuk bagian tanpa nomor, gunakan tanda bintang:
@@ -148,7 +148,7 @@ Untuk bagian tanpa nomor, gunakan tanda bintang:
 
 ---
 
-### b. Menambahkan Gambar
+### Menambahkan Gambar
 
 Gunakan paket `graphicx`:
 
@@ -165,7 +165,7 @@ Gunakan paket `graphicx`:
 
 ---
 
-### c. Menulis Rumus dan Persamaan
+### Menulis Rumus dan Persamaan
 
 Gunakan paket `amsmath`:
 
@@ -177,11 +177,11 @@ E = mc^2
 
 ---
 
-## 5. Bagian Tambahan (Optional)
+## Bagian Tambahan (Optional)
 
 Untuk dokumen akademik atau buku, LaTeX menyediakan pembagian tambahan seperti:
 
-### a. Frontmatter, Mainmatter, dan Backmatter
+### Frontmatter, Mainmatter, dan Backmatter
 
 ```latex
 \frontmatter    % Untuk bagian awal (abstrak, daftar isi)
@@ -197,7 +197,7 @@ Untuk dokumen akademik atau buku, LaTeX menyediakan pembagian tambahan seperti:
 
 ---
 
-### b. Bibliografi
+### Bibliografi
 
 Gunakan `biblatex` untuk daftar pustaka otomatis:
 
@@ -211,7 +211,7 @@ Gunakan `biblatex` untuk daftar pustaka otomatis:
 ```
 ---
 
-## 6. Contoh Dokumen Minimal
+## Contoh Dokumen Minimal
 
 Berikut contoh dokumen **paling sederhana** yang valid:
 
@@ -235,7 +235,7 @@ Ini adalah contoh dokumen minimal di LaTeX.
 
 ---
 
-## 7. Tips dan Best Practice
+## Tips dan Best Practice
 
 - Gunakan **struktur folder** terpisah (`/images`, `/chapters`, `/bib`) agar dokumen besar mudah dikelola.  
 - Pisahkan tiap bab ke dalam file `.tex` dan panggil dengan `\input{}` atau `\include{}`.  
@@ -244,7 +244,7 @@ Ini adalah contoh dokumen minimal di LaTeX.
 
 ---
 
-## 8. Kesimpulan
+## Kesimpulan
 
 Struktur dasar dokumen LaTeX sangat teratur dan modular.  
 Dengan memahami pembagian antara **preamble**, **body**, dan **bagian tambahan**, penulis dapat mengelola dokumen teknis dengan lebih efisien.  

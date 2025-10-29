@@ -39,7 +39,7 @@ Tanpa penundaan lebih lanjut, mari kita bahas elemen utama Markdown dan seperti 
 :smile: Bookmark halaman ini untuk memudahkan referensi di masa mendatang!
 {{< /admonition >}}
 
-## 1 Headings
+## Headings
 
 Headings dari `h2` sampai `h6` dibangun dengan  `#` untuk setiap level:
 
@@ -75,7 +75,7 @@ Keluaran HTML terlihat seperti berikut:
 ```
 {{< /admonition >}}
 
-## 2 Komentar
+## Komentar
 
 Komentar harus kompatibel dengan HTML.
 
@@ -91,7 +91,7 @@ Komentar di bawah ini **tidak** boleh dilihat:
 Ini adalah sebuah komentar
 -->
 
-## 3 Aturan Horizontal
+## Aturan Horizontal
 
 Elemen HTML `<hr>` adalah untuk menciptakan “tekanan tematik” antara elemen tingkat paragraf. Di Markdown, Anda dapat membuat `<hr>` dengan salah satu cara dari berikut:
 
@@ -104,7 +104,7 @@ ___
 ---
 ***
 
-## 4 Salinan 
+## Salinan 
 
 Salinan ditulis sebagai normal, teks biasa akan dibungkus dengan `<p></p>` tag dalam HTML yang diberikan.
 
@@ -124,7 +124,7 @@ Di HTML terlihat seperti berikut:
 
 **Baris pemisah** dapat dilakukan dengan satu baris kosong..
 
-## 5 Inline HTML
+## Inline HTML
 
 ika Anda membutuhkan tag HTML tertentu (dengan kelas), Anda cukup menggunakan HTML:
 
@@ -138,7 +138,7 @@ Paragrap di Markdown.
 Paragrap di Markdown.
 ```
 
-## 6 Emphasis
+## Emphasis
 
 ### Bold
 
@@ -220,7 +220,7 @@ Di HTML terlihat seperti berikut:
 <del><em><strong>bold, italics dan strikethrough</strong></em></del>
 ```
 
-## 7 Blockquotes
+## Blockquotes
 
 Untuk mengutip blockquotes dari sumber lain dalam dokumen Anda.
 
@@ -260,7 +260,7 @@ Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 >> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
 odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
 
-## 8 Daftar
+## Daftar
 
 ### Tidak Berurut
 
@@ -410,7 +410,7 @@ The rendered output looks like this:
 - [ ] Update website
 - [ ] Hubungi media
 
-## 9 Kode
+## Kode
 
 ### kode Sebaris
 
@@ -538,7 +538,7 @@ grunt.initConfig({
 [Syntax highlighting page](https://gohugo.io/content-management/syntax-highlighting/)  di **Hugo** Docs memperkenalkan lebih banyak tentang sorotan sintaks, termasuk sorotan shortcode.
 {{< /admonition >}}
 
-## 10 Tabel
+## Tabel
 
 Tabel dibuat dengan menambahkan pipa sebagai pembagi diantara setiap sel, dan dengan menambahkan garis-garis dashes (juga dipisahkan oleh batang) di bawah header. Perhatikan bahwa pipa tidak perlu disejajarkan secara vertikal.
 
@@ -606,7 +606,7 @@ Keluaran yang dihasilkan terlihat seperti berikut:
 | ext    | extension to be used for dest files. |
 {{< /admonition >}}
 
-## 11 Tautan 
+## Tautan 
 
 ### Tautan Dasar
 
@@ -676,7 +676,7 @@ Isi dari bab 3.
 Penempatan spesifik dari tag anchor tampaknya tidak teratur. Mereka ditempatkan sebaris karena tampaknya tidak mengganggu, dan itu berhasil.
 {{< /admonition >}}
 
-## 12 Catatan Kaki
+## Catatan Kaki
 
 Catatan kaki memungkinkan Anda untuk menambahkan catatan dan referensi tanpa mengacaukan tubuh dokumen. Saat Anda membuat catatan kaki, nomor superskrip dengan tautan muncul di mana Anda menambahkan referensi catatan kaki. Pembaca dapat mengklik tautan untuk melompat ke konten catatan kaki di bagian bawah halaman.
 
@@ -698,7 +698,7 @@ Ini adalah catatan kaki dengan “label” [^label]
 [^1]: Ini adalah catatan kaki digital
 [^label]: Ini adalah catatan kaki dengan “label”
 
-## 13 Gambar
+## Gambar
 
 Gambar memiliki sintaks yang sama dengan tautan tetapi termasuk titik seru sebelumnya.
 

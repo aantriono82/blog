@@ -2,7 +2,7 @@
 weight: 4
 title: "Pemformatan Teks di LaTeX"
 date: 2025-10-16
-lastmod: 2025-10-16
+# lastmod: 2025-10-16
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"

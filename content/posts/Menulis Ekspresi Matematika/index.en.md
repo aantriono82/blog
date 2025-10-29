@@ -2,7 +2,7 @@
 weight: 4
 title: "Writing Mathematical Expressions in Markdown"
 date: 2025-09-27
-lastmod: 2025-09-27
+# lastmod: 2025-09-27
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"

@@ -13,7 +13,7 @@ math:
 ![Aan Triono](/images/avatar.png)
 
 > 
-> Hello and Welcome...
+> Assalamu'alaikum...
 > 
 > Hi, welcome to my blog. This blog was created to document my learning notes about Computer Operating Systems such as GNU/Linux, BSD, and also about LaTeX.
 >

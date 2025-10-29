@@ -2,6 +2,7 @@
 weight: 4
 title: "Linux Desktop Environments"
 date: 2025-10-02
+# lastmod: 2025-10-14
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"

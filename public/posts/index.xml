@@ -4,5 +4,149 @@
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Differences Between BSD and Linux</title>
+    <link>http://localhost:1313/bsd-linux/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/bsd-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/bsd-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the differences between BSD and GNU/Linux operating systems.</p>]]></description>
+</item><item>
+    <title>A Brief History of GNU/Linux</title>
+    <link>http://localhost:1313/gnu-linux/</link>
+    <pubDate>Sun, 28 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/gnu-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the brief history of the GNU/Linux operating system</p>]]></description>
+</item><item>
+    <title>Basic Markdown Syntax</title>
+    <link>http://localhost:1313/sintaks-markdown-dasar/</link>
+    <pubDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/sintaks-markdown-dasar/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sintaks-markdown-dasar/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses examples of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item><item>
+    <title>Writing Mathematical Expressions in Markdown</title>
+    <link>http://localhost:1313/menulis-ekspresi-matematika/</link>
+    <pubDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/menulis-ekspresi-matematika/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/menulis-ekspresi-matematika/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses writing mathematical expressions in Markdown using KaTeX.</p>]]></description>
+</item><item>
+    <title>Linux Desktop Environments</title>
+    <link>http://localhost:1313/lingkungan-desktop-linux/</link>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/lingkungan-desktop-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lingkungan-desktop-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the <strong>desktop environments</strong> used across different Linux distributions.</p>]]></description>
+</item><item>
+    <title>Why Choose Linux</title>
+    <link>http://localhost:1313/mengapa-memilih-linux/</link>
+    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/mengapa-memilih-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the reasons for migrating from Windows to Linux.</p>]]></description>
+</item><item>
+    <title>History of TeX and LaTeX: Evolution of Digital Document Typesetting Systems</title>
+    <link>http://localhost:1313/sejarah-tex-dan-latex/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/sejarah-tex-dan-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the history of TeX and LaTeX, document typesetting systems by Knuth and Lamport, from their inception in 1978 to modern academic standards, focusing on development, features, and future prospects to date.</p>]]></description>
+</item><item>
+    <title>Getting to Know Ubuntu: A User-Friendly Linux Distribution for All Needs</title>
+    <link>http://localhost:1313/lebih-dekat-dengan-ubuntu/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/lebih-dekat-dengan-ubuntu/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article introduces <strong>Ubuntu</strong>, a popular, user-friendly Linux distribution designed for diverse use cases — from personal computing to professional development.</p>
+<hr>]]></description>
+</item><item>
+    <title>Installation Guide for MiKTeX, MacTeX, and TeX Live Across Operating Systems</title>
+    <link>http://localhost:1313/instal-miktex-mactex-texlive/</link>
+    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/instal-miktex-mactex-texlive/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses how to install various LaTeX engines used for creating documents across different operating systems.</p>]]></description>
+</item><item>
+    <title>LaTeX Document Structure</title>
+    <link>http://localhost:1313/struktur-dokumen-latex/</link>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/struktur-dokumen-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/struktur-dokumen-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses LaTeX document structure for letter, article, report, and book document classes.</p>
+<hr>]]></description>
+</item><item>
+    <title>Text Formatting in LaTeX</title>
+    <link>http://localhost:1313/format-teks-di-latex/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/format-teks-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/format-teks-di-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses text formatting commonly used in documents written with LaTeX.</p>
+<hr>]]></description>
+</item><item>
+    <title>Debian: The Universal Operating System</title>
+    <link>http://localhost:1313/distro-linux-debian/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/distro-linux-debian/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/distro-linux-debian/Featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Debian is one of the oldest and most respected Linux distributions, known for its stability, security, and free software principles.<br>
+In this article, we will discuss its history, characteristics, variants, use in software development, as well as its advantages and disadvantages — in depth yet easy to understand.</p>
+<hr>]]></description>
+</item><item>
+    <title>Understanding Packages in LaTeX</title>
+    <link>http://localhost:1313/mengenal-paket-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/mengenal-paket-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mengenal-paket-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the concepts, types, and functions of packages in LaTeX.</p>
+<hr>]]></description>
+</item><item>
+    <title>Technical Guide: How to Compile LaTeX Documents Completely and Efficiently</title>
+    <link>http://localhost:1313/kompilasi-dokumen-di-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/kompilasi-dokumen-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Compilation is the process of translating LaTeX commands into a ready-to-print document.<br>
+This article discusses how LaTeX compilation works, types of compilers available, the compilation sequence, and how to resolve errors efficiently.</p>
+<hr>]]></description>
+</item><item>
+    <title>Drawing Sharingan and Rinnegan Eyes with LaTeX</title>
+    <link>http://localhost:1313/menggambar-sharingan-dan-rinnegan-dengan-latex/</link>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/menggambar-sharingan-dan-rinnegan-dengan-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses how to draw sharingan and rinnegan eyes from <strong>Anime Series: Naruto Shippuden</strong> using LaTeX, with the main package used being Tikz package.</p>
+<hr>]]></description>
+</item></channel>
 </rss>

@@ -19,19 +19,19 @@ Built upon **Debian**, one of the oldest and most stable Linux distributions, Ub
 
 ## Key Features of Ubuntu
 
-### 1. Open Source and Free
+### Open Source and Free
 
 Unlike commercial operating systems, Ubuntu is completely free to download, use, and distribute. Its open-source nature allows anyone to view, modify, and improve the source code. It’s not just about cost—it’s about **freedom and transparency** in technology.
 
-### 2. Strong Security
+### Strong Security
 
 Ubuntu is designed with **security** as a top priority. It includes a built-in firewall, data encryption, and automatic security updates. Thanks to Linux’s architecture, Ubuntu is naturally resistant to viruses and malware, making it a safe choice for all types of users.
 
-### 3. Stability and Performance
+### Stability and Performance
 
 Ubuntu offers **Long-Term Support (LTS)** versions, supported for **five years** with security updates. These releases ensure long-term stability—ideal for businesses and users who value reliability.
 
-### 4. Intuitive User Interface
+### Intuitive User Interface
 
 ![Ubuntu Desktop GNOME](ubuntu.png)
 

@@ -2,7 +2,7 @@
 weight: 4
 title: "Text Formatting in LaTeX"
 date: 2025-10-16
-lastmod: 2025-10-16
+# lastmod: 2025-10-16
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"

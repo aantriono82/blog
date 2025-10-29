@@ -19,19 +19,19 @@ Sistem operasi ini dibangun di atas fondasi Debian, salah satu distribusi Linux 
 
 ## Karakteristik Utama Ubuntu
 
-### 1. Open Source dan Gratis
+### Open Source dan Gratis
 
 Berbeda dengan sistem operasi komersial, Ubuntu sepenuhnya gratis untuk diunduh, digunakan, dan didistribusikan. Sifat open source-nya memungkinkan siapa saja untuk melihat, memodifikasi, dan meningkatkan kode sumbernya. Ini bukan hanya soal harga, tetapi juga tentang kebebasan dan transparansi teknologi.
 
-### 2. Keamanan yang Tangguh
+### Keamanan yang Tangguh
 
 Ubuntu dirancang dengan mempertimbangkan keamanan sebagai prioritas utama. Sistem operasi ini hadir dengan firewall bawaan, enkripsi data, dan pembaruan keamanan reguler yang otomatis. Arsitektur Linux yang mendasarinya secara inheren lebih tahan terhadap virus dan malware dibandingkan sistem operasi lain, menjadikan Ubuntu pilihan yang aman untuk berbagai keperluan.
 
-### 3. Stabilitas dan Performa
+### Stabilitas dan Performa
 
 Ubuntu menawarkan versi Long-Term Support (LTS) yang didukung selama 5 tahun dengan pembaruan keamanan, memberikan jaminan sistem yang stabil untuk penggunaan jangka panjang. Versi LTS dirilis setiap dua tahun dan sangat cocok untuk lingkungan bisnis atau pengguna yang mengutamakan kestabilan.
 
-### 4. Antarmuka Pengguna yang Intuitif
+### Antarmuka Pengguna yang Intuitif
 
 ![Ubuntu Desktop GNOME](ubuntu.png)
 

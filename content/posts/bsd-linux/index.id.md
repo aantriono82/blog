@@ -2,7 +2,7 @@
 weight: 8
 title: "Perbedaan BSD dan Linux"
 date: 2025-10-17
-lastmod: 2025-10-17
+# lastmod: 2025-10-17
 draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"

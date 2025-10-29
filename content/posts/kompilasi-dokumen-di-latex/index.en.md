@@ -35,7 +35,7 @@ Unlike conventional word processors, a LaTeX document **must be compiled** befor
 
 ---
 
-## 1. What is LaTeX Compilation?
+## What is LaTeX Compilation?
 
 LaTeX compilation is the process performed by a *compiler* to read the source file (usually with the `.tex` extension), interpret the commands inside (`\section{}`, `\usepackage{}`, etc.), and produce an output file such as `.pdf`.
 
@@ -49,7 +49,7 @@ This process differs from a typical *word processor* like Microsoft Word because
 
 ---
 
-## 2. Types of LaTeX Compilers
+## Types of LaTeX Compilers
 
 Here are some commonly used LaTeX compilers:
 
@@ -64,7 +64,7 @@ Here are some commonly used LaTeX compilers:
 
 ---
 
-## 3. The Compilation Process
+## The Compilation Process
 
 When compiling, LaTeX goes through several stages:
 
@@ -81,7 +81,7 @@ Because of these auxiliary files, **LaTeX documents often need to be compiled mo
 
 ---
 
-## 4. Compilation via Terminal
+## Compilation via Terminal
 
 For local system users (Windows, macOS, Linux), compilation can be performed via the command line.
 
@@ -104,25 +104,25 @@ Steps:
 
 ---
 
-## 5. Compilation via Editor Environments
+## Compilation via Editor Environments
 
 Besides the terminal, compilation can also be done directly from LaTeX editors. Common options include:
 
 ![overleaf](overleaf.png "Overleaf interface")
 
-### 5.1. Overleaf (Online)
+### Overleaf (Online)
 - Automatically compiles whenever you save.
 - Choose the compiler via **Menu → Compiler → pdfLaTeX/XeLaTeX**.
 - No local installation required.
 
-### 5.2. TeXworks / TeXstudio (Offline)
+### TeXworks / TeXstudio (Offline)
 - Press **Ctrl + T** or click the “Typeset” icon.
 - Select the compiler from the dropdown list.
 - Suitable for Windows/macOS users.
 
 ![overleaf](texstudio.png "TeXstudio interface")
 
-### 5.3. Visual Studio Code + LaTeX Workshop
+### Visual Studio Code + LaTeX Workshop
 - A popular extension among modern users.
 - Supports build chain automation (e.g., pdflatex → bibtex → pdflatex → pdflatex).
 - Configuration file: `.vscode/settings.json`
@@ -140,7 +140,7 @@ Example configuration:
 
 ---
 
-## 6. Common Compilation Errors
+## Common Compilation Errors
 
 Here are common LaTeX compilation errors and how to fix them:
 
@@ -156,7 +156,7 @@ Here are common LaTeX compilation errors and how to fix them:
 
 ---
 
-## 7. Modern Workflow and Automation
+## Modern Workflow and Automation
 
 For efficiency, many users rely on **automated compilation tools**, such as:
 
@@ -179,7 +179,7 @@ With an automated workflow, you only need one command to trigger the entire comp
 
 ---
 
-## 8. Conclusion
+## Conclusion
 
 Compilation is the core of the LaTeX system — the process that transforms source code into a high-quality document.  
 Understanding how compilers work, the build sequence, and error handling will help you write scientific documents more efficiently and professionally.
