@@ -1,0 +1,78 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Label - Aan Triono</title>
+        <link>http://localhost:1313/id/tags/</link>
+        <description>Tags - Label - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>LaTeX</title>
+    <link>http://localhost:1313/id/tags/latex/</link>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/tags/latex/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Linux</title>
+    <link>http://localhost:1313/id/tags/linux/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/tags/linux/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Sistem Operasi</title>
+    <link>http://localhost:1313/id/tags/sistem-operasi/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/tags/sistem-operasi/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>MacTeX</title>
+    <link>http://localhost:1313/id/tags/mactex/</link>
+    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/tags/mactex/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>MikTeX</title>
+    <link>http://localhost:1313/id/tags/miktex/</link>
+    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/tags/miktex/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>TeXlive</title>
+    <link>http://localhost:1313/id/tags/texlive/</link>
+    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/tags/texlive/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>TeX</title>
+    <link>http://localhost:1313/id/tags/tex/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/tags/tex/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>KaTeX</title>
+    <link>http://localhost:1313/id/tags/katex/</link>
+    <pubDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/tags/katex/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>HTML</title>
+    <link>http://localhost:1313/id/tags/html/</link>
+    <pubDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Markdown</title>
+    <link>http://localhost:1313/id/tags/markdown/</link>
+    <pubDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Markdown - Label - Aan Triono</title>
+        <link>http://localhost:1313/id/tags/markdown/</link>
+        <description>Markdown - Label - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/id/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Sintaks Markdown Dasar</title>
+    <link>http://localhost:1313/id/sintaks-markdown-dasar/</link>
+    <pubDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/sintaks-markdown-dasar/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sintaks-markdown-dasar/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas contoh sintaks Markdown dasar yang dapat digunakan dalam file konten Hugo.</p>]]></description>
+</item></channel>
+</rss>

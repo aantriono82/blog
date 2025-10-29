@@ -1,0 +1,66 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LaTeX - Tag - Aan Triono</title>
+        <link>http://localhost:1313/tags/latex/</link>
+        <description>LaTeX - Tag - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/latex/" rel="self" type="application/rss+xml" /><item>
+    <title>Drawing Sharingan and Rinnegan Eyes with LaTeX</title>
+    <link>http://localhost:1313/menggambar-sharingan-dan-rinnegan-dengan-latex/</link>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/menggambar-sharingan-dan-rinnegan-dengan-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses how to draw sharingan and rinnegan eyes from <strong>Anime Series: Naruto Shippuden</strong> using LaTeX, with the main package used being Tikz package.</p>
+<hr>]]></description>
+</item><item>
+    <title>Understanding Packages in LaTeX</title>
+    <link>http://localhost:1313/mengenal-paket-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/mengenal-paket-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mengenal-paket-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the concepts, types, and functions of packages in LaTeX.</p>
+<hr>]]></description>
+</item><item>
+    <title>Text Formatting in LaTeX</title>
+    <link>http://localhost:1313/format-teks-di-latex/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/format-teks-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/format-teks-di-latex/Featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses text formatting commonly used in documents written with LaTeX.</p>
+<hr>]]></description>
+</item><item>
+    <title>LaTeX Document Structure</title>
+    <link>http://localhost:1313/struktur-dokumen-latex/</link>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/struktur-dokumen-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/struktur-dokumen-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses LaTeX document structure for letter, article, report, and book document classes.</p>
+<hr>]]></description>
+</item><item>
+    <title>History of TeX and LaTeX: Evolution of Digital Document Typesetting Systems</title>
+    <link>http://localhost:1313/sejarah-tex-dan-latex/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/sejarah-tex-dan-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the history of TeX and LaTeX, document typesetting systems by Knuth and Lamport, from their inception in 1978 to modern academic standards, focusing on development, features, and future prospects to date.</p>]]></description>
+</item><item>
+    <title>Writing Mathematical Expressions in Markdown</title>
+    <link>http://localhost:1313/menulis-ekspresi-matematika/</link>
+    <pubDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/menulis-ekspresi-matematika/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/menulis-ekspresi-matematika/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses writing mathematical expressions in Markdown using KaTeX.</p>]]></description>
+</item></channel>
+</rss>

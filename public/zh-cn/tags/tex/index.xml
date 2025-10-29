@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>TeX - 标签 - Aan Triono</title>
+        <link>http://localhost:1313/zh-cn/tags/tex/</link>
+        <description>TeX - 标签 - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><lastBuildDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/tex/" rel="self" type="application/rss+xml" /><item>
+    <title>TeX和LaTeX的历史：数字文档排版系统的演变</title>
+    <link>http://localhost:1313/zh-cn/sejarah-tex-dan-latex/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/sejarah-tex-dan-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文讨论Knuth和Lamport创建的文档排版系统TeX和LaTeX的历史，从1978年的开始到现代学术标准，重点关注发展、特性和未来前景。</p>]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Markdown - 分类 - Aan Triono</title>
+        <link>http://localhost:1313/zh-cn/categories/markdown/</link>
+        <description>Markdown - 分类 - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><lastBuildDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Markdown 基础语法</title>
+    <link>http://localhost:1313/zh-cn/sintaks-markdown-dasar/</link>
+    <pubDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</pubDate><author>
+        <name>安特里奥诺（Aan Triono）</name>
+    </author><guid>http://localhost:1313/zh-cn/sintaks-markdown-dasar/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sintaks-markdown-dasar/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文介绍了在 Hugo 内容文件中可使用的 Markdown 基本语法示例。</p>]]></description>
+</item></channel>
+</rss>

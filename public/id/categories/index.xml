@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Kategori - Aan Triono</title>
+        <link>http://localhost:1313/id/categories/</link>
+        <description>Categories - Kategori - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>LaTeX</title>
+    <link>http://localhost:1313/id/categories/latex/</link>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/categories/latex/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Linux</title>
+    <link>http://localhost:1313/id/categories/linux/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/categories/linux/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Markdown</title>
+    <link>http://localhost:1313/id/categories/markdown/</link>
+    <pubDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/categories/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

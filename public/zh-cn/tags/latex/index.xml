@@ -1,0 +1,65 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LaTeX - 标签 - Aan Triono</title>
+        <link>http://localhost:1313/zh-cn/tags/latex/</link>
+        <description>LaTeX - 标签 - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/latex/" rel="self" type="application/rss+xml" /><item>
+    <title>使用 LaTeX 绘制写轮眼与轮回眼</title>
+    <link>http://localhost:1313/zh-cn/menggambar-sharingan-dan-rinnegan-dengan-latex/</link>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/menggambar-sharingan-dan-rinnegan-dengan-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文讲述了如何使用 <strong>LaTeX</strong>（主要使用 TikZ 包）绘制《火影忍者疾风传》中最具代表性的两种眼睛——<strong>写轮眼（Sharingan）</strong> 和 <strong>轮回眼（Rinnegan）</strong>。</p>
+<hr>]]></description>
+</item><item>
+    <title>认识 LaTeX 中的宏包</title>
+    <link>http://localhost:1313/zh-cn/mengenal-paket-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/mengenal-paket-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mengenal-paket-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文讨论了 LaTeX 中宏包的概念、类型和功能。</p>]]></description>
+</item><item>
+    <title>LaTeX中的文本格式化</title>
+    <link>http://localhost:1313/zh-cn/format-teks-di-latex/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>安·特里奥诺 (Aan Triono)</name>
+    </author><guid>http://localhost:1313/zh-cn/format-teks-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/format-teks-di-latex/Featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文讨论在使用LaTeX编写文档时常用的文本格式化方法。</p>
+<hr>]]></description>
+</item><item>
+    <title>LaTeX文档结构</title>
+    <link>http://localhost:1313/zh-cn/struktur-dokumen-latex/</link>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/struktur-dokumen-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/struktur-dokumen-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文讨论信件、文章、报告和书籍文档类的LaTeX文档结构。</p>
+<hr>]]></description>
+</item><item>
+    <title>TeX和LaTeX的历史：数字文档排版系统的演变</title>
+    <link>http://localhost:1313/zh-cn/sejarah-tex-dan-latex/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/sejarah-tex-dan-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文讨论Knuth和Lamport创建的文档排版系统TeX和LaTeX的历史，从1978年的开始到现代学术标准，重点关注发展、特性和未来前景。</p>]]></description>
+</item><item>
+    <title>在 Markdown 中编写数学表达式</title>
+    <link>http://localhost:1313/zh-cn/menulis-ekspresi-matematika/</link>
+    <pubDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/menulis-ekspresi-matematika/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/menulis-ekspresi-matematika/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文介绍如何使用 <strong>KaTeX</strong> 在 Markdown 中编写数学表达式。</p>]]></description>
+</item></channel>
+</rss>

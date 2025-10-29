@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MiKTeX - Tag - Aan Triono</title>
+        <link>http://localhost:1313/tags/miktex/</link>
+        <description>MiKTeX - Tag - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/miktex/" rel="self" type="application/rss+xml" /><item>
+    <title>Installation Guide for MiKTeX, MacTeX, and TeX Live Across Operating Systems</title>
+    <link>http://localhost:1313/instal-miktex-mactex-texlive/</link>
+    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/instal-miktex-mactex-texlive/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses how to install various LaTeX engines used for creating documents across different operating systems.</p>]]></description>
+</item></channel>
+</rss>

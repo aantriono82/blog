@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - Aan Triono</title>
+        <link>http://localhost:1313/zh-cn/posts/</link>
+        <description>所有文章 | Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/posts/" rel="self" type="application/rss+xml" /></channel>
+</rss>

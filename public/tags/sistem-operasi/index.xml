@@ -1,0 +1,58 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Sistem Operasi - Tag - Aan Triono</title>
+        <link>http://localhost:1313/tags/sistem-operasi/</link>
+        <description>Sistem Operasi - Tag - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sistem-operasi/" rel="self" type="application/rss+xml" /><item>
+    <title>Panduan Teknis: Cara Mengompilasi Dokumen LaTeX Secara Lengkap dan Efisien</title>
+    <link>http://localhost:1313/kompilasi-dokumen-di-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/kompilasi-dokumen-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Kompilasi ini merupakan proses menerjemahkan perintah LaTeX menjadi dokumen siap cetak.<br>
+Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang tersedia, urutan proses, hingga penyelesaian error secara efisien.</p>
+<hr>]]></description>
+</item><item>
+    <title>Debian: Sistem Operasi Universal</title>
+    <link>http://localhost:1313/distro-linux-debian/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/distro-linux-debian/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/distro-linux-debian/Featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Debian adalah salah satu distribusi Linux tertua dan paling dihormati, dikenal karena stabilitas, keamanan, dan prinsip perangkat lunak bebasnya.<br>
+Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di bidang pengembangan perangkat lunak, serta kelebihan dan kekurangannya — secara mendalam namun tetap mudah dipahami.</p>
+<hr>]]></description>
+</item><item>
+    <title>Mengenal Ubuntu: Distribusi Linux Ramah Pengguna untuk Berbagai Kebutuhan</title>
+    <link>http://localhost:1313/lebih-dekat-dengan-ubuntu/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/lebih-dekat-dengan-ubuntu/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang distro linux yang populer, ramah pengguna, mudah digunakan untuk berbagai keperluan yaitu Ubuntu.</p>
+<hr>]]></description>
+</item><item>
+    <title>Sejarah Singkat GNU/Linux</title>
+    <link>http://localhost:1313/gnu-linux/</link>
+    <pubDate>Sun, 28 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/gnu-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang sejarah singkat sistem operasi GNU/Linux</p>]]></description>
+</item><item>
+    <title>Perbedaan BSD dan Linux</title>
+    <link>http://localhost:1313/bsd-linux/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/bsd-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/bsd-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang perbedaan sistem operasi BSD dan GNU/Linux</p>]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,37 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>操作系统 - 标签 - Aan Triono</title>
+        <link>http://localhost:1313/zh-cn/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+        <description>操作系统 - 标签 - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><lastBuildDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/" rel="self" type="application/rss+xml" /><item>
+    <title>Debian：通用操作系统</title>
+    <link>http://localhost:1313/zh-cn/distro-linux-debian/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/distro-linux-debian/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/distro-linux-debian/Featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Debian 是最古老、最受尊敬的 Linux 发行版之一，以其稳定性、安全性以及对自由软件原则的坚持而闻名。<br>
+本文将深入探讨 Debian 的历史、特点、变体、在软件开发中的应用，以及其优缺点，并以易于理解的方式呈现。</p>
+<hr>]]></description>
+</item><item>
+    <title>GNU/Linux简史</title>
+    <link>http://localhost:1313/zh-cn/gnu-linux/</link>
+    <pubDate>Sun, 28 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>安·特里奥诺 (Aan Triono)</name>
+    </author><guid>http://localhost:1313/zh-cn/gnu-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文介绍GNU/Linux操作系统的简要历史。</p>]]></description>
+</item><item>
+    <title>BSD 与 Linux 的区别</title>
+    <link>http://localhost:1313/zh-cn/bsd-linux/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/bsd-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/bsd-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文探讨 BSD 和 GNU/Linux 操作系统的区别。</p>]]></description>
+</item></channel>
+</rss>

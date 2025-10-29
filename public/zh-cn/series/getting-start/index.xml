@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>开始使用 DoIt - 系列 - Aan Triono</title>
+        <link>http://localhost:1313/zh-cn/series/getting-start/</link>
+        <description>开始使用 DoIt - 系列 - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><atom:link href="http://localhost:1313/zh-cn/series/getting-start/" rel="self" type="application/rss+xml" /></channel>
+</rss>

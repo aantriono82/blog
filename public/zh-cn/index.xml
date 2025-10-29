@@ -1,0 +1,122 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Aan Triono</title>
+        <link>http://localhost:1313/zh-cn/</link>
+        <description>Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>使用 LaTeX 绘制写轮眼与轮回眼</title>
+    <link>http://localhost:1313/zh-cn/menggambar-sharingan-dan-rinnegan-dengan-latex/</link>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/menggambar-sharingan-dan-rinnegan-dengan-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文讲述了如何使用 <strong>LaTeX</strong>（主要使用 TikZ 包）绘制《火影忍者疾风传》中最具代表性的两种眼睛——<strong>写轮眼（Sharingan）</strong> 和 <strong>轮回眼（Rinnegan）</strong>。</p>
+<hr>]]></description>
+</item><item>
+    <title>技術指南：完整且高效地編譯 LaTeX 文件的方法</title>
+    <link>http://localhost:1313/zh-cn/kompilasi-dokumen-di-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/kompilasi-dokumen-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>編譯（compilation）是將 LaTeX 命令轉換為可列印文件的過程。<br>
+本文介紹 LaTeX 的工作方式、可用的編譯器（compiler）類型、處理順序，以及如何高效地解決錯誤。</p>
+<hr>]]></description>
+</item><item>
+    <title>认识 LaTeX 中的宏包</title>
+    <link>http://localhost:1313/zh-cn/mengenal-paket-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/mengenal-paket-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mengenal-paket-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文讨论了 LaTeX 中宏包的概念、类型和功能。</p>]]></description>
+</item><item>
+    <title>Debian：通用操作系统</title>
+    <link>http://localhost:1313/zh-cn/distro-linux-debian/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/distro-linux-debian/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/distro-linux-debian/Featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Debian 是最古老、最受尊敬的 Linux 发行版之一，以其稳定性、安全性以及对自由软件原则的坚持而闻名。<br>
+本文将深入探讨 Debian 的历史、特点、变体、在软件开发中的应用，以及其优缺点，并以易于理解的方式呈现。</p>
+<hr>]]></description>
+</item><item>
+    <title>LaTeX中的文本格式化</title>
+    <link>http://localhost:1313/zh-cn/format-teks-di-latex/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>安·特里奥诺 (Aan Triono)</name>
+    </author><guid>http://localhost:1313/zh-cn/format-teks-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/format-teks-di-latex/Featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文讨论在使用LaTeX编写文档时常用的文本格式化方法。</p>
+<hr>]]></description>
+</item><item>
+    <title>LaTeX文档结构</title>
+    <link>http://localhost:1313/zh-cn/struktur-dokumen-latex/</link>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/struktur-dokumen-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/struktur-dokumen-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文讨论信件、文章、报告和书籍文档类的LaTeX文档结构。</p>
+<hr>]]></description>
+</item><item>
+    <title>在不同操作系统平台上安装 MiKTeX、MacTeX 和 TeX Live 的指南</title>
+    <link>http://localhost:1313/zh-cn/instal-miktex-mactex-texlive/</link>
+    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>安·特里奥诺 (Aan Triono)</name>
+    </author><guid>http://localhost:1313/zh-cn/instal-miktex-mactex-texlive/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文介绍如何在不同操作系统上安装各种 LaTeX 发行版，包括 MiKTeX、MacTeX 和 TeX Live。</p>]]></description>
+</item><item>
+    <title>TeX和LaTeX的历史：数字文档排版系统的演变</title>
+    <link>http://localhost:1313/zh-cn/sejarah-tex-dan-latex/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/sejarah-tex-dan-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文讨论Knuth和Lamport创建的文档排版系统TeX和LaTeX的历史，从1978年的开始到现代学术标准，重点关注发展、特性和未来前景。</p>]]></description>
+</item><item>
+    <title>認識 Ubuntu：適合各種需求的友善使用者 Linux 發行版</title>
+    <link>http://localhost:1313/zh-cn/lebih-dekat-dengan-ubuntu/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/lebih-dekat-dengan-ubuntu/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文介紹一款廣受歡迎、對使用者友善、容易上手並適合各種用途的 Linux 發行版——Ubuntu。</p>
+<hr>
+<h2 id="前言" class="headerLink">
+    <a href="#%e5%89%8d%e8%a8%80" class="header-mark"></a>1 前言</h2><p>在付費作業系統（operating system）主導的時代，Ubuntu 以「自由、安全與高效率」為理念，提供無須授權費的替代方案。作為全球最受歡迎的 Linux 發行版之一，Ubuntu 已證明其對初學者及專業 IT 人員而言，皆是穩定且易用的系統選擇。</p>
+<h2 id="什麼是-ubuntu" class="headerLink">
+    <a href="#%e4%bb%80%e9%ba%bc%e6%98%af-ubuntu" class="header-mark"></a>2 什麼是 Ubuntu？</h2><p>Ubuntu 是一個基於 Linux 的作業系統，由 Canonical Ltd. 公司開發，該公司由南非企業家 Mark Shuttleworth 創立。「Ubuntu」這個名稱源自非洲哲學，意為「人性與共」或「我之存在，因為我們同在」，象徵著社群精神與分享的核心理念。</p>
+<p>此系統建立於 Debian 發行版之上，Debian 是歷史最悠久且最穩定的 Linux 系統之一。Ubuntu 以 Debian 為基礎，並重新包裝成更易於使用的介面，使初學者能輕鬆進入 Linux 世界。</p>
+<h2 id="ubuntu-的主要特點" class="headerLink">
+    <a href="#ubuntu-%e7%9a%84%e4%b8%bb%e8%a6%81%e7%89%b9%e9%bb%9e" class="header-mark"></a>3 Ubuntu 的主要特點</h2><h3 id="1-開源與免費open-source--free" class="headerLink">
+    <a href="#1-%e9%96%8b%e6%ba%90%e8%88%87%e5%85%8d%e8%b2%bbopen-source--free" class="header-mark"></a>3.1 1. 開源與免費（Open Source &amp; Free）</h3><p>與商業作業系統不同，Ubuntu 完全免費下載、使用與散佈。其開放原始碼（open source）特性讓任何人都能檢視、修改與改進程式碼，這不僅關乎價格，更體現了技術自由與透明性。</p>
+<h3 id="2-強大的安全性security" class="headerLink">
+    <a href="#2-%e5%bc%b7%e5%a4%a7%e7%9a%84%e5%ae%89%e5%85%a8%e6%80%a7security" class="header-mark"></a>3.2 2. 強大的安全性（Security）</h3><p>Ubuntu 將安全視為首要考量。系統內建防火牆（firewall）、資料加密（encryption）與自動安全更新。基於 Linux 架構的設計，Ubuntu 對病毒與惡意軟體的防護力遠高於其他系統。</p>
+<h3 id="3-穩定與高效能stability--performance" class="headerLink">
+    <a href="#3-%e7%a9%a9%e5%ae%9a%e8%88%87%e9%ab%98%e6%95%88%e8%83%bdstability--performance" class="header-mark"></a>3.3 3. 穩定與高效能（Stability &amp; Performance）</h3><p>Ubuntu 提供長期支援版本（LTS, Long-Term Support），可獲得長達 5 年的更新與安全修補，非常適合企業環境或追求穩定的使用者。</p>
+<h3 id="4-直覺化的使用者介面user-interface" class="headerLink">
+    <a href="#4-%e7%9b%b4%e8%a6%ba%e5%8c%96%e7%9a%84%e4%bd%bf%e7%94%a8%e8%80%85%e4%bb%8b%e9%9d%a2user-interface" class="header-mark"></a>3.4 4. 直覺化的使用者介面（User Interface）</h3><p><img class="tw-inline" loading="lazy" src='/lebih-dekat-dengan-ubuntu/ubuntu.png' srcset="/lebih-dekat-dengan-ubuntu/ubuntu_hu_3af88414f881c955.webp 800w, /lebih-dekat-dengan-ubuntu/ubuntu_hu_f0558fa506d5fe9d.webp 1200w, /lebih-dekat-dengan-ubuntu/ubuntu_hu_13415c582040f4dd.webp 1600w"  alt="Ubuntu Desktop GNOME" height="768" width="1366"></p>]]></description>
+</item><item>
+    <title>为什么选择 Linux</title>
+    <link>http://localhost:1313/zh-cn/mengapa-memilih-linux/</link>
+    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/zh-cn/mengapa-memilih-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>本文探讨了从 Windows 迁移到 Linux 的理由。</p>]]></description>
+</item></channel>
+</rss>
