@@ -14,15 +14,6 @@
                 <img src="/bsd-linux/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses the differences between BSD and GNU/Linux operating systems.</p>]]></description>
 </item><item>
-    <title>A Brief History of GNU/Linux</title>
-    <link>http://localhost:1313/gnu-linux/</link>
-    <pubDate>Sun, 28 Sep 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/gnu-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the brief history of the GNU/Linux operating system</p>]]></description>
-</item><item>
     <title>Basic Markdown Syntax</title>
     <link>http://localhost:1313/sintaks-markdown-dasar/</link>
     <pubDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</pubDate><author>
@@ -50,15 +41,6 @@
                 <img src="/lingkungan-desktop-linux/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses the <strong>desktop environments</strong> used across different Linux distributions.</p>]]></description>
 </item><item>
-    <title>Why Choose Linux</title>
-    <link>http://localhost:1313/mengapa-memilih-linux/</link>
-    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/mengapa-memilih-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the reasons for migrating from Windows to Linux.</p>]]></description>
-</item><item>
     <title>History of TeX and LaTeX: Evolution of Digital Document Typesetting Systems</title>
     <link>http://localhost:1313/sejarah-tex-dan-latex/</link>
     <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -77,15 +59,6 @@
                 <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article introduces <strong>Ubuntu</strong>, a popular, user-friendly Linux distribution designed for diverse use cases — from personal computing to professional development.</p>
 <hr>]]></description>
-</item><item>
-    <title>Installation Guide for MiKTeX, MacTeX, and TeX Live Across Operating Systems</title>
-    <link>http://localhost:1313/instal-miktex-mactex-texlive/</link>
-    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/instal-miktex-mactex-texlive/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses how to install various LaTeX engines used for creating documents across different operating systems.</p>]]></description>
 </item><item>
     <title>LaTeX Document Structure</title>
     <link>http://localhost:1313/struktur-dokumen-latex/</link>
@@ -107,6 +80,44 @@
             </div><p>This article discusses text formatting commonly used in documents written with LaTeX.</p>
 <hr>]]></description>
 </item><item>
+    <title>Technical Guide: How to Compile LaTeX Documents Completely and Efficiently</title>
+    <link>http://localhost:1313/kompilasi-dokumen-di-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/kompilasi-dokumen-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Compilation is the process of translating LaTeX commands into a ready-to-print document.<br>
+This article discusses how LaTeX compilation works, types of compilers available, the compilation sequence, and how to resolve errors efficiently.</p>
+<hr>]]></description>
+</item><item>
+    <title>A Brief History of GNU/Linux</title>
+    <link>http://localhost:1313/gnu-linux/</link>
+    <pubDate>Sun, 28 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/gnu-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the brief history of the GNU/Linux operating system</p>]]></description>
+</item><item>
+    <title>Why Choose Linux</title>
+    <link>http://localhost:1313/mengapa-memilih-linux/</link>
+    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/mengapa-memilih-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the reasons for migrating from Windows to Linux.</p>]]></description>
+</item><item>
+    <title>Installation Guide for MiKTeX, MacTeX, and TeX Live Across Operating Systems</title>
+    <link>http://localhost:1313/instal-miktex-mactex-texlive/</link>
+    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/instal-miktex-mactex-texlive/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses how to install various LaTeX engines used for creating documents across different operating systems.</p>]]></description>
+</item><item>
     <title>Debian: The Universal Operating System</title>
     <link>http://localhost:1313/distro-linux-debian/</link>
     <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -126,17 +137,6 @@ In this article, we will discuss its history, characteristics, variants, use in 
     <description><![CDATA[<div class="featured-image">
                 <img src="/mengenal-paket-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses the concepts, types, and functions of packages in LaTeX.</p>
-<hr>]]></description>
-</item><item>
-    <title>Technical Guide: How to Compile LaTeX Documents Completely and Efficiently</title>
-    <link>http://localhost:1313/kompilasi-dokumen-di-latex/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/kompilasi-dokumen-di-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Compilation is the process of translating LaTeX commands into a ready-to-print document.<br>
-This article discusses how LaTeX compilation works, types of compilers available, the compilation sequence, and how to resolve errors efficiently.</p>
 <hr>]]></description>
 </item><item>
     <title>Drawing Sharingan and Rinnegan Eyes with LaTeX</title>
