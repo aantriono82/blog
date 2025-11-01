@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 4
 title: "The Circle Illusion: Between Geometry and Visual Perception"
 date: 2025-10-31
 lastmod: 2025-10-31

@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 3
 title: "Ilusi Lingkaran: Fenomena Persepsi Ukuran di Sekitar Lingkaran Tengah"
 date: 2025-10-31
 lastmod: 2025-10-31

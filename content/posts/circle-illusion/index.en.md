@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 3
 title: "Circle Illusion: The Perceptual Phenomenon of Size Around a Central Circle"
 date: 2025-10-31
 lastmod: 2025-10-31

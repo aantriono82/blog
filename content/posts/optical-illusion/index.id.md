@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 4
 title: "Ilusi Lingkaran: Antara Geometri dan Persepsi Visual"
 date: 2025-10-31
 lastmod: 2025-10-31
