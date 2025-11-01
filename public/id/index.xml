@@ -4,7 +4,7 @@
         <link>http://localhost:1313/id/</link>
         <description>Belajar dan Berkarya</description>
         <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="http://localhost:1313/id/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Menggambar Mata Sharingan dan Rinnegan dengan LaTeX</title>
@@ -15,6 +15,16 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di <strong>Serial Anime: Naruto Shippuden</strong> menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.</p>
+<hr>]]></description>
+</item><item>
+    <title>Ilusi Lingkaran: Antara Geometri dan Persepsi Visual</title>
+    <link>http://localhost:1313/id/optical-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/optical-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas bagaimana sebuah <strong>susunan persegi</strong> dapat membentuk kesan lingkaran berputar menggunakan <strong>LaTeX dan TikZ</strong>. Kita akan mempelajari struktur kodenya, prinsip visual yang mendasari ilusi ini, serta maknanya dalam konteks persepsi dan seni visual.</p>
 <hr>]]></description>
 </item><item>
     <title>Mengenal Paket di LaTeX</title>
@@ -96,14 +106,5 @@ Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di
     <description><![CDATA[<div class="featured-image">
                 <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas sejarah TeX dan LaTeX, sistem penyusunan dokumen oleh Knuth dan Lamport, dari awal pada 1978 hingga standar akademik modern, dengan fokus pada perkembangan, fitur, dan prospek masa depan hingga saat ini.</p>]]></description>
-</item><item>
-    <title>Mengapa Memilih Linux</title>
-    <link>http://localhost:1313/id/mengapa-memilih-linux/</link>
-    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/mengapa-memilih-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang alasan migrasi dari Windows ke Linux.</p>]]></description>
 </item></channel>
 </rss>

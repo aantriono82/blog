@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 3
 title: "Ilusi Lingkaran: Antara Geometri dan Persepsi Visual"
 date: 2025-10-31
 lastmod: 2025-10-31
@@ -10,15 +10,20 @@ description: "Artikel ini membahas tentang ilusi lingkaran yang dibentuk dari su
 tags: ["LaTeX", "TikZ", "Ilusi Optik"]
 categories: ["LaTeX"]
 featuredImage: "featured-image.png"
+lightgallery: true
+twemoji: true
 ---
 
-# Ilusi Lingkaran: Antara Geometri dan Persepsi Visual
+Artikel ini membahas bagaimana sebuah **susunan persegi** dapat membentuk kesan lingkaran berputar menggunakan **LaTeX dan TikZ**. Kita akan mempelajari struktur kodenya, prinsip visual yang mendasari ilusi ini, serta maknanya dalam konteks persepsi dan seni visual.
+
+---
+
+<!--more-->
+
 
 ## Pendahuluan
 
 Dalam dunia persepsi visual, **ilusi optik** menjadi salah satu topik yang menarik untuk diteliti karena menunjukkan bagaimana otak manusia menafsirkan informasi visual. Salah satu bentuk ilusi tersebut adalah **ilusi lingkaran**, di mana pola-pola geometris sederhana dapat menciptakan kesan gerak atau bentuk yang tidak benar-benar ada.
-
-Artikel ini membahas bagaimana sebuah **susunan persegi** dapat membentuk kesan lingkaran berputar menggunakan **LaTeX dan TikZ**. Kita akan mempelajari struktur kodenya, prinsip visual yang mendasari ilusi ini, serta maknanya dalam konteks persepsi dan seni visual.
 
 ---
 
@@ -63,7 +68,7 @@ Kelas dokumen `standalone` digunakan untuk membuat satu gambar saja tanpa margin
 
 ---
 
-### 2. **Pemanggilan Paket TikZ**
+### **Pemanggilan Paket TikZ**
 ```latex
 \usepackage{tikz}
 ```
@@ -71,7 +76,7 @@ TikZ (singkatan dari *"TikZ ist kein Zeichenprogramm"*) adalah pustaka LaTeX unt
 
 ---
 
-### 3. **Lingkungan Gambar TikZ**
+### **Lingkungan Gambar TikZ**
 ```latex
 \begin{tikzpicture}
   ...
@@ -81,7 +86,7 @@ Semua perintah gambar TikZ ditempatkan dalam lingkungan `tikzpicture`. Di dalam 
 
 ---
 
-### 4. **Latar Belakang**
+### **Latar Belakang**
 ```latex
 \fill[color=black!40!white] (-6,-6) rectangle (6,6);
 ```
@@ -93,7 +98,7 @@ Hasilnya adalah **latar belakang abu-abu** yang memberikan kontras terhadap pers
 
 ---
 
-### 5. **Perulangan Lapisan (Loop Utama)**
+### **Perulangan Lapisan (Loop Utama)**
 ```latex
 \foreach \n/\r/\twist in {70/5/12,56/4/-12,42/3/12,28/2/-12}{
   ...
@@ -109,7 +114,7 @@ Nilai `12` dan `-12` pada parameter `\twist` bergantian menciptakan pola seolah 
 
 ---
 
-### 6. **Persegi Putih**
+### **Persegi Putih**
 ```latex
 \foreach \m in {1,3,...,\n}
   \draw [thick,color=white,shift={(360/\n*\m:\r)},rotate=\twist+360/\n*\m]
@@ -126,7 +131,7 @@ Dengan `thick` sebagai ketebalan garis, persegi tampak jelas di atas latar abu-a
 
 ---
 
-### 7. **Persegi Hitam**
+### **Persegi Hitam**
 ```latex
 \foreach \m in {2,4,...,\n}
   \draw [thick,color=black,shift={(360/\n*\m:\r)},rotate=\twist+360/\n*\m]
@@ -137,7 +142,7 @@ Artinya, persegi hitam ditempatkan di antara persegi putih, menciptakan pola **k
 
 ---
 
-### 8. **Akhir Lingkungan dan Dokumen**
+### **Akhir Lingkungan dan Dokumen**
 ```latex
 \end{tikzpicture}
 \end{document}

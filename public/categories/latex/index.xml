@@ -4,7 +4,7 @@
         <link>http://localhost:1313/categories/latex/</link>
         <description>LaTeX - Category - Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/latex/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/latex/" rel="self" type="application/rss+xml" /><item>
     <title>Drawing Sharingan and Rinnegan Eyes with LaTeX</title>
     <link>http://localhost:1313/menggambar-sharingan-dan-rinnegan-dengan-latex/</link>
     <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -13,6 +13,16 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses how to draw sharingan and rinnegan eyes from <strong>Anime Series: Naruto Shippuden</strong> using LaTeX, with the main package used being Tikz package.</p>
+<hr>]]></description>
+</item><item>
+    <title>The Circle Illusion: Between Geometry and Visual Perception</title>
+    <link>http://localhost:1313/optical-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/optical-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article explores how an <strong>arrangement of squares</strong> can form a rotating circular illusion using <strong>LaTeX and TikZ</strong>. We will examine the structure of the code, the visual principles behind the illusion, and its significance in perception and visual art.</p>
 <hr>]]></description>
 </item><item>
     <title>Understanding Packages in LaTeX</title>

@@ -4,7 +4,7 @@
         <link>http://localhost:1313/</link>
         <description>Learn and Create</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Drawing Sharingan and Rinnegan Eyes with LaTeX</title>
@@ -15,6 +15,16 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses how to draw sharingan and rinnegan eyes from <strong>Anime Series: Naruto Shippuden</strong> using LaTeX, with the main package used being Tikz package.</p>
+<hr>]]></description>
+</item><item>
+    <title>The Circle Illusion: Between Geometry and Visual Perception</title>
+    <link>http://localhost:1313/optical-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/optical-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article explores how an <strong>arrangement of squares</strong> can form a rotating circular illusion using <strong>LaTeX and TikZ</strong>. We will examine the structure of the code, the visual principles behind the illusion, and its significance in perception and visual art.</p>
 <hr>]]></description>
 </item><item>
     <title>Technical Guide: How to Compile LaTeX Documents Completely and Efficiently</title>
@@ -96,14 +106,5 @@ In this article, we will discuss its history, characteristics, variants, use in 
     <description><![CDATA[<div class="featured-image">
                 <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses the history of TeX and LaTeX, document typesetting systems by Knuth and Lamport, from their inception in 1978 to modern academic standards, focusing on development, features, and future prospects to date.</p>]]></description>
-</item><item>
-    <title>Why Choose Linux</title>
-    <link>http://localhost:1313/mengapa-memilih-linux/</link>
-    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/mengapa-memilih-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the reasons for migrating from Windows to Linux.</p>]]></description>
 </item></channel>
 </rss>

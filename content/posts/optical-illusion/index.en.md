@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 3
 title: "The Circle Illusion: Between Geometry and Visual Perception"
 date: 2025-10-31
 lastmod: 2025-10-31
@@ -10,9 +10,14 @@ description: "This article discusses the circle illusion formed from square arra
 tags: ["LaTeX", "TikZ", "Optical Illusion"]
 categories: ["LaTeX"]
 featuredImage: "featured-image.png"
+lightgallery: true
+twemoji: true
+---
+This article explores how an **arrangement of squares** can form a rotating circular illusion using **LaTeX and TikZ**. We will examine the structure of the code, the visual principles behind the illusion, and its significance in perception and visual art.
+
 ---
 
-# The Circle Illusion: Between Geometry and Visual Perception
+<!--more-->
 
 ## Introduction
 
@@ -55,7 +60,7 @@ the output produced:
 
 This section explains each component of the code so you can understand how the pattern is constructed step by step.
 
-### 1. **Document Class**
+### **Document Class**
 ```latex
 \documentclass{standalone}
 ```
@@ -63,7 +68,7 @@ The `standalone` class allows you to compile only the figure without page margin
 
 ---
 
-### 2. **Loading the TikZ Package**
+### **Loading the TikZ Package**
 ```latex
 \usepackage{tikz}
 ```
@@ -71,7 +76,7 @@ TikZ (short for *"TikZ ist kein Zeichenprogramm"*) is a LaTeX library for vector
 
 ---
 
-### 3. **TikZ Picture Environment**
+### **TikZ Picture Environment**
 ```latex
 \begin{tikzpicture}
   ...
@@ -81,7 +86,7 @@ All TikZ drawing commands are placed inside this environment. Within this block,
 
 ---
 
-### 4. **Background**
+### **Background**
 ```latex
 \fill[color=black!40!white] (-6,-6) rectangle (6,6);
 ```
@@ -93,7 +98,7 @@ This gray background enhances contrast between black and white squares.
 
 ---
 
-### 5. **Main Loop for Circular Layers**
+### **Main Loop for Circular Layers**
 ```latex
 \foreach \n/\r/\twist in {70/5/12,56/4/-12,42/3/12,28/2/-12}{
   ...
@@ -108,7 +113,7 @@ With four combinations, we get **four concentric circular layers**, each with a 
 
 ---
 
-### 6. **White Squares**
+### **White Squares**
 ```latex
 \foreach \m in {1,3,...,\n}
   \draw [thick,color=white,shift={(360/\n*\m:\r)},rotate=\twist+360/\n*\m]
@@ -123,7 +128,7 @@ Explanation:
 
 ---
 
-### 7. **Black Squares**
+### **Black Squares**
 ```latex
 \foreach \m in {2,4,...,\n}
   \draw [thick,color=black,shift={(360/\n*\m:\r)},rotate=\twist+360/\n*\m]
@@ -133,7 +138,7 @@ This loop draws **black squares** in even positions, alternating with the white 
 
 ---
 
-### 8. **Closing the Environment**
+### **Closing the Environment**
 ```latex
 \end{tikzpicture}
 \end{document}

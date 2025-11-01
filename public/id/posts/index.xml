@@ -4,14 +4,24 @@
         <link>http://localhost:1313/id/posts/</link>
         <description>Semua Pos | Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Ilusi Lingkaran: Antara Geometri dan Persepsi Visual</title>
+    <link>http://localhost:1313/id/optical-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/optical-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas bagaimana sebuah <strong>susunan persegi</strong> dapat membentuk kesan lingkaran berputar menggunakan <strong>LaTeX dan TikZ</strong>. Kita akan mempelajari struktur kodenya, prinsip visual yang mendasari ilusi ini, serta maknanya dalam konteks persepsi dan seni visual.</p>
+<hr>]]></description>
+</item><item>
     <title>Perbedaan BSD dan Linux</title>
-    <link>http://localhost:1313/id/bsd-linux/</link>
+    <link>http://localhost:1313/id/perbedaan-bsd-dan-linux/</link>
     <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/bsd-linux/</guid>
+    </author><guid>http://localhost:1313/id/perbedaan-bsd-dan-linux/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/bsd-linux/featured-image.png" referrerpolicy="no-referrer">
+                <img src="/perbedaan-bsd-dan-linux/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas tentang perbedaan sistem operasi BSD dan GNU/Linux</p>]]></description>
 </item><item>
     <title>Sintaks Markdown Dasar</title>
