@@ -10,7 +10,7 @@ description: "This article discusses LaTeX document structure for letter, articl
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX"]
+tags: ["Structure"]
 categories: ["LaTeX"]
 
 lightgallery: true

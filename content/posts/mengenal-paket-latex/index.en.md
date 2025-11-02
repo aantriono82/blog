@@ -10,7 +10,7 @@ description: "This article discusses the concepts, types, and functions of packa
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX"]
+tags: ["Packages"]
 categories: ["LaTeX"]
 
 lightgallery: true

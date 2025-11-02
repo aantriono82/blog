@@ -10,7 +10,7 @@ description: "Artikel ini membahas tentang perbedaan sistem operasi BSD dan GNU/
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Sistem Operasi", "Linux"]
+tags: ["BSD"]
 categories: ["Linux"]
 
 lightgallery: true

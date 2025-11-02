@@ -10,7 +10,7 @@ description: "This article discusses the popular Linux distribution, Debian"
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Operating System", "Linux"]
+tags: [ "Debian"]
 categories: ["Linux"]
 
 lightgallery: true

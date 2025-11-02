@@ -10,7 +10,7 @@ description: "Artikel ini membahas tentang sejarah singkat sistem operasi GNU/Li
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Sistem Operasi", "Linux"]
+tags: ["Gnu"]
 categories: ["Linux"]
 
 lightgallery: true

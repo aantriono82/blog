@@ -10,7 +10,7 @@ description: "This article discusses the brief history of the GNU/Linux operatin
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Operating System", "Linux"]
+tags: ["Gnu"]
 categories: ["Linux"]
 
 lightgallery: true

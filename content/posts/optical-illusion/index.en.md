@@ -7,7 +7,7 @@ draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
 description: "This article discusses the circle illusion formed from square arrangements using TikZ in LaTeX, along with the scientific explanation behind the visual perception phenomenon."
-tags: ["LaTeX", "Optical Illusion"]
+tags: ["Optical Illusion"]
 categories: ["LaTeX"]
 featuredImage: "featured-image.png"
 lightgallery: true

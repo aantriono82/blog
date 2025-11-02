@@ -10,7 +10,7 @@ description: "Artikel ini membahas tentang cara menggambar mata sharingan dan ri
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX"]
+tags: ["Tikz"]
 categories: ["LaTeX"]
 
 lightgallery: true

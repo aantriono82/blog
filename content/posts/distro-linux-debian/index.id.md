@@ -10,7 +10,7 @@ description: "Artikel ini membahas tentang distribusi Linux yang populer yaitu D
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Sistem Operasi" , "Linux"]
+tags: ["Debian"]
 categories: ["Linux"]
 
 lightgallery: true

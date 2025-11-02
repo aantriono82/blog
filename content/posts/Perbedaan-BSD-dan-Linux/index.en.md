@@ -10,7 +10,7 @@ description: "This article discusses the differences between BSD and GNU/Linux o
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Operating Systems", "Linux"]
+tags: ["BSD"]
 categories: ["Linux"]
 
 lightgallery: true

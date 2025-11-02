@@ -10,7 +10,7 @@ description: "Artikel ini membahas tentang pemformatan teks yang biasanya dilaku
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX"]
+tags: ["Format"]
 categories: ["LaTeX"]
 
 lightgallery: true

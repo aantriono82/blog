@@ -10,7 +10,7 @@ description: "This article discusses writing mathematical expressions in Markdow
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX", "KaTeX"]
+tags: ["KaTeX"]
 categories: ["LaTeX"]
 
 lightgallery: true

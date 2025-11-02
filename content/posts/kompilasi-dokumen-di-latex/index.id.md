@@ -10,8 +10,8 @@ description: "Artikel ini membahas cara kerja kompilasi LaTeX, jenis *compiler* 
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Sistem Operasi" , "Linux"]
-categories: ["Linux"]
+tags: ["Kompilasi"]
+categories: ["LaTeX"]
 
 lightgallery: true
 twemoji: true

@@ -11,7 +11,7 @@ images: []
 resources:
 featuredImage: "featured-image.png"
 
-tags: ["MiKTeX", "MacTeX", "TeX Live"]
+tags: ["TeX Live"]
 categories: ["LaTeX"]
 
 lightgallery: true

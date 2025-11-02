@@ -11,7 +11,7 @@ description: "Artikel ini membahas sejarah TeX dan LaTeX, sistem penyusunan doku
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["TeX", "LaTeX"]
+tags: ["TeX"]
 categories: ["LaTeX"]
 
 lightgallery: true

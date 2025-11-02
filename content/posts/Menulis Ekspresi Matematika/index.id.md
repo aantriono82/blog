@@ -10,7 +10,7 @@ description: "Artikel ini membahas tentang penulisan ekspresi matematika di mark
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX", "KaTeX"]
+tags: ["KaTeX"]
 categories: ["LaTeX"]
 
 lightgallery: true

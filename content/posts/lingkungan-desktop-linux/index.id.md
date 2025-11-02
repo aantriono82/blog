@@ -11,7 +11,7 @@ description: "Artikel ini membahas tentang lingkungan desktop (desktop environme
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Linux"]
+tags: ["Lingkungan Desktop"]
 categories: ["Linux"]
 
 lightgallery: true

@@ -10,7 +10,7 @@ description: "This article discusses Ubuntu — a popular and user-friendly Linu
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Operating System", "Linux"]
+tags: ["Ubuntu"]
 categories: ["Linux"]
 
 lightgallery: true

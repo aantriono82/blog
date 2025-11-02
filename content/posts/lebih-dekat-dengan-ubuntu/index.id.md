@@ -11,7 +11,7 @@ description: "Artikel ini membahas tentang distro linux yang populer, ramah peng
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Sistem Operasi", "Linux"]
+tags: ["Ubuntu"]
 categories: ["Linux"]
 
 lightgallery: true

@@ -10,7 +10,7 @@ description: "This article discusses the desktop environments used across variou
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Linux"]
+tags: ["Desktop Environtment"]
 categories: ["Linux"]
 
 lightgallery: true

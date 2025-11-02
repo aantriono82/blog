@@ -11,7 +11,7 @@ images: []
 resources:
 featuredImage: "featured-image.png"
 
-tags: ["Markdown", "HTML"]
+tags: ["Markdown"]
 categories: ["Markdown"]
 
 math:

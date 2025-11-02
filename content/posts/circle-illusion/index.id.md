@@ -7,7 +7,7 @@ draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
 description: "Artikel ini membahas ilusi lingkaran, di mana dua lingkaran pusat yang identik tampak berbeda ukuran karena konteks visual di sekitarnya. Dibuat menggunakan LaTeX TikZ, artikel ini memberikan penjelasan lengkap mengenai struktur kode dan konsep persepsi di baliknya."
-tags: ["LaTeX", "Ilusi Optik"]
+tags: ["Ilusi Optik"]
 categories: ["LaTeX"]
 featuredImage: "featured-image.png"
 ---

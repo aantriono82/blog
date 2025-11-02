@@ -10,8 +10,8 @@ description: "This article explains how LaTeX compilation works, the available c
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["Operating System", "Linux"]
-categories: ["Linux"]
+tags: ["Compile"]
+categories: ["LaTeX"]
 
 lightgallery: true
 twemoji: true

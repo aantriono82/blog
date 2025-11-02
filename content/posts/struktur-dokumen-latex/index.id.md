@@ -10,7 +10,7 @@ description: "Artikel ini membahas tentang struktur dokumen LaTeX baik pada kela
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX"]
+tags: ["Struktur"]
 categories: ["LaTeX"]
 
 lightgallery: true

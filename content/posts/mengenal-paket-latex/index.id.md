@@ -10,7 +10,7 @@ description: "Artikel ini membahas tentang konsep, jenis dan fungsi paket yang a
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX"]
+tags: ["Paket"]
 categories: ["LaTeX"]
 
 lightgallery: true

@@ -10,7 +10,7 @@ description: "This article discusses the history of TeX and LaTeX, document type
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["TeX", "LaTeX"]
+tags: ["TeX"]
 categories: ["LaTeX"]
 
 lightgallery: true

@@ -10,7 +10,7 @@ description: "This article discusses text formatting commonly used in documents 
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX"]
+tags: ["Formatting"]
 categories: ["LaTeX"]
 
 lightgallery: true

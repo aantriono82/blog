@@ -10,7 +10,7 @@ description: "This article discusses how to draw sharingan and rinnegan eyes fro
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX"]
+tags: ["Tikz"]
 categories: ["LaTeX"]
 
 lightgallery: true
