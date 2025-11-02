@@ -39,7 +39,7 @@ The following image is generated using **TikZ**, a powerful LaTeX graphics libra
 ```
 
 ---
-the output produced:
+The output produced:
 
 ![ilusi](ilusi.png " Circle or Spiral ")
 

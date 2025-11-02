@@ -284,7 +284,7 @@
 This article discusses how LaTeX compilation works, types of compilers available, the compilation sequence, and how to resolve errors efficiently.</p>
 <hr>
 <h2 id="introduction" class="headerLink">
-    <a href="#introduction" class="header-mark"></a>1 Introduction</h2><p>LaTeX is a document preparation system that produces high-quality output, especially for scientific and technical text.<br>
+    <a href="#introduction" class="header-mark"></a>64 Introduction</h2><p>LaTeX is a document preparation system that produces high-quality output, especially for scientific and technical text.<br>
 Unlike conventional word processors, a LaTeX document <strong>must be compiled</strong> before a <code>.tex</code> file can be converted into the final format such as <code>.pdf</code>, <code>.dvi</code>, or <code>.ps</code>.</p>
 <div class="details admonition note open">
     <div class="details-summary admonition-title">
@@ -296,7 +296,7 @@ Unlike conventional word processors, a LaTeX document <strong>must be compiled</
         <div class="admonition-content"><strong>Note:</strong> This article was generated with the help of AI technology and has been manually reviewed to ensure accuracy and clarity.</div></div></div>
 <hr>
 <h2 id="what-is-latex-compilation" class="headerLink">
-    <a href="#what-is-latex-compilation" class="header-mark"></a>2 What is LaTeX Compilation?</h2><p>LaTeX compilation is the process performed by a <em>compiler</em> to read the source file (usually with the <code>.tex</code> extension), interpret the commands inside (<code>\section{}</code>, <code>\usepackage{}</code>, etc.), and produce an output file such as <code>.pdf</code>.</p>
+    <a href="#what-is-latex-compilation" class="header-mark"></a>65 What is LaTeX Compilation?</h2><p>LaTeX compilation is the process performed by a <em>compiler</em> to read the source file (usually with the <code>.tex</code> extension), interpret the commands inside (<code>\section{}</code>, <code>\usepackage{}</code>, etc.), and produce an output file such as <code>.pdf</code>.</p>
 <p>In short:</p>
 <div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
@@ -373,7 +373,7 @@ Unlike conventional word processors, a LaTeX document <strong>must be compiled</
     </div>
   </div>
   <pre style="counter-reset: codeblock;" class="tw-block tw-m-0 tw-p-0"><code 
-    id="codeblock-id-1" 
+    id="codeblock-id-36" 
     class="
       chroma 
       !tw-block 
@@ -392,7 +392,7 @@ Unlike conventional word processors, a LaTeX document <strong>must be compiled</
 <p>This process differs from a typical <em>word processor</em> like Microsoft Word because LaTeX separates <strong>content writing</strong> from <strong>output rendering</strong>.</p>
 <hr>
 <h2 id="types-of-latex-compilers" class="headerLink">
-    <a href="#types-of-latex-compilers" class="header-mark"></a>3 Types of LaTeX Compilers</h2><p>Here are some commonly used LaTeX compilers:</p>
+    <a href="#types-of-latex-compilers" class="header-mark"></a>66 Types of LaTeX Compilers</h2><p>Here are some commonly used LaTeX compilers:</p>
 
 <div class="table-wrapper">
   <table>
@@ -436,7 +436,7 @@ Unlike conventional word processors, a LaTeX document <strong>must be compiled</
   <p>💡 <strong>Recommendation:</strong> Use <code>pdfLaTeX</code> for standard documents, <code>XeLaTeX</code> for non-Latin languages (e.g., Indonesian, Japanese, Arabic), and <code>LuaLaTeX</code> for projects involving advanced graphics or scripting.</p>
 </blockquote><hr>
 <h2 id="the-compilation-process" class="headerLink">
-    <a href="#the-compilation-process" class="header-mark"></a>4 The Compilation Process</h2><p>When compiling, LaTeX goes through several stages:</p>
+    <a href="#the-compilation-process" class="header-mark"></a>67 The Compilation Process</h2><p>When compiling, LaTeX goes through several stages:</p>
 <ol>
 <li><strong>Reads the <code>.tex</code> file</strong> — the compiler processes the preamble (<code>\usepackage{}</code>) and the main document body.</li>
 <li><strong>Builds document structure</strong> — generates the table of contents, labels, references, and indexes.</li>
@@ -453,7 +453,7 @@ Unlike conventional word processors, a LaTeX document <strong>must be compiled</
 <p>Because of these auxiliary files, <strong>LaTeX documents often need to be compiled more than once</strong>, especially when using cross-references, tables of contents, or bibliographies.</p>
 <hr>
 <h2 id="compilation-via-terminal" class="headerLink">
-    <a href="#compilation-via-terminal" class="header-mark"></a>5 Compilation via Terminal</h2><p>For local system users (Windows, macOS, Linux), compilation can be performed via the command line.</p>
+    <a href="#compilation-via-terminal" class="header-mark"></a>68 Compilation via Terminal</h2><p>For local system users (Windows, macOS, Linux), compilation can be performed via the command line.</p>
 <p>Example:</p>
 <div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
@@ -530,7 +530,7 @@ Unlike conventional word processors, a LaTeX document <strong>must be compiled</
     </div>
   </div>
   <pre style="counter-reset: codeblock;" class="tw-block tw-m-0 tw-p-0"><code 
-    id="codeblock-id-2" 
+    id="codeblock-id-37" 
     class="
       chroma 
       !tw-block 
@@ -560,17 +560,17 @@ Unlike conventional word processors, a LaTeX document <strong>must be compiled</
   <p>⚙️ If you’re using <code>biber</code> (with <code>biblatex</code>), replace <code>bibtex</code> with <code>biber document</code>.</p>
 </blockquote><hr>
 <h2 id="compilation-via-editor-environments" class="headerLink">
-    <a href="#compilation-via-editor-environments" class="header-mark"></a>6 Compilation via Editor Environments</h2><p>Besides the terminal, compilation can also be done directly from LaTeX editors. Common options include:</p>
+    <a href="#compilation-via-editor-environments" class="header-mark"></a>69 Compilation via Editor Environments</h2><p>Besides the terminal, compilation can also be done directly from LaTeX editors. Common options include:</p>
 <p><figure><a class="lightgallery" href="/kompilasi-dokumen-di-latex/overleaf.png" title="overleaf" data-thumbnail="/kompilasi-dokumen-di-latex/overleaf.png" data-sub-html="<h2>Overleaf interface</h2><p>overleaf</p>"><img  loading="lazy" src='/kompilasi-dokumen-di-latex/overleaf.png'   alt="overleaf" height="812" width="1854"></a><figcaption class="image-caption">Overleaf interface</figcaption>
 </figure></p>
 <h3 id="overleaf-online" class="headerLink">
-    <a href="#overleaf-online" class="header-mark"></a>6.1 Overleaf (Online)</h3><ul>
+    <a href="#overleaf-online" class="header-mark"></a>69.1 Overleaf (Online)</h3><ul>
 <li>Automatically compiles whenever you save.</li>
 <li>Choose the compiler via <strong>Menu → Compiler → pdfLaTeX/XeLaTeX</strong>.</li>
 <li>No local installation required.</li>
 </ul>
 <h3 id="texworks--texstudio-offline" class="headerLink">
-    <a href="#texworks--texstudio-offline" class="header-mark"></a>6.2 TeXworks / TeXstudio (Offline)</h3><ul>
+    <a href="#texworks--texstudio-offline" class="header-mark"></a>69.2 TeXworks / TeXstudio (Offline)</h3><ul>
 <li>Press <strong>Ctrl + T</strong> or click the “Typeset” icon.</li>
 <li>Select the compiler from the dropdown list.</li>
 <li>Suitable for Windows/macOS users.</li>
@@ -578,7 +578,7 @@ Unlike conventional word processors, a LaTeX document <strong>must be compiled</
 <p><figure><a class="lightgallery" href="/kompilasi-dokumen-di-latex/texstudio.png" title="overleaf" data-thumbnail="/kompilasi-dokumen-di-latex/texstudio.png" data-sub-html="<h2>TeXstudio interface</h2><p>overleaf</p>"><img  loading="lazy" src='/kompilasi-dokumen-di-latex/texstudio.png'   alt="overleaf" height="889" width="1909"></a><figcaption class="image-caption">TeXstudio interface</figcaption>
 </figure></p>
 <h3 id="visual-studio-code--latex-workshop" class="headerLink">
-    <a href="#visual-studio-code--latex-workshop" class="header-mark"></a>6.3 Visual Studio Code + LaTeX Workshop</h3><ul>
+    <a href="#visual-studio-code--latex-workshop" class="header-mark"></a>69.3 Visual Studio Code + LaTeX Workshop</h3><ul>
 <li>A popular extension among modern users.</li>
 <li>Supports build chain automation (e.g., pdflatex → bibtex → pdflatex → pdflatex).</li>
 <li>Configuration file: <code>.vscode/settings.json</code></li>
@@ -659,7 +659,7 @@ Unlike conventional word processors, a LaTeX document <strong>must be compiled</
     </div>
   </div>
   <pre style="counter-reset: codeblock;" class="tw-block tw-m-0 tw-p-0"><code 
-    id="codeblock-id-3" 
+    id="codeblock-id-38" 
     class="
       chroma 
       !tw-block 
@@ -682,7 +682,7 @@ Unlike conventional word processors, a LaTeX document <strong>must be compiled</
 </div>
 <hr>
 <h2 id="common-compilation-errors" class="headerLink">
-    <a href="#common-compilation-errors" class="header-mark"></a>7 Common Compilation Errors</h2><p>Here are common LaTeX compilation errors and how to fix them:</p>
+    <a href="#common-compilation-errors" class="header-mark"></a>70 Common Compilation Errors</h2><p>Here are common LaTeX compilation errors and how to fix them:</p>
 
 <div class="table-wrapper">
   <table>
@@ -726,7 +726,7 @@ Unlike conventional word processors, a LaTeX document <strong>must be compiled</
   <p>🧩 Tip: Check the <code>document.log</code> file for detailed error messages and line numbers.</p>
 </blockquote><hr>
 <h2 id="modern-workflow-and-automation" class="headerLink">
-    <a href="#modern-workflow-and-automation" class="header-mark"></a>8 Modern Workflow and Automation</h2><p>For efficiency, many users rely on <strong>automated compilation tools</strong>, such as:</p>
+    <a href="#modern-workflow-and-automation" class="header-mark"></a>71 Modern Workflow and Automation</h2><p>For efficiency, many users rely on <strong>automated compilation tools</strong>, such as:</p>
 <ul>
 <li><strong>latexmk</strong> — automatically performs all compilation stages (LaTeX, BibTeX, index).<br>
 Example:
@@ -805,7 +805,7 @@ Example:
     </div>
   </div>
   <pre style="counter-reset: codeblock;" class="tw-block tw-m-0 tw-p-0"><code 
-    id="codeblock-id-4" 
+    id="codeblock-id-39" 
     class="
       chroma 
       !tw-block 
@@ -899,7 +899,7 @@ Example preamble:
     </div>
   </div>
   <pre style="counter-reset: codeblock;" class="tw-block tw-m-0 tw-p-0"><code 
-    id="codeblock-id-5" 
+    id="codeblock-id-40" 
     class="
       chroma 
       !tw-block 
@@ -924,12 +924,12 @@ Example preamble:
 <p>With an automated workflow, you only need one command to trigger the entire compilation sequence.</p>
 <hr>
 <h2 id="conclusion" class="headerLink">
-    <a href="#conclusion" class="header-mark"></a>9 Conclusion</h2><p>Compilation is the core of the LaTeX system — the process that transforms source code into a high-quality document.<br>
+    <a href="#conclusion" class="header-mark"></a>72 Conclusion</h2><p>Compilation is the core of the LaTeX system — the process that transforms source code into a high-quality document.<br>
 Understanding how compilers work, the build sequence, and error handling will help you write scientific documents more efficiently and professionally.</p>
 <p>Whether using Overleaf, VS Code, or the terminal, the principle remains the same: <strong>make sure all packages, references, and resources are ready before the final compilation.</strong></p>
 <hr>
 <h3 id="references" class="headerLink">
-    <a href="#references" class="header-mark"></a>9.1 References</h3><ul>
+    <a href="#references" class="header-mark"></a>72.1 References</h3><ul>
 <li>The LaTeX Project. <a href="https://www.latex-project.org" target="_blank" rel="noopener noreferrer">https://www.latex-project.org</a></li>
 <li>Overleaf Documentation – <em>Understanding PDF Compilation</em><br>
 <a href="https://www.overleaf.com/learn/latex" target="_blank" rel="noopener noreferrer">https://www.overleaf.com/learn/latex</a></li>

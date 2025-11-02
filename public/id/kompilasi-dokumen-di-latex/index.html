@@ -284,7 +284,7 @@
 Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang tersedia, urutan proses, hingga penyelesaian error secara efisien.</p>
 <hr>
 <h2 id="pendahuluan" class="headerLink">
-    <a href="#pendahuluan" class="header-mark"></a>1 Pendahuluan</h2><p>LaTeX adalah sistem penataan dokumen yang menghasilkan keluaran berkualitas tinggi, terutama untuk teks ilmiah dan teknis.<br>
+    <a href="#pendahuluan" class="header-mark"></a>64 Pendahuluan</h2><p>LaTeX adalah sistem penataan dokumen yang menghasilkan keluaran berkualitas tinggi, terutama untuk teks ilmiah dan teknis.<br>
 Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dikompilasi</strong> terlebih dahulu agar file <code>.tex</code> dapat berubah menjadi format akhir seperti <code>.pdf</code>, <code>.dvi</code>, atau <code>.ps</code>.</p>
 <div class="details admonition note open">
     <div class="details-summary admonition-title">
@@ -296,7 +296,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
         <div class="admonition-content"><strong>Catatan</strong>: Artikel ini dihasilkan dengan bantuan teknologi AI dan telah direview secara manual untuk memastikan keakuratan dan kejelasan informasi.</div></div></div>
 <hr>
 <h2 id="apa-itu-kompilasi-latex" class="headerLink">
-    <a href="#apa-itu-kompilasi-latex" class="header-mark"></a>2 Apa Itu Kompilasi LaTeX?</h2><p>Kompilasi LaTeX adalah proses yang dilakukan oleh <em>compiler</em> untuk membaca file sumber (biasanya berekstensi <code>.tex</code>), menafsirkan perintah di dalamnya (<code>\section{}</code>, <code>\usepackage{}</code>, dll.), dan menghasilkan file keluaran seperti <code>.pdf</code>.</p>
+    <a href="#apa-itu-kompilasi-latex" class="header-mark"></a>65 Apa Itu Kompilasi LaTeX?</h2><p>Kompilasi LaTeX adalah proses yang dilakukan oleh <em>compiler</em> untuk membaca file sumber (biasanya berekstensi <code>.tex</code>), menafsirkan perintah di dalamnya (<code>\section{}</code>, <code>\usepackage{}</code>, dll.), dan menghasilkan file keluaran seperti <code>.pdf</code>.</p>
 <p>Sederhananya:</p>
 <div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
@@ -373,7 +373,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
     </div>
   </div>
   <pre style="counter-reset: codeblock;" class="tw-block tw-m-0 tw-p-0"><code 
-    id="codeblock-id-1" 
+    id="codeblock-id-36" 
     class="
       chroma 
       !tw-block 
@@ -392,7 +392,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
 <p>Proses ini berbeda dengan <em>word processor</em> biasa seperti Microsoft Word, karena LaTeX memisahkan antara <strong>penulisan konten</strong> dan <strong>proses pembuatan output</strong>.</p>
 <hr>
 <h2 id="jenis-compiler-latex" class="headerLink">
-    <a href="#jenis-compiler-latex" class="header-mark"></a>3 Jenis Compiler LaTeX</h2><p>Berikut beberapa compiler yang umum digunakan:</p>
+    <a href="#jenis-compiler-latex" class="header-mark"></a>66 Jenis Compiler LaTeX</h2><p>Berikut beberapa compiler yang umum digunakan:</p>
 
 <div class="table-wrapper">
   <table>
@@ -436,7 +436,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
   <p>💡 <strong>Rekomendasi:</strong> Gunakan <code>pdfLaTeX</code> untuk dokumen standar, <code>XeLaTeX</code> untuk bahasa non-Latin (seperti Indonesia, Jepang, Arab), dan <code>LuaLaTeX</code> untuk proyek dengan grafik atau skrip kompleks.</p>
 </blockquote><hr>
 <h2 id="proses-kompilasi-dokumen" class="headerLink">
-    <a href="#proses-kompilasi-dokumen" class="header-mark"></a>4 Proses Kompilasi Dokumen</h2><p>Ketika menjalankan kompilasi, sistem LaTeX melalui beberapa tahap:</p>
+    <a href="#proses-kompilasi-dokumen" class="header-mark"></a>67 Proses Kompilasi Dokumen</h2><p>Ketika menjalankan kompilasi, sistem LaTeX melalui beberapa tahap:</p>
 <ol>
 <li><strong>Membaca file <code>.tex</code></strong> — compiler memproses preamble (<code>\usepackage{}</code>) dan isi dokumen.</li>
 <li><strong>Membangun struktur dokumen</strong> — membuat daftar isi, label, referensi, dan indeks.</li>
@@ -453,7 +453,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
 <p>Karena adanya file bantu, <strong>dokumen LaTeX sering perlu dikompilasi lebih dari sekali</strong>, terutama jika menggunakan referensi silang, daftar isi, atau bibliografi.</p>
 <hr>
 <h2 id="perintah-kompilasi-di-terminal" class="headerLink">
-    <a href="#perintah-kompilasi-di-terminal" class="header-mark"></a>5 Perintah Kompilasi di Terminal</h2><p>Untuk pengguna sistem lokal (Windows, macOS, Linux), kompilasi bisa dilakukan melalui <em>command line</em>.</p>
+    <a href="#perintah-kompilasi-di-terminal" class="header-mark"></a>68 Perintah Kompilasi di Terminal</h2><p>Untuk pengguna sistem lokal (Windows, macOS, Linux), kompilasi bisa dilakukan melalui <em>command line</em>.</p>
 <p>Contoh:</p>
 <div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
@@ -530,7 +530,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
     </div>
   </div>
   <pre style="counter-reset: codeblock;" class="tw-block tw-m-0 tw-p-0"><code 
-    id="codeblock-id-2" 
+    id="codeblock-id-37" 
     class="
       chroma 
       !tw-block 
@@ -560,17 +560,17 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
   <p>⚙️ Jika menggunakan <code>biber</code> (dengan <code>biblatex</code>), ganti <code>bibtex</code> dengan <code>biber dokumen</code>.</p>
 </blockquote><hr>
 <h2 id="kompilasi-di-lingkungan-editor" class="headerLink">
-    <a href="#kompilasi-di-lingkungan-editor" class="header-mark"></a>6 Kompilasi di Lingkungan Editor</h2><p>Selain terminal, kompilasi bisa dilakukan langsung dari editor LaTeX. Berikut beberapa opsi umum:</p>
+    <a href="#kompilasi-di-lingkungan-editor" class="header-mark"></a>69 Kompilasi di Lingkungan Editor</h2><p>Selain terminal, kompilasi bisa dilakukan langsung dari editor LaTeX. Berikut beberapa opsi umum:</p>
 <p><figure><a class="lightgallery" href="/kompilasi-dokumen-di-latex/overleaf.png" title="overleaf" data-thumbnail="/kompilasi-dokumen-di-latex/overleaf.png" data-sub-html="<h2>Tampilan antarmuka di Overleaf</h2><p>overleaf</p>"><img  loading="lazy" src='/kompilasi-dokumen-di-latex/overleaf.png'   alt="overleaf" height="812" width="1854"></a><figcaption class="image-caption">Tampilan antarmuka di Overleaf</figcaption>
 </figure></p>
 <h3 id="overleaf-online" class="headerLink">
-    <a href="#overleaf-online" class="header-mark"></a>6.1 Overleaf (Online)</h3><ul>
+    <a href="#overleaf-online" class="header-mark"></a>69.1 Overleaf (Online)</h3><ul>
 <li>Kompilasi otomatis setiap kali Anda menyimpan.</li>
 <li>Pilih compiler di menu <strong>Menu → Compiler → pdfLaTeX/XeLaTeX</strong>.</li>
 <li>Tidak memerlukan instalasi lokal.</li>
 </ul>
 <h3 id="texworks--texstudio-offline" class="headerLink">
-    <a href="#texworks--texstudio-offline" class="header-mark"></a>6.2 TeXworks / TeXstudio (Offline)</h3><ul>
+    <a href="#texworks--texstudio-offline" class="header-mark"></a>69.2 TeXworks / TeXstudio (Offline)</h3><ul>
 <li>Tekan <strong>Ctrl + T</strong> atau klik ikon “Typeset”.</li>
 <li>Dapat memilih compiler dari daftar dropdown.</li>
 <li>Cocok untuk pengguna Windows/macOS.</li>
@@ -578,7 +578,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
 <p><figure><a class="lightgallery" href="/kompilasi-dokumen-di-latex/texstudio.png" title="overleaf" data-thumbnail="/kompilasi-dokumen-di-latex/texstudio.png" data-sub-html="<h2>Tampilan antarmuka di TeXstudio</h2><p>overleaf</p>"><img  loading="lazy" src='/kompilasi-dokumen-di-latex/texstudio.png'   alt="overleaf" height="889" width="1909"></a><figcaption class="image-caption">Tampilan antarmuka di TeXstudio</figcaption>
 </figure></p>
 <h3 id="visual-studio-code--latex-workshop" class="headerLink">
-    <a href="#visual-studio-code--latex-workshop" class="header-mark"></a>6.3 Visual Studio Code + LaTeX Workshop</h3><ul>
+    <a href="#visual-studio-code--latex-workshop" class="header-mark"></a>69.3 Visual Studio Code + LaTeX Workshop</h3><ul>
 <li>Ekstensi populer untuk pengguna modern.</li>
 <li>Mendukung fitur “build chain” (urutan otomatis pdflatex → bibtex → pdflatex → pdflatex).</li>
 <li>File konfigurasi: <code>.vscode/settings.json</code></li>
@@ -659,7 +659,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
     </div>
   </div>
   <pre style="counter-reset: codeblock;" class="tw-block tw-m-0 tw-p-0"><code 
-    id="codeblock-id-3" 
+    id="codeblock-id-38" 
     class="
       chroma 
       !tw-block 
@@ -682,7 +682,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
 </div>
 <hr>
 <h2 id="penanganan-error-umum" class="headerLink">
-    <a href="#penanganan-error-umum" class="header-mark"></a>7 Penanganan Error Umum</h2><p>Berikut daftar kesalahan umum saat kompilasi beserta solusinya:</p>
+    <a href="#penanganan-error-umum" class="header-mark"></a>70 Penanganan Error Umum</h2><p>Berikut daftar kesalahan umum saat kompilasi beserta solusinya:</p>
 
 <div class="table-wrapper">
   <table>
@@ -726,7 +726,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
   <p>🧩 Tip: Baca file <code>dokumen.log</code> untuk melihat pesan error rinci dan lokasi baris bermasalah.</p>
 </blockquote><hr>
 <h2 id="workflow-modern-dan-otomatisasi" class="headerLink">
-    <a href="#workflow-modern-dan-otomatisasi" class="header-mark"></a>8 Workflow Modern dan Otomatisasi</h2><p>Untuk efisiensi, banyak pengguna kini mengandalkan <strong>alat otomatisasi kompilasi</strong>, seperti:</p>
+    <a href="#workflow-modern-dan-otomatisasi" class="header-mark"></a>71 Workflow Modern dan Otomatisasi</h2><p>Untuk efisiensi, banyak pengguna kini mengandalkan <strong>alat otomatisasi kompilasi</strong>, seperti:</p>
 <ul>
 <li><strong>latexmk</strong> — menjalankan semua tahap kompilasi (LaTeX, BibTeX, indeks) secara otomatis.<br>
 Contoh:
@@ -805,7 +805,7 @@ Contoh:
     </div>
   </div>
   <pre style="counter-reset: codeblock;" class="tw-block tw-m-0 tw-p-0"><code 
-    id="codeblock-id-4" 
+    id="codeblock-id-39" 
     class="
       chroma 
       !tw-block 
@@ -899,7 +899,7 @@ Contoh di preamble:
     </div>
   </div>
   <pre style="counter-reset: codeblock;" class="tw-block tw-m-0 tw-p-0"><code 
-    id="codeblock-id-5" 
+    id="codeblock-id-40" 
     class="
       chroma 
       !tw-block 
@@ -924,12 +924,12 @@ Contoh di preamble:
 <p>Dengan workflow otomatis ini, Anda cukup menjalankan satu perintah dan seluruh proses akan berjalan sesuai urutan yang benar.</p>
 <hr>
 <h2 id="kesimpulan" class="headerLink">
-    <a href="#kesimpulan" class="header-mark"></a>9 Kesimpulan</h2><p>Kompilasi adalah inti dari sistem LaTeX — proses yang mengubah kode sumber menjadi dokumen berkualitas tinggi.<br>
+    <a href="#kesimpulan" class="header-mark"></a>72 Kesimpulan</h2><p>Kompilasi adalah inti dari sistem LaTeX — proses yang mengubah kode sumber menjadi dokumen berkualitas tinggi.<br>
 Memahami cara kerja <em>compiler</em>, urutan build, serta penanganan error akan sangat membantu dalam menulis dokumen ilmiah secara efisien dan profesional.</p>
 <p>Baik menggunakan Overleaf, VS Code, atau terminal, prinsip utamanya tetap sama: <strong>pastikan semua paket, referensi, dan sumber sudah siap sebelum kompilasi akhir.</strong></p>
 <hr>
 <h3 id="referensi" class="headerLink">
-    <a href="#referensi" class="header-mark"></a>9.1 Referensi</h3><ul>
+    <a href="#referensi" class="header-mark"></a>72.1 Referensi</h3><ul>
 <li>The LaTeX Project. <a href="https://www.latex-project.org" target="_blank" rel="noopener noreferrer">https://www.latex-project.org</a></li>
 <li>Overleaf Documentation – <em>Understanding PDF Compilation</em><br>
 <a href="https://www.overleaf.com/learn/latex" target="_blank" rel="noopener noreferrer">https://www.overleaf.com/learn/latex</a></li>

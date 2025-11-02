@@ -11,7 +11,16 @@
                     hreflang="en"
                     href="http://localhost:1313/menggambar-sharingan-dan-rinnegan-dengan-latex/"
                     /></url><url>
-            <loc>http://localhost:1313/optical-illusion/</loc><lastmod>2025-10-31T16:28:43&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/circle-illusion/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="id"
+                        href="http://localhost:1313/id/circle-illusion/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:1313/circle-illusion/"
+                    /></url><url>
+            <loc>http://localhost:1313/optical-illusion/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="id"
                         href="http://localhost:1313/id/optical-illusion/"
@@ -146,7 +155,7 @@
                     hreflang="en"
                     href="http://localhost:1313/perbedaan-bsd-dan-linux/"
                     /></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-10-31T16:28:43&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="id"
                         href="http://localhost:1313/id/"
@@ -155,7 +164,8 @@
                     hreflang="en"
                     href="http://localhost:1313/"
                     /></url><url>
-            <loc>http://localhost:1313/categories/latex/</loc><lastmod>2025-10-31T16:28:43&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/tags/geometry/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/categories/latex/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="id"
                         href="http://localhost:1313/id/categories/latex/"
@@ -164,7 +174,7 @@
                     hreflang="en"
                     href="http://localhost:1313/categories/latex/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/latex/</loc><lastmod>2025-10-31T16:28:43&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/tags/latex/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="id"
                         href="http://localhost:1313/id/tags/latex/"
@@ -173,8 +183,10 @@
                     hreflang="en"
                     href="http://localhost:1313/tags/latex/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/optical-illusion/</loc><lastmod>2025-10-31T16:28:43&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2025-10-31T16:28:43&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/categories/mathematical-art/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/categories/optical-illusion/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/optical-illusion/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="id"
                         href="http://localhost:1313/id/posts/"
@@ -183,7 +195,7 @@
                     hreflang="en"
                     href="http://localhost:1313/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/tikz/</loc><lastmod>2025-10-31T16:28:43&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/tags/tikz/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="id"
                         href="http://localhost:1313/id/tags/tikz/"
@@ -192,6 +204,8 @@
                     hreflang="en"
                     href="http://localhost:1313/tags/tikz/"
                     /></url><url>
+            <loc>http://localhost:1313/categories/visual-perception/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/visual-perception/</loc><lastmod>2025-11-01T15:16:35&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1313/categories/linux/</loc><lastmod>2025-10-30T12:22:40&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="id"

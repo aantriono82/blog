@@ -17,6 +17,15 @@
             </div><p>This article discusses how to draw sharingan and rinnegan eyes from <strong>Anime Series: Naruto Shippuden</strong> using LaTeX, with the main package used being Tikz package.</p>
 <hr>]]></description>
 </item><item>
+    <title>Circle Illusion: The Perceptual Phenomenon of Size Around a Central Circle</title>
+    <link>http://localhost:1313/circle-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/circle-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the circle illusion, where two identical central circles appear different in size due to surrounding visual context. Built with LaTeX TikZ, this article provides a complete explanation of the code structure and perceptual science behind it.</p>]]></description>
+</item><item>
     <title>The Circle Illusion: Between Geometry and Visual Perception</title>
     <link>http://localhost:1313/optical-illusion/</link>
     <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -97,14 +106,5 @@ In this article, we will discuss its history, characteristics, variants, use in 
                 <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article introduces <strong>Ubuntu</strong>, a popular, user-friendly Linux distribution designed for diverse use cases — from personal computing to professional development.</p>
 <hr>]]></description>
-</item><item>
-    <title>History of TeX and LaTeX: Evolution of Digital Document Typesetting Systems</title>
-    <link>http://localhost:1313/sejarah-tex-dan-latex/</link>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/sejarah-tex-dan-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the history of TeX and LaTeX, document typesetting systems by Knuth and Lamport, from their inception in 1978 to modern academic standards, focusing on development, features, and future prospects to date.</p>]]></description>
 </item></channel>
 </rss>

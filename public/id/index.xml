@@ -17,6 +17,15 @@
             </div><p>Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di <strong>Serial Anime: Naruto Shippuden</strong> menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.</p>
 <hr>]]></description>
 </item><item>
+    <title>Ilusi Lingkaran: Fenomena Persepsi Ukuran di Sekitar Lingkaran Tengah</title>
+    <link>http://localhost:1313/id/circle-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/circle-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas ilusi lingkaran, di mana dua lingkaran pusat yang identik tampak berbeda ukuran karena konteks visual di sekitarnya. Dibuat menggunakan LaTeX TikZ, artikel ini memberikan penjelasan lengkap mengenai struktur kode dan konsep persepsi dibaliknya.</p>]]></description>
+</item><item>
     <title>Ilusi Lingkaran: Antara Geometri dan Persepsi Visual</title>
     <link>http://localhost:1313/id/optical-illusion/</link>
     <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -97,14 +106,5 @@ Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di
                 <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas tentang distro linux yang populer, ramah pengguna, mudah digunakan untuk berbagai keperluan yaitu Ubuntu.</p>
 <hr>]]></description>
-</item><item>
-    <title>Sejarah TeX dan LaTeX: Evolusi Sistem Penyusunan Dokumen Digital</title>
-    <link>http://localhost:1313/id/sejarah-tex-dan-latex/</link>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/sejarah-tex-dan-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas sejarah TeX dan LaTeX, sistem penyusunan dokumen oleh Knuth dan Lamport, dari awal pada 1978 hingga standar akademik modern, dengan fokus pada perkembangan, fitur, dan prospek masa depan hingga saat ini.</p>]]></description>
 </item></channel>
 </rss>

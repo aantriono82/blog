@@ -15,6 +15,15 @@
             </div><p>This article explores how an <strong>arrangement of squares</strong> can form a rotating circular illusion using <strong>LaTeX and TikZ</strong>. We will examine the structure of the code, the visual principles behind the illusion, and its significance in perception and visual art.</p>
 <hr>]]></description>
 </item><item>
+    <title>Circle Illusion: The Perceptual Phenomenon of Size Around a Central Circle</title>
+    <link>http://localhost:1313/circle-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/circle-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the circle illusion, where two identical central circles appear different in size due to surrounding visual context. Built with LaTeX TikZ, this article provides a complete explanation of the code structure and perceptual science behind it.</p>]]></description>
+</item><item>
     <title>Differences Between BSD and Linux</title>
     <link>http://localhost:1313/perbedaan-bsd-dan-linux/</link>
     <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>

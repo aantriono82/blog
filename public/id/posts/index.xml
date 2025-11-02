@@ -15,6 +15,15 @@
             </div><p>Artikel ini membahas bagaimana sebuah <strong>susunan persegi</strong> dapat membentuk kesan lingkaran berputar menggunakan <strong>LaTeX dan TikZ</strong>. Kita akan mempelajari struktur kodenya, prinsip visual yang mendasari ilusi ini, serta maknanya dalam konteks persepsi dan seni visual.</p>
 <hr>]]></description>
 </item><item>
+    <title>Ilusi Lingkaran: Fenomena Persepsi Ukuran di Sekitar Lingkaran Tengah</title>
+    <link>http://localhost:1313/id/circle-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/circle-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas ilusi lingkaran, di mana dua lingkaran pusat yang identik tampak berbeda ukuran karena konteks visual di sekitarnya. Dibuat menggunakan LaTeX TikZ, artikel ini memberikan penjelasan lengkap mengenai struktur kode dan konsep persepsi dibaliknya.</p>]]></description>
+</item><item>
     <title>Perbedaan BSD dan Linux</title>
     <link>http://localhost:1313/id/perbedaan-bsd-dan-linux/</link>
     <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>

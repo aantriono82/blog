@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Opt - Tag - Aan Triono</title>
+        <link>http://localhost:1313/tags/opt/</link>
+        <description>Opt - Tag - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/opt/" rel="self" type="application/rss+xml" /><item>
+    <title>White Dot Illusion: Perceptual Contrast in a Dark Grid Pattern</title>
+    <link>http://localhost:1313/white-dot-illusion/</link>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/white-dot-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/white-dot-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the visual illusion of white dots appearing in a dark grid pattern, where the brain creates contrast perceptions that are not physically present. Built using LaTeX PSTricks, it provides a complete explanation of the code structure and the perceptual mechanisms behind it.</p>]]></description>
+</item></channel>
+</rss>
