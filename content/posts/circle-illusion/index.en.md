@@ -7,8 +7,8 @@ draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
 description: "This article discusses the circle illusion, where two identical central circles appear different in size due to surrounding visual context. Built with LaTeX TikZ, this article provides a complete explanation of the code structure and perceptual science behind it."
-tags: ["LaTeX", "TikZ", "Optical Illusion", "Visual Perception", "Geometry"]
-categories: ["Optical Illusion", "Visual Perception", "Mathematical Art"]
+tags: ["LaTeX", "Optical Illusion"]
+categories: ["LaTeX"]
 featuredImage: "featured-image.png"
 ---
 

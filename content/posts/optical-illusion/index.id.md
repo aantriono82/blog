@@ -7,7 +7,7 @@ draft: false
 author: "Aan Triono"
 authorLink: "https://www.aantriono.com"
 description: "Artikel ini membahas tentang ilusi lingkaran yang dibentuk dari susunan persegi menggunakan TikZ di LaTeX, serta penjelasan ilmiah di balik fenomena persepsi visual yang muncul."
-tags: ["LaTeX", "TikZ", "Ilusi Optik"]
+tags: ["LaTeX","Ilusi Optik"]
 categories: ["LaTeX"]
 featuredImage: "featured-image.png"
 lightgallery: true

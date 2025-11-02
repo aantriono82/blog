@@ -22,7 +22,6 @@ Artikel ini membahas tentang konsep, jenis dan fungsi paket yang ada di LaTeX.
 
 <!--more-->
 
-# Menguasai Paket LaTeX: Fondasi Kuat untuk Penulisan Ilmiah yang Profesional
 
 {{< admonition >}}
 LaTeX adalah sistem penataan teks yang telah menjadi standar de facto dalam dunia akademik dan penelitian ilmiah. Salah satu keunggulan utama LaTeX adalah fleksibilitasnya melalui penggunaan **paket (packages)** — modul tambahan yang memperluas kemampuan sistem inti. Artikel ini membahas secara komprehensif konsep, fungsi, dan pengelolaan paket dalam LaTeX, dilengkapi dengan contoh penerapan nyata untuk dokumen akademik seperti skripsi dan tesis. Selain itu, artikel ini menyoroti permasalahan umum seperti konflik antar paket, serta memberikan solusi praktis untuk mengatasinya.
