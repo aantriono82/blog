@@ -18,7 +18,7 @@ fingerprint = ""
 dateFormat = "2006-01-02"
 # website images for Open Graph and Twitter Cards
 # 网站图片, 用于 Open Graph 和 Twitter Cards
-images = ["/images/aan1.png"]
+images = ["/images/avatar.png"]
 # enable PWA
 # 开启 PWA 支持
 enablePWA = true
@@ -32,7 +32,7 @@ bundle = false
   name = "Aan Triono"
   email = "aantriono82@gmail.com"
   link = "https://www.aantriono.com"
-  avatar = "/images/aan1.png"
+  avatar = "/images/avatar.png"
   gravatarEmail = ""
 
 [image]
@@ -572,7 +572,7 @@ bundle = false
 [seo]
   # image URL
   # 图片 URL
-  image = "/images/aan1.png"
+  image = "/images/avatar.png"
   # thumbnail URL
   # 缩略图 URL
   thumbnailUrl = "/images/aan1.png"

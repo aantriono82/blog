@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Kompilasi - Label - Aan Triono</title>
+        <link>http://localhost:1313/id/tags/kompilasi/</link>
+        <description>Kompilasi - Label - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/tags/kompilasi/" rel="self" type="application/rss+xml" /><item>
+    <title>Panduan Teknis: Cara Mengompilasi Dokumen LaTeX Secara Lengkap dan Efisien</title>
+    <link>http://localhost:1313/id/kompilasi-dokumen-di-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/kompilasi-dokumen-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Kompilasi ini merupakan proses menerjemahkan perintah LaTeX menjadi dokumen siap cetak.<br>
+Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang tersedia, urutan proses, hingga penyelesaian error secara efisien.</p>
+<hr>]]></description>
+</item></channel>
+</rss>

@@ -4,82 +4,14 @@
         <link>http://localhost:1313/id/tags/latex/</link>
         <description>LaTeX - Label - Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/tags/latex/" rel="self" type="application/rss+xml" /><item>
-    <title>Menggambar Mata Sharingan dan Rinnegan dengan LaTeX</title>
-    <link>http://localhost:1313/id/menggambar-sharingan-dan-rinnegan-dengan-latex/</link>
-    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/tags/latex/" rel="self" type="application/rss+xml" /><item>
+    <title>Ilusi Titik Putih: Persepsi Kontras dalam Pola Kisi Gelap</title>
+    <link>http://localhost:1313/id/white-dot-illusion/</link>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/menggambar-sharingan-dan-rinnegan-dengan-latex/</guid>
+    </author><guid>http://localhost:1313/id/white-dot-illusion/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di <strong>Serial Anime: Naruto Shippuden</strong> menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.</p>
-<hr>]]></description>
-</item><item>
-    <title>Ilusi Lingkaran: Fenomena Persepsi Ukuran di Sekitar Lingkaran Tengah</title>
-    <link>http://localhost:1313/id/circle-illusion/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/circle-illusion/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas ilusi lingkaran, di mana dua lingkaran pusat yang identik tampak berbeda ukuran karena konteks visual di sekitarnya. Dibuat menggunakan LaTeX TikZ, artikel ini memberikan penjelasan lengkap mengenai struktur kode dan konsep persepsi dibaliknya.</p>]]></description>
-</item><item>
-    <title>Ilusi Lingkaran: Antara Geometri dan Persepsi Visual</title>
-    <link>http://localhost:1313/id/optical-illusion/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/optical-illusion/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas bagaimana sebuah <strong>susunan persegi</strong> dapat membentuk kesan lingkaran berputar menggunakan <strong>LaTeX dan TikZ</strong>. Kita akan mempelajari struktur kodenya, prinsip visual yang mendasari ilusi ini, serta maknanya dalam konteks persepsi dan seni visual.</p>
-<hr>]]></description>
-</item><item>
-    <title>Mengenal Paket di LaTeX</title>
-    <link>http://localhost:1313/id/mengenal-paket-latex/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/mengenal-paket-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/mengenal-paket-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang konsep, jenis dan fungsi paket yang ada di LaTeX.</p>
-<hr>]]></description>
-</item><item>
-    <title>Pemformatan Teks di LaTeX</title>
-    <link>http://localhost:1313/id/format-teks-di-latex/</link>
-    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/format-teks-di-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/format-teks-di-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang pemformatan teks yang biasanya dilakukan di dokumen yang ditulis menggunakan LaTeX.</p>
-<hr>]]></description>
-</item><item>
-    <title>Struktur Dokumen LaTeX</title>
-    <link>http://localhost:1313/id/struktur-dokumen-latex/</link>
-    <pubDate>Tue, 14 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/struktur-dokumen-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/struktur-dokumen-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang struktur dokumen LaTeX baik pada kelas dokumen surat, artikel, laporan, dan buku.</p>
-<hr>]]></description>
-</item><item>
-    <title>Sejarah TeX dan LaTeX: Evolusi Sistem Penyusunan Dokumen Digital</title>
-    <link>http://localhost:1313/id/sejarah-tex-dan-latex/</link>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/sejarah-tex-dan-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas sejarah TeX dan LaTeX, sistem penyusunan dokumen oleh Knuth dan Lamport, dari awal pada 1978 hingga standar akademik modern, dengan fokus pada perkembangan, fitur, dan prospek masa depan hingga saat ini.</p>]]></description>
-</item><item>
-    <title>Menulis Ekspresi Matematika di Markdown</title>
-    <link>http://localhost:1313/id/menulis-ekspresi-matematika/</link>
-    <pubDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/menulis-ekspresi-matematika/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/menulis-ekspresi-matematika/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang penulisan ekspresi matematika di markdown menggunakan KaTeX.</p>]]></description>
+                <img src="/white-dot-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya</p>]]></description>
 </item></channel>
 </rss>

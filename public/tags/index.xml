@@ -5,20 +5,6 @@
         <description>Tags - Tag - Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
             <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Geometry</title>
-    <link>http://localhost:1313/tags/geometry/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/tags/geometry/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>LaTeX</title>
-    <link>http://localhost:1313/tags/latex/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/tags/latex/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
     <title>Optical Illusion</title>
     <link>http://localhost:1313/tags/optical-illusion/</link>
     <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -26,53 +12,67 @@
     </author><guid>http://localhost:1313/tags/optical-illusion/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>TikZ</title>
+    <title>Tikz</title>
     <link>http://localhost:1313/tags/tikz/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
     </author><guid>http://localhost:1313/tags/tikz/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Visual Perception</title>
-    <link>http://localhost:1313/tags/visual-perception/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/tags/visual-perception/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Linux</title>
-    <link>http://localhost:1313/tags/linux/</link>
+    <title>BSD</title>
+    <link>http://localhost:1313/tags/bsd/</link>
     <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/tags/linux/</guid>
+    </author><guid>http://localhost:1313/tags/bsd/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Operating System</title>
-    <link>http://localhost:1313/tags/operating-system/</link>
+    <title>Compile</title>
+    <link>http://localhost:1313/tags/compile/</link>
     <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/tags/operating-system/</guid>
+    </author><guid>http://localhost:1313/tags/compile/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Operating Systems</title>
-    <link>http://localhost:1313/tags/operating-systems/</link>
+    <title>Packages</title>
+    <link>http://localhost:1313/tags/packages/</link>
     <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/tags/operating-systems/</guid>
+    </author><guid>http://localhost:1313/tags/packages/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>MacTeX</title>
-    <link>http://localhost:1313/tags/mactex/</link>
+    <title>Debian</title>
+    <link>http://localhost:1313/tags/debian/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/tags/debian/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Formatting</title>
+    <link>http://localhost:1313/tags/formatting/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/tags/formatting/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Structure</title>
+    <link>http://localhost:1313/tags/structure/</link>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/tags/structure/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>TeX Live</title>
+    <link>http://localhost:1313/tags/tex-live/</link>
     <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/tags/mactex/</guid>
+    </author><guid>http://localhost:1313/tags/tex-live/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>MiKTeX</title>
-    <link>http://localhost:1313/tags/miktex/</link>
-    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+    <title>TeX</title>
+    <link>http://localhost:1313/tags/tex/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/tags/miktex/</guid>
+    </author><guid>http://localhost:1313/tags/tex/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

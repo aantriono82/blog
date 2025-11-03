@@ -42,6 +42,11 @@ Berikut adalah kode lengkap yang digunakan untuk membuat pola ilusi menggunakan 
 
 ---
 
+The output produced:
+
+![ilusi titik](ilusi.png "Ilusi Titik Putih")
+
+
 ## Penjelasan Struktur Kode
 
 ### **Deklarasi Dokumen**

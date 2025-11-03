@@ -4,39 +4,7 @@
         <link>http://localhost:1313/tags/linux/</link>
         <description>Linux - Tag - Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/" rel="self" type="application/rss+xml" /><item>
-    <title>Technical Guide: How to Compile LaTeX Documents Completely and Efficiently</title>
-    <link>http://localhost:1313/kompilasi-dokumen-di-latex/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/kompilasi-dokumen-di-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Compilation is the process of translating LaTeX commands into a ready-to-print document.<br>
-This article discusses how LaTeX compilation works, types of compilers available, the compilation sequence, and how to resolve errors efficiently.</p>
-<hr>]]></description>
-</item><item>
-    <title>Debian: The Universal Operating System</title>
-    <link>http://localhost:1313/distro-linux-debian/</link>
-    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/distro-linux-debian/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/distro-linux-debian/Featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Debian is one of the oldest and most respected Linux distributions, known for its stability, security, and free software principles.<br>
-In this article, we will discuss its history, characteristics, variants, use in software development, as well as its advantages and disadvantages — in depth yet easy to understand.</p>
-<hr>]]></description>
-</item><item>
-    <title>Getting to Know Ubuntu: A User-Friendly Linux Distribution for All Needs</title>
-    <link>http://localhost:1313/lebih-dekat-dengan-ubuntu/</link>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/lebih-dekat-dengan-ubuntu/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article introduces <strong>Ubuntu</strong>, a popular, user-friendly Linux distribution designed for diverse use cases — from personal computing to professional development.</p>
-<hr>]]></description>
-</item><item>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/" rel="self" type="application/rss+xml" /><item>
     <title>Why Choose Linux</title>
     <link>http://localhost:1313/mengapa-memilih-linux/</link>
     <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -45,32 +13,5 @@ In this article, we will discuss its history, characteristics, variants, use in 
     <description><![CDATA[<div class="featured-image">
                 <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses the reasons for migrating from Windows to Linux.</p>]]></description>
-</item><item>
-    <title>Linux Desktop Environments</title>
-    <link>http://localhost:1313/lingkungan-desktop-linux/</link>
-    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/lingkungan-desktop-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/lingkungan-desktop-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the <strong>desktop environments</strong> used across different Linux distributions.</p>]]></description>
-</item><item>
-    <title>A Brief History of GNU/Linux</title>
-    <link>http://localhost:1313/gnu-linux/</link>
-    <pubDate>Sun, 28 Sep 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/gnu-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the brief history of the GNU/Linux operating system</p>]]></description>
-</item><item>
-    <title>Differences Between BSD and Linux</title>
-    <link>http://localhost:1313/perbedaan-bsd-dan-linux/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/perbedaan-bsd-dan-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/perbedaan-bsd-dan-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the differences between BSD and GNU/Linux operating systems.</p>]]></description>
 </item></channel>
 </rss>

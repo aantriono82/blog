@@ -15,6 +15,15 @@
             </div><p>Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di <strong>Serial Anime: Naruto Shippuden</strong> menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.</p>
 <hr>]]></description>
 </item><item>
+    <title>Ilusi Titik Putih: Persepsi Kontras dalam Pola Kisi Gelap</title>
+    <link>http://localhost:1313/id/white-dot-illusion/</link>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/white-dot-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/white-dot-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya</p>]]></description>
+</item><item>
     <title>Ilusi Lingkaran: Fenomena Persepsi Ukuran di Sekitar Lingkaran Tengah</title>
     <link>http://localhost:1313/id/circle-illusion/</link>
     <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -42,6 +51,17 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/mengenal-paket-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas tentang konsep, jenis dan fungsi paket yang ada di LaTeX.</p>
+<hr>]]></description>
+</item><item>
+    <title>Panduan Teknis: Cara Mengompilasi Dokumen LaTeX Secara Lengkap dan Efisien</title>
+    <link>http://localhost:1313/id/kompilasi-dokumen-di-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/kompilasi-dokumen-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Kompilasi ini merupakan proses menerjemahkan perintah LaTeX menjadi dokumen siap cetak.<br>
+Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang tersedia, urutan proses, hingga penyelesaian error secara efisien.</p>
 <hr>]]></description>
 </item><item>
     <title>Pemformatan Teks di LaTeX</title>
@@ -81,14 +101,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas sejarah TeX dan LaTeX, sistem penyusunan dokumen oleh Knuth dan Lamport, dari awal pada 1978 hingga standar akademik modern, dengan fokus pada perkembangan, fitur, dan prospek masa depan hingga saat ini.</p>]]></description>
-</item><item>
-    <title>Menulis Ekspresi Matematika di Markdown</title>
-    <link>http://localhost:1313/id/menulis-ekspresi-matematika/</link>
-    <pubDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/menulis-ekspresi-matematika/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/menulis-ekspresi-matematika/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang penulisan ekspresi matematika di markdown menggunakan KaTeX.</p>]]></description>
 </item></channel>
 </rss>

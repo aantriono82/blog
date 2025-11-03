@@ -17,6 +17,15 @@
             </div><p>Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di <strong>Serial Anime: Naruto Shippuden</strong> menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.</p>
 <hr>]]></description>
 </item><item>
+    <title>Ilusi Titik Putih: Persepsi Kontras dalam Pola Kisi Gelap</title>
+    <link>http://localhost:1313/id/white-dot-illusion/</link>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/white-dot-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/white-dot-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya</p>]]></description>
+</item><item>
     <title>Ilusi Lingkaran: Fenomena Persepsi Ukuran di Sekitar Lingkaran Tengah</title>
     <link>http://localhost:1313/id/circle-illusion/</link>
     <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -96,15 +105,5 @@ Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di
     <description><![CDATA[<div class="featured-image">
                 <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas tentang cara menginstal berbagai mesin LaTeX yang digunakan untuk menulis dokumen di lintas sistem operasi</p>]]></description>
-</item><item>
-    <title>Mengenal Ubuntu: Distribusi Linux Ramah Pengguna untuk Berbagai Kebutuhan</title>
-    <link>http://localhost:1313/id/lebih-dekat-dengan-ubuntu/</link>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/lebih-dekat-dengan-ubuntu/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang distro linux yang populer, ramah pengguna, mudah digunakan untuk berbagai keperluan yaitu Ubuntu.</p>
-<hr>]]></description>
 </item></channel>
 </rss>

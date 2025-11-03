@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ubuntu - Tag - Aan Triono</title>
+        <link>http://localhost:1313/tags/ubuntu/</link>
+        <description>Ubuntu - Tag - Aan Triono</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ubuntu/" rel="self" type="application/rss+xml" /><item>
+    <title>Getting to Know Ubuntu: A User-Friendly Linux Distribution for All Needs</title>
+    <link>http://localhost:1313/lebih-dekat-dengan-ubuntu/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/lebih-dekat-dengan-ubuntu/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article introduces <strong>Ubuntu</strong>, a popular, user-friendly Linux distribution designed for diverse use cases — from personal computing to professional development.</p>
+<hr>]]></description>
+</item></channel>
+</rss>

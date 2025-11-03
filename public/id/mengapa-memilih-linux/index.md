@@ -7,7 +7,6 @@ Artikel ini membahas tentang alasan migrasi dari Windows ke Linux.
 <!--more-->
 
 
-# Pengalaman Pindah dari Windows ke Linux: 10 Alasan Utama  
 
 Tidak terasa, sudah 3 tahun penulis menggunakan Linux sebagai sistem operasi di laptop yang saya gunakan untuk menunjang pekerjaan sehari-hari. Berawal dari ~~manisnya kasih sayang~~ kesadaran akan subhatnya dan bahaya aplikasi _bajakan_ atau _crack_ yang terpasang di laptop Windows.
 

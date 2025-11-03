@@ -44,6 +44,10 @@ Below is the complete LaTeX source used to visualize the illusion:
 
 ---
 
+The output produced:
+
+![ilusi titik](ilusi.png "White Dot Illusion")
+
 ## Explanation of Code Structure
 
 ### **Document Declaration**

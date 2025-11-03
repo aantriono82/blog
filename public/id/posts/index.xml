@@ -5,25 +5,6 @@
         <description>Semua Pos | Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
             <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Ilusi Lingkaran: Antara Geometri dan Persepsi Visual</title>
-    <link>http://localhost:1313/id/optical-illusion/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/optical-illusion/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas bagaimana sebuah <strong>susunan persegi</strong> dapat membentuk kesan lingkaran berputar menggunakan <strong>LaTeX dan TikZ</strong>. Kita akan mempelajari struktur kodenya, prinsip visual yang mendasari ilusi ini, serta maknanya dalam konteks persepsi dan seni visual.</p>
-<hr>]]></description>
-</item><item>
-    <title>Ilusi Lingkaran: Fenomena Persepsi Ukuran di Sekitar Lingkaran Tengah</title>
-    <link>http://localhost:1313/id/circle-illusion/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/circle-illusion/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas ilusi lingkaran, di mana dua lingkaran pusat yang identik tampak berbeda ukuran karena konteks visual di sekitarnya. Dibuat menggunakan LaTeX TikZ, artikel ini memberikan penjelasan lengkap mengenai struktur kode dan konsep persepsi dibaliknya.</p>]]></description>
-</item><item>
     <title>Perbedaan BSD dan Linux</title>
     <link>http://localhost:1313/id/perbedaan-bsd-dan-linux/</link>
     <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -32,6 +13,15 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/perbedaan-bsd-dan-linux/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas tentang perbedaan sistem operasi BSD dan GNU/Linux</p>]]></description>
+</item><item>
+    <title>Sejarah Singkat GNU/Linux</title>
+    <link>http://localhost:1313/id/gnu-linux/</link>
+    <pubDate>Sun, 28 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/gnu-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang sejarah singkat sistem operasi GNU/Linux</p>]]></description>
 </item><item>
     <title>Sintaks Markdown Dasar</title>
     <link>http://localhost:1313/id/sintaks-markdown-dasar/</link>
@@ -51,6 +41,24 @@
                 <img src="/menulis-ekspresi-matematika/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas tentang penulisan ekspresi matematika di markdown menggunakan KaTeX.</p>]]></description>
 </item><item>
+    <title>Lingkungan Desktop Linux</title>
+    <link>http://localhost:1313/id/lingkungan-desktop-linux/</link>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/lingkungan-desktop-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lingkungan-desktop-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang lingkungan desktop (desktop environment) yang digunakan di berbagai distro Linux</p>]]></description>
+</item><item>
+    <title>Mengapa Memilih Linux</title>
+    <link>http://localhost:1313/id/mengapa-memilih-linux/</link>
+    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/mengapa-memilih-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang alasan migrasi dari Windows ke Linux.</p>]]></description>
+</item><item>
     <title>Sejarah TeX dan LaTeX: Evolusi Sistem Penyusunan Dokumen Digital</title>
     <link>http://localhost:1313/id/sejarah-tex-dan-latex/</link>
     <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -69,6 +77,15 @@
                 <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas tentang distro linux yang populer, ramah pengguna, mudah digunakan untuk berbagai keperluan yaitu Ubuntu.</p>
 <hr>]]></description>
+</item><item>
+    <title>Panduan Instalasi MikTeX, MacTeX, dan TeXlive di Berbagai Platform Sistem Operasi</title>
+    <link>http://localhost:1313/id/instal-miktex-mactex-texlive/</link>
+    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/instal-miktex-mactex-texlive/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang cara menginstal berbagai mesin LaTeX yang digunakan untuk menulis dokumen di lintas sistem operasi</p>]]></description>
 </item><item>
     <title>Struktur Dokumen LaTeX</title>
     <link>http://localhost:1313/id/struktur-dokumen-latex/</link>
@@ -90,53 +107,6 @@
             </div><p>Artikel ini membahas tentang pemformatan teks yang biasanya dilakukan di dokumen yang ditulis menggunakan LaTeX.</p>
 <hr>]]></description>
 </item><item>
-    <title>Panduan Teknis: Cara Mengompilasi Dokumen LaTeX Secara Lengkap dan Efisien</title>
-    <link>http://localhost:1313/id/kompilasi-dokumen-di-latex/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/kompilasi-dokumen-di-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Kompilasi ini merupakan proses menerjemahkan perintah LaTeX menjadi dokumen siap cetak.<br>
-Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang tersedia, urutan proses, hingga penyelesaian error secara efisien.</p>
-<hr>]]></description>
-</item><item>
-    <title>Sejarah Singkat GNU/Linux</title>
-    <link>http://localhost:1313/id/gnu-linux/</link>
-    <pubDate>Sun, 28 Sep 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/gnu-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang sejarah singkat sistem operasi GNU/Linux</p>]]></description>
-</item><item>
-    <title>Lingkungan Desktop Linux</title>
-    <link>http://localhost:1313/id/lingkungan-desktop-linux/</link>
-    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/lingkungan-desktop-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/lingkungan-desktop-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang lingkungan desktop (desktop environment) yang digunakan di berbagai distro Linux</p>]]></description>
-</item><item>
-    <title>Mengapa Memilih Linux</title>
-    <link>http://localhost:1313/id/mengapa-memilih-linux/</link>
-    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/mengapa-memilih-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang alasan migrasi dari Windows ke Linux.</p>]]></description>
-</item><item>
-    <title>Panduan Instalasi MikTeX, MacTeX, dan TeXlive di Berbagai Platform Sistem Operasi</title>
-    <link>http://localhost:1313/id/instal-miktex-mactex-texlive/</link>
-    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/instal-miktex-mactex-texlive/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang cara menginstal berbagai mesin LaTeX yang digunakan untuk menulis dokumen di lintas sistem operasi</p>]]></description>
-</item><item>
     <title>Debian: Sistem Operasi Universal</title>
     <link>http://localhost:1313/id/distro-linux-debian/</link>
     <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -146,6 +116,17 @@ Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang te
                 <img src="/distro-linux-debian/Featured-image.png" referrerpolicy="no-referrer">
             </div><p>Debian adalah salah satu distribusi Linux tertua dan paling dihormati, dikenal karena stabilitas, keamanan, dan prinsip perangkat lunak bebasnya.<br>
 Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di bidang pengembangan perangkat lunak, serta kelebihan dan kekurangannya — secara mendalam namun tetap mudah dipahami.</p>
+<hr>]]></description>
+</item><item>
+    <title>Panduan Teknis: Cara Mengompilasi Dokumen LaTeX Secara Lengkap dan Efisien</title>
+    <link>http://localhost:1313/id/kompilasi-dokumen-di-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/kompilasi-dokumen-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Kompilasi ini merupakan proses menerjemahkan perintah LaTeX menjadi dokumen siap cetak.<br>
+Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang tersedia, urutan proses, hingga penyelesaian error secara efisien.</p>
 <hr>]]></description>
 </item><item>
     <title>Mengenal Paket di LaTeX</title>
@@ -158,6 +139,25 @@ Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di
             </div><p>Artikel ini membahas tentang konsep, jenis dan fungsi paket yang ada di LaTeX.</p>
 <hr>]]></description>
 </item><item>
+    <title>Ilusi Lingkaran: Antara Geometri dan Persepsi Visual</title>
+    <link>http://localhost:1313/id/optical-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/optical-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas bagaimana sebuah <strong>susunan persegi</strong> dapat membentuk kesan lingkaran berputar menggunakan <strong>LaTeX dan TikZ</strong>. Kita akan mempelajari struktur kodenya, prinsip visual yang mendasari ilusi ini, serta maknanya dalam konteks persepsi dan seni visual.</p>
+<hr>]]></description>
+</item><item>
+    <title>Ilusi Lingkaran: Fenomena Persepsi Ukuran di Sekitar Lingkaran Tengah</title>
+    <link>http://localhost:1313/id/circle-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/circle-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas ilusi lingkaran, di mana dua lingkaran pusat yang identik tampak berbeda ukuran karena konteks visual di sekitarnya. Dibuat menggunakan LaTeX TikZ, artikel ini memberikan penjelasan lengkap mengenai struktur kode dan konsep persepsi dibaliknya.</p>]]></description>
+</item><item>
     <title>Menggambar Mata Sharingan dan Rinnegan dengan LaTeX</title>
     <link>http://localhost:1313/id/menggambar-sharingan-dan-rinnegan-dengan-latex/</link>
     <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -167,5 +167,14 @@ Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di
                 <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di <strong>Serial Anime: Naruto Shippuden</strong> menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.</p>
 <hr>]]></description>
+</item><item>
+    <title>Ilusi Titik Putih: Persepsi Kontras dalam Pola Kisi Gelap</title>
+    <link>http://localhost:1313/id/white-dot-illusion/</link>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/white-dot-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/white-dot-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya</p>]]></description>
 </item></channel>
 </rss>

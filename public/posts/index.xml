@@ -5,25 +5,6 @@
         <description>All Posts | Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
             <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>The Circle Illusion: Between Geometry and Visual Perception</title>
-    <link>http://localhost:1313/optical-illusion/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/optical-illusion/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article explores how an <strong>arrangement of squares</strong> can form a rotating circular illusion using <strong>LaTeX and TikZ</strong>. We will examine the structure of the code, the visual principles behind the illusion, and its significance in perception and visual art.</p>
-<hr>]]></description>
-</item><item>
-    <title>Circle Illusion: The Perceptual Phenomenon of Size Around a Central Circle</title>
-    <link>http://localhost:1313/circle-illusion/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/circle-illusion/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the circle illusion, where two identical central circles appear different in size due to surrounding visual context. Built with LaTeX TikZ, this article provides a complete explanation of the code structure and perceptual science behind it.</p>]]></description>
-</item><item>
     <title>Differences Between BSD and Linux</title>
     <link>http://localhost:1313/perbedaan-bsd-dan-linux/</link>
     <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -32,6 +13,15 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/perbedaan-bsd-dan-linux/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses the differences between BSD and GNU/Linux operating systems.</p>]]></description>
+</item><item>
+    <title>A Brief History of GNU/Linux</title>
+    <link>http://localhost:1313/gnu-linux/</link>
+    <pubDate>Sun, 28 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/gnu-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the brief history of the GNU/Linux operating system</p>]]></description>
 </item><item>
     <title>Basic Markdown Syntax</title>
     <link>http://localhost:1313/sintaks-markdown-dasar/</link>
@@ -60,6 +50,15 @@
                 <img src="/lingkungan-desktop-linux/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses the <strong>desktop environments</strong> used across different Linux distributions.</p>]]></description>
 </item><item>
+    <title>Why Choose Linux</title>
+    <link>http://localhost:1313/mengapa-memilih-linux/</link>
+    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/mengapa-memilih-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the reasons for migrating from Windows to Linux.</p>]]></description>
+</item><item>
     <title>History of TeX and LaTeX: Evolution of Digital Document Typesetting Systems</title>
     <link>http://localhost:1313/sejarah-tex-dan-latex/</link>
     <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -78,6 +77,15 @@
                 <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article introduces <strong>Ubuntu</strong>, a popular, user-friendly Linux distribution designed for diverse use cases — from personal computing to professional development.</p>
 <hr>]]></description>
+</item><item>
+    <title>Installation Guide for MiKTeX, MacTeX, and TeX Live Across Operating Systems</title>
+    <link>http://localhost:1313/instal-miktex-mactex-texlive/</link>
+    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/instal-miktex-mactex-texlive/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses how to install various LaTeX engines used for creating documents across different operating systems.</p>]]></description>
 </item><item>
     <title>LaTeX Document Structure</title>
     <link>http://localhost:1313/struktur-dokumen-latex/</link>
@@ -98,44 +106,6 @@
                 <img src="/format-teks-di-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses text formatting commonly used in documents written with LaTeX.</p>
 <hr>]]></description>
-</item><item>
-    <title>Technical Guide: How to Compile LaTeX Documents Completely and Efficiently</title>
-    <link>http://localhost:1313/kompilasi-dokumen-di-latex/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/kompilasi-dokumen-di-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Compilation is the process of translating LaTeX commands into a ready-to-print document.<br>
-This article discusses how LaTeX compilation works, types of compilers available, the compilation sequence, and how to resolve errors efficiently.</p>
-<hr>]]></description>
-</item><item>
-    <title>A Brief History of GNU/Linux</title>
-    <link>http://localhost:1313/gnu-linux/</link>
-    <pubDate>Sun, 28 Sep 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/gnu-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the brief history of the GNU/Linux operating system</p>]]></description>
-</item><item>
-    <title>Why Choose Linux</title>
-    <link>http://localhost:1313/mengapa-memilih-linux/</link>
-    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/mengapa-memilih-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the reasons for migrating from Windows to Linux.</p>]]></description>
-</item><item>
-    <title>Installation Guide for MiKTeX, MacTeX, and TeX Live Across Operating Systems</title>
-    <link>http://localhost:1313/instal-miktex-mactex-texlive/</link>
-    <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/instal-miktex-mactex-texlive/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses how to install various LaTeX engines used for creating documents across different operating systems.</p>]]></description>
 </item><item>
     <title>Debian: The Universal Operating System</title>
     <link>http://localhost:1313/distro-linux-debian/</link>
@@ -158,6 +128,36 @@ In this article, we will discuss its history, characteristics, variants, use in 
             </div><p>This article discusses the concepts, types, and functions of packages in LaTeX.</p>
 <hr>]]></description>
 </item><item>
+    <title>Technical Guide: How to Compile LaTeX Documents Completely and Efficiently</title>
+    <link>http://localhost:1313/kompilasi-dokumen-di-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/kompilasi-dokumen-di-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Compilation is the process of translating LaTeX commands into a ready-to-print document.<br>
+This article discusses how LaTeX compilation works, types of compilers available, the compilation sequence, and how to resolve errors efficiently.</p>
+<hr>]]></description>
+</item><item>
+    <title>The Circle Illusion: Between Geometry and Visual Perception</title>
+    <link>http://localhost:1313/optical-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/optical-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article explores how an <strong>arrangement of squares</strong> can form a rotating circular illusion using <strong>LaTeX and TikZ</strong>. We will examine the structure of the code, the visual principles behind the illusion, and its significance in perception and visual art.</p>
+<hr>]]></description>
+</item><item>
+    <title>Circle Illusion: The Perceptual Phenomenon of Size Around a Central Circle</title>
+    <link>http://localhost:1313/circle-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/circle-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the circle illusion, where two identical central circles appear different in size due to surrounding visual context. Built with LaTeX TikZ, this article provides a complete explanation of the code structure and perceptual science behind it.</p>]]></description>
+</item><item>
     <title>Drawing Sharingan and Rinnegan Eyes with LaTeX</title>
     <link>http://localhost:1313/menggambar-sharingan-dan-rinnegan-dengan-latex/</link>
     <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -167,5 +167,14 @@ In this article, we will discuss its history, characteristics, variants, use in 
                 <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses how to draw sharingan and rinnegan eyes from <strong>Anime Series: Naruto Shippuden</strong> using LaTeX, with the main package used being Tikz package.</p>
 <hr>]]></description>
+</item><item>
+    <title>White Dot Illusion: Perceptual Contrast in a Dark Grid Pattern</title>
+    <link>http://localhost:1313/white-dot-illusion/</link>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/white-dot-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/white-dot-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the visual illusion of white dots appearing in a dark grid pattern, where the brain creates contrast perceptions that are not physically present. Built using LaTeX PSTricks, it provides a complete explanation of the code structure and the perceptual mechanisms behind it.</p>]]></description>
 </item></channel>
 </rss>
