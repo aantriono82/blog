@@ -572,7 +572,7 @@ bundle = false
 [seo]
   # image URL
   # 图片 URL
-  image = "/images/avatar.png"
+  image = "/images/aan1.png"
   # thumbnail URL
   # 缩略图 URL
   thumbnailUrl = "/images/aan1.png"
