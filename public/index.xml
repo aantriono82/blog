@@ -18,12 +18,12 @@
 <hr>]]></description>
 </item><item>
     <title>The Café Wall Illusion: Straight Lines That Appear Curved</title>
-    <link>http://localhost:1313/parallel-lines/</link>
+    <link>http://localhost:1313/cafe-wall-illusion/</link>
     <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/parallel-lines/</guid>
+    </author><guid>http://localhost:1313/cafe-wall-illusion/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/parallel-lines/featured-image.png" referrerpolicy="no-referrer">
+                <img src="/cafe-wall-illusion/featured-image.png" referrerpolicy="no-referrer">
             </div><div class="details admonition note open">
     <div class="details-summary admonition-title">
         <span class="icon"><svg class="icon"
@@ -52,7 +52,17 @@ This is known as the <strong>Café Wall Illusion</strong>, an optical illusion w
     </author><guid>http://localhost:1313/circle-illusion/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the circle illusion, where two identical central circles appear different in size due to surrounding visual context. Built with LaTeX TikZ, this article provides a complete explanation of the code structure and perceptual science behind it.</p>]]></description>
+            </div><div class="details admonition note open">
+    <div class="details-summary admonition-title">
+        <span class="icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
+    </div>
+    <div class="details-content">
+        <div class="admonition-content">This article discusses the circle illusion, where two identical central circles appear different in size due to surrounding visual context. Built with LaTeX TikZ, this article provides a complete explanation of the code structure and perceptual science behind it.</div></div></div>
+<h2 id="introduction" class="headerLink">
+    <a href="#introduction" class="header-mark"></a>28 Introduction</h2><p>In the realm of visual perception, the human brain often processes size <strong>relatively</strong> rather than <strong>absolutely</strong>.<br>
+One of the most well-known examples of this is the <strong>Ebbinghaus Illusion</strong>, or <strong>Circle Illusion</strong>, in which two identical circles appear to be of different sizes due to the surrounding shapes.</p>]]></description>
 </item><item>
     <title>The Circle Illusion: Between Geometry and Visual Perception</title>
     <link>http://localhost:1313/optical-illusion/</link>
@@ -92,9 +102,25 @@ This article discusses how LaTeX compilation works, types of compilers available
     </author><guid>http://localhost:1313/distro-linux-debian/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/distro-linux-debian/Featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Debian is one of the oldest and most respected Linux distributions, known for its stability, security, and free software principles.<br>
-In this article, we will discuss its history, characteristics, variants, use in software development, as well as its advantages and disadvantages — in depth yet easy to understand.</p>
-<hr>]]></description>
+            </div><div class="details admonition note open">
+    <div class="details-summary admonition-title">
+        <span class="icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
+    </div>
+    <div class="details-content">
+        <div class="admonition-content">Debian is one of the oldest and most respected Linux distributions, known for its stability, security, and free software principles.<br>
+In this article, we will discuss its history, characteristics, variants, use in software development, as well as its advantages and disadvantages — in depth yet easy to understand.</div></div></div>
+<hr>
+<h2 id="a-brief-history-of-debian" class="headerLink">
+    <a href="#a-brief-history-of-debian" class="header-mark"></a>28 A Brief History of Debian</h2><ul>
+<li>Debian was founded in August 1993 by <strong>Ian Murdock</strong> as a community project aimed at providing a <em>universal, free, and high-quality</em> Linux operating system.</li>
+<li>From the beginning, Debian has embraced the spirit of free software and global collaboration.</li>
+<li>Debian release names follow characters from the <em>Toy Story</em> movies (such as &ldquo;Jessie&rdquo;, &ldquo;Bullseye&rdquo;, &ldquo;Bookworm&rdquo;, and so on).</li>
+<li>Debian serves as the foundation for many other popular distributions such as <strong>Ubuntu</strong>, <strong>Linux Mint</strong>, and other variants.</li>
+<li>Analysis of Debian 3.0 showed that this project was massive in code scope: over 105 million lines of source code.
+<blockquote>
+  <p>Source: <a href="https://arxiv.org/abs/cs/0506067" target="_blank" rel="noopener noreferrer">arxiv.org</a></p>]]></description>
 </item><item>
     <title>Text Formatting in LaTeX</title>
     <link>http://localhost:1313/format-teks-di-latex/</link>
@@ -103,8 +129,17 @@ In this article, we will discuss its history, characteristics, variants, use in 
     </author><guid>http://localhost:1313/format-teks-di-latex/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/format-teks-di-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses text formatting commonly used in documents written with LaTeX.</p>
-<hr>]]></description>
+            </div><div class="details admonition note open">
+    <div class="details-summary admonition-title">
+        <span class="icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
+    </div>
+    <div class="details-content">
+        <div class="admonition-content">This article discusses text formatting commonly used in documents written with LaTeX.
+LaTeX is a powerful document preparation system, primarily used in scientific and technical writing. One of its strengths is its ability to format text flexibly and precisely. This article will cover various basic and advanced text formatting techniques in LaTeX, including the use of font styles, font sizes, text alignment, and other elements commonly used in LaTeX documents.</div></div></div>
+<h2 id="font-styles" class="headerLink">
+    <a href="#font-styles" class="header-mark"></a>1 Font Styles</h2><p>LaTeX provides various commands to change text font styles:</p>]]></description>
 </item><item>
     <title>LaTeX Document Structure</title>
     <link>http://localhost:1313/struktur-dokumen-latex/</link>

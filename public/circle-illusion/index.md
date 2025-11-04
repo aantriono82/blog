@@ -1,9 +1,11 @@
 # Circle Illusion: The Perceptual Phenomenon of Size Around a Central Circle
 
 
+{{< admonition >}}
+
 This article discusses the circle illusion, where two identical central circles appear different in size due to surrounding visual context. Built with LaTeX TikZ, this article provides a complete explanation of the code structure and perceptual science behind it.
 
-<!--more-->
+{{< /admonition >}}
 
 ## Introduction
 

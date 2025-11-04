@@ -1,8 +1,10 @@
 # Technical Guide: How to Compile LaTeX Documents Completely and Efficiently
 
 
+{{< admonition >}}
 Compilation is the process of translating LaTeX commands into a ready-to-print document.  
 This article discusses how LaTeX compilation works, types of compilers available, the compilation sequence, and how to resolve errors efficiently.
+{{< /admonition >}}
 
 ---
 

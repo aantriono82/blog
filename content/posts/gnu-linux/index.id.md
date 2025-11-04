@@ -16,15 +16,15 @@ categories: ["Linux"]
 lightgallery: true
 ---
 
-Artikel ini membahas tentang sejarah singkat sistem operasi GNU/Linux
-
-<!--more-->
-
 {{< admonition >}}
-Untuk mendapatkan sumber yang lebih lengkap, silakan baca [Tentang GNU](https://www.gnu.org/gnu/gnu.html)
 
+Artikel ini membahas tentang sejarah singkat sistem operasi GNU/Linux. 
+Untuk mendapatkan sumber yang lebih lengkap, silakan baca [Tentang GNU](https://www.gnu.org/gnu/gnu.html). 
 Untuk mendapatkan sumber yang terpercaya dan lengkap tentang Linux, silakan baca [Tentang Linux](https://www.linux.org/).
+
 {{< /admonition >}}
+
+---
 
 ## *Pengertian GNU/Linux: Sistem Operasi Bebas dan Terbuka*
 GNU/Linux adalah sistem operasi yang terdiri dari dua komponen utama, yaitu proyek GNU dan kernel Linux. Sistem operasi ini dikenal karena sifatnya yang bebas dan terbuka, yang memungkinkan pengguna untuk memodifikasi, mendistribusikan, dan menggunakannya tanpa batasan yang ketat seperti pada sistem operasi proprietary. GNU/Linux telah menjadi pilihan utama bagi banyak pengguna, mulai dari individu hingga organisasi besar, karena fleksibilitas, keamanan, dan stabilitasnya.

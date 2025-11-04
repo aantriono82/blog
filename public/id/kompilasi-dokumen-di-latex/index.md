@@ -1,14 +1,12 @@
 # Panduan Teknis: Cara Mengompilasi Dokumen LaTeX Secara Lengkap dan Efisien
 
 
-
+{{< admonition >}}
 Kompilasi ini merupakan proses menerjemahkan perintah LaTeX menjadi dokumen siap cetak.  
 Artikel ini membahas cara kerja kompilasi LaTeX, jenis *compiler* yang tersedia, urutan proses, hingga penyelesaian error secara efisien.
+{{< /admonition >}}
 
 ---
-
-<!--more-->
-
 
 
 ## Pendahuluan

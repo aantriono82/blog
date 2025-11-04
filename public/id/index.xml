@@ -18,12 +18,12 @@
 <hr>]]></description>
 </item><item>
     <title>Ilusi Dinding Kafe: Garis Lurus yang Terlihat Melengkung</title>
-    <link>http://localhost:1313/id/parallel-lines/</link>
+    <link>http://localhost:1313/id/cafe-wall-illusion/</link>
     <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/parallel-lines/</guid>
+    </author><guid>http://localhost:1313/id/cafe-wall-illusion/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/parallel-lines/featured-image.png" referrerpolicy="no-referrer">
+                <img src="/cafe-wall-illusion/featured-image.png" referrerpolicy="no-referrer">
             </div><div class="details admonition note open">
     <div class="details-summary admonition-title">
         <span class="icon"><svg class="icon"
@@ -52,7 +52,17 @@ Fenomena ini dikenal sebagai <strong>Café Wall Illusion</strong> — sebuah ilu
     </author><guid>http://localhost:1313/id/circle-illusion/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas ilusi lingkaran, di mana dua lingkaran pusat yang identik tampak berbeda ukuran karena konteks visual di sekitarnya. Dibuat menggunakan LaTeX TikZ, artikel ini memberikan penjelasan lengkap mengenai struktur kode dan konsep persepsi dibaliknya.</p>]]></description>
+            </div><div class="details admonition note open">
+    <div class="details-summary admonition-title">
+        <span class="icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Catatan<span class="details-icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
+    </div>
+    <div class="details-content">
+        <div class="admonition-content">Artikel ini membahas ilusi lingkaran, di mana dua lingkaran pusat yang identik tampak berbeda ukuran karena konteks visual di sekitarnya. Dibuat menggunakan LaTeX TikZ, artikel ini memberikan penjelasan lengkap mengenai struktur kode dan konsep persepsi dibaliknya.</div></div></div>
+<h2 id="pendahuluan" class="headerLink">
+    <a href="#pendahuluan" class="header-mark"></a>28 Pendahuluan</h2><p>Dalam ranah persepsi visual, otak manusia sering kali memproses ukuran <strong>secara relatif</strong>, bukan <strong>secara absolut</strong>.<br>
+Salah satu contoh paling terkenal dari fenomena ini adalah <strong>Ilusi Ebbinghaus</strong>, atau <strong>Ilusi Lingkaran</strong>, di mana dua lingkaran identik tampak memiliki ukuran berbeda karena bentuk-bentuk di sekelilingnya.</p>]]></description>
 </item><item>
     <title>Ilusi Lingkaran: Antara Geometri dan Persepsi Visual</title>
     <link>http://localhost:1313/id/optical-illusion/</link>
@@ -92,9 +102,25 @@ Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang te
     </author><guid>http://localhost:1313/id/distro-linux-debian/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/distro-linux-debian/Featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Debian adalah salah satu distribusi Linux tertua dan paling dihormati, dikenal karena stabilitas, keamanan, dan prinsip perangkat lunak bebasnya.<br>
-Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di bidang pengembangan perangkat lunak, serta kelebihan dan kekurangannya — secara mendalam namun tetap mudah dipahami.</p>
-<hr>]]></description>
+            </div><div class="details admonition note open">
+    <div class="details-summary admonition-title">
+        <span class="icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Catatan<span class="details-icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
+    </div>
+    <div class="details-content">
+        <div class="admonition-content">Debian adalah salah satu distribusi Linux tertua dan paling dihormati, dikenal karena stabilitas, keamanan, dan prinsip perangkat lunak bebasnya.<br>
+Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di bidang pengembangan perangkat lunak, serta kelebihan dan kekurangannya — secara mendalam namun tetap mudah dipahami.</div></div></div>
+<hr>
+<h2 id="sejarah-singkat-debian" class="headerLink">
+    <a href="#sejarah-singkat-debian" class="header-mark"></a>28 Sejarah Singkat Debian</h2><ul>
+<li>Debian didirikan pada Agustus 1993 oleh <strong>Ian Murdock</strong> sebagai proyek komunitas yang bertujuan menyediakan sistem operasi Linux yang <em>universal, bebas, dan berkualitas tinggi</em>.</li>
+<li>Sejak awal, Debian mengusung semangat perangkat lunak bebas (<em>free software</em>) dan kolaborasi global.</li>
+<li>Nama rilis Debian mengikuti karakter dari film <em>Toy Story</em> (misalnya &ldquo;Jessie&rdquo;, &ldquo;Bullseye&rdquo;, &ldquo;Bookworm&rdquo;, dan seterusnya).</li>
+<li>Debian menjadi basis bagi banyak distro populer lainnya seperti <strong>Ubuntu</strong>, <strong>Linux Mint</strong>, dan varian lain.</li>
+<li>Analisis terhadap Debian 3.0 menunjukkan bahwa proyek ini sangat besar dalam cakupan kode: lebih dari 105 juta baris kode sumber.
+<blockquote>
+  <p>Sumber: <a href="https://arxiv.org/abs/cs/0506067" target="_blank" rel="noopener noreferrer">arxiv.org</a></p>]]></description>
 </item><item>
     <title>Pemformatan Teks di LaTeX</title>
     <link>http://localhost:1313/id/format-teks-di-latex/</link>
@@ -103,8 +129,17 @@ Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di
     </author><guid>http://localhost:1313/id/format-teks-di-latex/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/format-teks-di-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang pemformatan teks yang biasanya dilakukan di dokumen yang ditulis menggunakan LaTeX.</p>
-<hr>]]></description>
+            </div><div class="details admonition note open">
+    <div class="details-summary admonition-title">
+        <span class="icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Catatan<span class="details-icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
+    </div>
+    <div class="details-content">
+        <div class="admonition-content">Artikel ini membahas tentang pemformatan teks yang biasanya dilakukan di dokumen yang ditulis menggunakan LaTeX.
+LaTeX adalah sistem penyusunan dokumen yang kuat, terutama digunakan dalam penulisan ilmiah dan teknis. Salah satu keunggulannya adalah kemampuannya dalam memformat teks secara fleksibel dan presisi. Artikel ini akan membahas berbagai teknik pemformatan teks dasar dan lanjutan di LaTeX, termasuk penggunaan gaya font, ukuran font, perataan teks, dan elemen-elemen lain yang sering digunakan dalam dokumen LaTeX.</div></div></div>
+<h2 id="gaya-font" class="headerLink">
+    <a href="#gaya-font" class="header-mark"></a>1 Gaya Font</h2><p>LaTeX menyediakan berbagai perintah untuk mengubah gaya font teks:</p>]]></description>
 </item><item>
     <title>Struktur Dokumen LaTeX</title>
     <link>http://localhost:1313/id/struktur-dokumen-latex/</link>

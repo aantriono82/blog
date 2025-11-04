@@ -1,13 +1,10 @@
 # Installation Guide for MiKTeX, MacTeX, and TeX Live Across Operating Systems
 
 
-This article discusses how to install various LaTeX engines used for creating documents across different operating systems.
-
-<!--more-->
-
 {{< admonition >}}
 
-To learn LaTeX in depth, visit [LaTeX Learning Guide](https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html)
+This article discusses how to install various LaTeX engines used for creating documents across different operating systems.
+To learn LaTeX in depth, visit [LaTeX Learning Guide](https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html).
 
 {{< /admonition >}}
 

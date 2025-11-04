@@ -16,18 +16,16 @@ categories: ["Linux"]
 lightgallery: true
 twemoji: true
 ---
+
+{{< admonition >}}
+
 Debian is one of the oldest and most respected Linux distributions, known for its stability, security, and free software principles.  
 In this article, we will discuss its history, characteristics, variants, use in software development, as well as its advantages and disadvantages — in depth yet easy to understand.
 
----
-
-<!--more-->
-
-{{< admonition >}}
-**Note**: This article was generated with the assistance of AI technology and has been manually reviewed to ensure accuracy and clarity of information.
 {{< /admonition >}}
 
 ---
+
 
 ## A Brief History of Debian
 

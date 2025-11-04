@@ -1,15 +1,12 @@
 # Panduan Instalasi MikTeX, MacTeX, dan TeXlive di Berbagai Platform Sistem Operasi
 
 
-Artikel ini membahas tentang cara menginstal berbagai mesin LaTeX yang digunakan untuk menulis dokumen di lintas sistem operasi
-
-<!--more-->
-
 {{< admonition >}}
-
-Untuk mempelajari LaTeX secara lebih mendalam, silakan kunjungi [Panduan Belajar LaTeX](https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html)
-
+Artikel ini membahas tentang cara menginstal berbagai mesin LaTeX yang digunakan untuk menulis dokumen di lintas sistem operasi.
+Untuk mempelajari LaTeX secara lebih mendalam, silakan kunjungi [Panduan Belajar LaTeX](https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html).
 {{< /admonition >}}
+
+---
 
 > **Ingin menulis skripsi, laporan ilmiah, atau buku dengan tampilan layaknya publikasi akademik internasional?**  
 > Panduan ini akan membantu Anda memahami dan menginstal LaTeX di Windows, macOS, dan Linux — mulai dari memilih distribusi terbaik hingga menyelesaikan masalah umum.  

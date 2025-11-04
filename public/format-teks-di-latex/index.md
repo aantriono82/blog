@@ -1,13 +1,10 @@
 # Text Formatting in LaTeX
 
+
+{{< admonition >}}
 This article discusses text formatting commonly used in documents written with LaTeX.
-
----
-
-<!--more-->
-
-
 LaTeX is a powerful document preparation system, primarily used in scientific and technical writing. One of its strengths is its ability to format text flexibly and precisely. This article will cover various basic and advanced text formatting techniques in LaTeX, including the use of font styles, font sizes, text alignment, and other elements commonly used in LaTeX documents.
+{{< /admonition >}}
 
 ## Font Styles
 
