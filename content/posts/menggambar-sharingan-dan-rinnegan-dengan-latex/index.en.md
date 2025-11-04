@@ -17,7 +17,10 @@ lightgallery: true
 twemoji: true
 ---
 
+{{< admonition >}}
 This article discusses how to draw sharingan and rinnegan eyes from **Anime Series: Naruto Shippuden** using LaTeX, with the main package used being Tikz package.
+
+{{< /admonition >}}
 
 ---
 

@@ -22,7 +22,8 @@
         <div class="admonition-content">Artikel ini membahas tentang cara menginstal berbagai mesin LaTeX yang digunakan untuk menulis dokumen di lintas sistem operasi.
 Untuk mempelajari LaTeX secara lebih mendalam, silakan kunjungi <a href="https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html" target="_blank" rel="noopener noreferrer">Panduan Belajar LaTeX</a>.</div></div></div>
 <hr>
-<blockquote>
+<h2 id="pendahuluan" class="headerLink">
+    <a href="#pendahuluan" class="header-mark"></a>40 Pendahuluan</h2><blockquote>
   <p><strong>Ingin menulis skripsi, laporan ilmiah, atau buku dengan tampilan layaknya publikasi akademik internasional?</strong><br>
 Panduan ini akan membantu Anda memahami dan menginstal LaTeX di Windows, macOS, dan Linux — mulai dari memilih distribusi terbaik hingga menyelesaikan masalah umum.<br>
 Cocok untuk pemula maupun pengguna tingkat lanjut yang ingin bekerja secara efisien dan profesional.</p>]]></description>

@@ -21,7 +21,9 @@
     <div class="details-content">
         <div class="admonition-content">This article discusses how to install various LaTeX engines used for creating documents across different operating systems.
 To learn LaTeX in depth, visit <a href="https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html" target="_blank" rel="noopener noreferrer">LaTeX Learning Guide</a>.</div></div></div>
-<blockquote>
+<hr>
+<h2 id="introduction" class="headerLink">
+    <a href="#introduction" class="header-mark"></a>40 Introduction</h2><blockquote>
   <p><strong>Want to write your thesis, scientific report, or book with the appearance of an international academic publication?</strong><br>
 This guide will help you understand and install LaTeX on Windows, macOS, and Linux — from choosing the right distribution to solving common issues.<br>
 Perfect for both beginners and advanced users who want to work efficiently and professionally.</p>]]></description>

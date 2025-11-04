@@ -16,15 +16,19 @@ categories: ["LaTeX"]
 lightgallery: true
 twemoji: true
 ---
-Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di **Serial Anime: Naruto Shippuden** menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.
 
----
+{{< admonition >}}
+Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di **Serial Anime: Naruto Shippuden** menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.
+{{< /admonition >}}
 
 <!--more-->
 
+---
 
 > Dalam serial anime *Naruto*, terdapat beberapa jenis *jutsu* mata. **Rinnegan** dan **Sharingan** adalah dua dari tiga *Dōjutsu* atau *jutsu* mata yang paling berbahaya. Keduanya merupakan *Kekkei Genkai* langka yang hanya bisa dimiliki oleh orang tertentu. 
 > Sharingan adalah *Dōjutsu* khas klan Uchiha yang memungkinkan penggunanya menirukan berbagai teknik (*jutsu*) seperti *ninjutsu*, *genjutsu*, dan *taijutsu*. Sementara itu, **Rinnegan** muncul ketika kekuatan *Indra Otsutsuki* dan *Asura Otsutsuki* dikombinasikan. Kekuatan utama Rinnegan adalah kemampuan menguasai kematian dan kehidupan — bahkan dapat mengeluarkan jiwa seseorang hanya dalam hitungan detik.
+
+---
 
 ## Pengantar
 Dalam artikel ini, kita akan mempelajari cara menggambar mata **Sharingan** dan **Rinnegan** menggunakan **LaTeX**.  
