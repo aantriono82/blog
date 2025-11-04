@@ -5,6 +5,15 @@
         <description>Semua Pos | Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
             <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Ilusi Titik Putih: Persepsi Kontras dalam Pola Kisi Gelap</title>
+    <link>http://localhost:1313/id/white-dot-illusion/</link>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/white-dot-illusion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/white-dot-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya</p>]]></description>
+</item><item>
     <title>Perbedaan BSD dan Linux</title>
     <link>http://localhost:1313/id/perbedaan-bsd-dan-linux/</link>
     <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -167,14 +176,5 @@ Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang te
                 <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di <strong>Serial Anime: Naruto Shippuden</strong> menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.</p>
 <hr>]]></description>
-</item><item>
-    <title>Ilusi Titik Putih: Persepsi Kontras dalam Pola Kisi Gelap</title>
-    <link>http://localhost:1313/id/white-dot-illusion/</link>
-    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/white-dot-illusion/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/white-dot-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya</p>]]></description>
 </item></channel>
 </rss>

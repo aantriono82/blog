@@ -11,7 +11,16 @@
                     hreflang="id"
                     href="http://localhost:1313/id/menggambar-sharingan-dan-rinnegan-dengan-latex/"
                     /></url><url>
-            <loc>http://localhost:1313/id/white-dot-illusion/</loc><lastmod>2025-11-02T11:43:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/parallel-lines/</loc><lastmod>2025-10-31T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/parallel-lines/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="id"
+                    href="http://localhost:1313/id/parallel-lines/"
+                    /></url><url>
+            <loc>http://localhost:1313/id/white-dot-illusion/</loc><lastmod>2025-11-04T10:07:30&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/white-dot-illusion/"
@@ -164,7 +173,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/perbedaan-bsd-dan-linux/"
                     /></url><url>
-            <loc>http://localhost:1313/id/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/</loc><lastmod>2025-11-04T10:07:30&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/"
@@ -173,7 +182,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/"
                     /></url><url>
-            <loc>http://localhost:1313/id/categories/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/categories/</loc><lastmod>2025-11-04T10:07:30&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/categories/"
@@ -182,8 +191,8 @@
                     hreflang="id"
                     href="http://localhost:1313/id/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/ilusi-optik/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/id/categories/latex/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/ilusi-optik/</loc><lastmod>2025-11-04T10:07:30&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/id/categories/latex/</loc><lastmod>2025-11-04T10:07:30&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/categories/latex/"
@@ -192,7 +201,16 @@
                     hreflang="id"
                     href="http://localhost:1313/id/categories/latex/"
                     /></url><url>
-            <loc>http://localhost:1313/id/posts/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/optical-illusion/</loc><lastmod>2025-10-31T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/tags/optical-illusion/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="id"
+                    href="http://localhost:1313/id/tags/optical-illusion/"
+                    /></url><url>
+            <loc>http://localhost:1313/id/posts/</loc><lastmod>2025-11-04T10:07:30&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/posts/"
@@ -201,7 +219,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/</loc><lastmod>2025-11-04T10:07:30&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/"
