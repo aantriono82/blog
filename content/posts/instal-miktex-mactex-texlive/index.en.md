@@ -25,6 +25,10 @@ To learn LaTeX in depth, visit [LaTeX Learning Guide](https://www.aantriono.com/
 
 {{< /admonition >}}
 
+---
+
+## Introduction
+
 > **Want to write your thesis, scientific report, or book with the appearance of an international academic publication?**  
 > This guide will help you understand and install LaTeX on Windows, macOS, and Linux — from choosing the right distribution to solving common issues.  
 > Perfect for both beginners and advanced users who want to work efficiently and professionally.

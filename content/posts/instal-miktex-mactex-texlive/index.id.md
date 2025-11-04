@@ -25,6 +25,8 @@ Untuk mempelajari LaTeX secara lebih mendalam, silakan kunjungi [Panduan Belajar
 
 ---
 
+## Pendahuluan
+
 > **Ingin menulis skripsi, laporan ilmiah, atau buku dengan tampilan layaknya publikasi akademik internasional?**  
 > Panduan ini akan membantu Anda memahami dan menginstal LaTeX di Windows, macOS, dan Linux — mulai dari memilih distribusi terbaik hingga menyelesaikan masalah umum.  
 > Cocok untuk pemula maupun pengguna tingkat lanjut yang ingin bekerja secara efisien dan profesional.
