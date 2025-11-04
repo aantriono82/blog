@@ -24,6 +24,8 @@ Artikel ini membahas contoh sintaks Markdown dasar yang dapat digunakan dalam fi
 
 <!--more-->
 
+---
+
 {{< admonition >}}
 Artikel ini adalah salinan dari halaman [Grav original](https://learn.getgrav.org/content/markdown).
 

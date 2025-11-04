@@ -12,11 +12,11 @@ categories: ["LaTeX"]
 featuredImage: "featured-image.png"
 ---
 
-{{< admonition >}}
-
 Artikel ini membahas ilusi visual di mana garis-garis sejajar tampak melengkung akibat pola persegi kontras dan offset posisi antar baris. Ilustrasi dibuat dengan LaTeX TikZ lengkap dengan penjelasan struktur kodenya.
 
-{{< /admonition >}}
+<!--more-->
+
+---
 
 ## Pendahuluan
 

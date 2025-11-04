@@ -17,9 +17,12 @@ categories: ["LaTeX"]
 lightgallery: true
 twemoji: true
 ---
+
 Artikel ini membahas sejarah TeX dan LaTeX, sistem penyusunan dokumen oleh Knuth dan Lamport, dari awal pada 1978 hingga standar akademik modern, dengan fokus pada perkembangan, fitur, dan prospek masa depan hingga saat ini.
 
 <!--more-->
+
+---
 
 {{< admonition >}}
 

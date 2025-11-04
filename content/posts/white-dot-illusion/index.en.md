@@ -20,6 +20,8 @@ This article discusses the visual illusion of white dots appearing in a dark gri
 
 <!--more-->
 
+---
+
 {{< admonition >}}
 **Note:** This article was generated with the help of AI technology and has been manually reviewed to ensure accuracy and clarity.
 {{< /admonition >}}

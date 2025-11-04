@@ -20,11 +20,7 @@ This article discusses the **desktop environments** used across different Linux 
 
 <!--more-->
 
-{{< admonition >}}
-**Note:** This article was generated with the help of AI technology and has been manually reviewed to ensure accuracy and clarity.
-{{< /admonition >}}
-
-# Linux Desktop Environments: Overview, Components, and Popular Choices
+---
 
 ## Overview
 

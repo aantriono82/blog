@@ -17,15 +17,11 @@ categories: ["Linux"]
 lightgallery: true
 ---
 
-Artikel ini membahas tentang lingkungan desktop (desktop environment) yang digunakan di berbagai distro Linux
+Artikel ini membahas tentang lingkungan desktop (desktop environment) yang digunakan di berbagai distro Linux.
 
 <!--more-->
 
-{{< admonition >}}
-**Catatan**: Artikel ini dihasilkan dengan bantuan teknologi AI dan telah direview secara manual untuk memastikan keakuratan dan kejelasan informasi.
-{{< /admonition >}}
-
-# Lingkungan Desktop Linux: Ikhtisar, Komponen, dan Pilihan Populer
+---
 
 ## Ikhtisar
 Bagi pemula Linux, sering kali istilah-istilah baru terasa membingungkan. Salah satu istilah yang sering ditemui adalah **Lingkungan Desktop** atau **Desktop Environment (DE)**.  

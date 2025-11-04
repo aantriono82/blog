@@ -16,11 +16,12 @@ categories: ["LaTeX"]
 lightgallery: true
 twemoji: true
 ---
+
 Artikel ini membahas tentang konsep, jenis dan fungsi paket yang ada di LaTeX.
 
----
-
 <!--more-->
+
+---
 
 
 {{< admonition >}}

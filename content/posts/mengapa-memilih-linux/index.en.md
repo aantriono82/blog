@@ -21,6 +21,9 @@ This article discusses the reasons for migrating from Windows to Linux.
 
 <!--more-->
 
+---
+
+## Introduction
 
 It’s been 3 years since I started using Linux as my primary operating system for everyday work. It all began from the realization of the risks and ethical concerns of using **pirated** or **cracked** software on Windows.
 

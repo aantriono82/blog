@@ -16,13 +16,12 @@ categories: ["Linux"]
 lightgallery: true
 ---
 
-{{< admonition >}}
 
 Artikel ini membahas tentang sejarah singkat sistem operasi GNU/Linux. 
 Untuk mendapatkan sumber yang lebih lengkap, silakan baca [Tentang GNU](https://www.gnu.org/gnu/gnu.html). 
 Untuk mendapatkan sumber yang terpercaya dan lengkap tentang Linux, silakan baca [Tentang Linux](https://www.linux.org/).
 
-{{< /admonition >}}
+<!--more-->
 
 ---
 

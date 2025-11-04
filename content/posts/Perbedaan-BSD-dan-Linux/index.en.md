@@ -21,6 +21,8 @@ This article discusses the differences between BSD and GNU/Linux operating syste
 
 <!--more-->
 
+---
+
 {{< admonition >}}
 When it comes to the most influential operating systems of all time, you can't go without mentioning Unix, Linux, and BSD. Our modern world couldn't exist without these operating systems.
 

@@ -12,7 +12,6 @@ categories: ["LaTeX"]
 featuredImage: "featured-image.png"
 ---
 
-
 Artikel ini membahas ilusi lingkaran, di mana dua lingkaran pusat yang identik tampak berbeda ukuran karena konteks visual di sekitarnya. Dibuat menggunakan LaTeX TikZ, artikel ini memberikan penjelasan lengkap mengenai struktur kode dan konsep persepsi dibaliknya.
 
 <!--more-->

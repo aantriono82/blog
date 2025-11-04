@@ -17,16 +17,12 @@ lightgallery: true
 twemoji: true
 ---
 
-{{< admonition >}}
-
 Debian adalah salah satu distribusi Linux tertua dan paling dihormati, dikenal karena stabilitas, keamanan, dan prinsip perangkat lunak bebasnya.  
 Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di bidang pengembangan perangkat lunak, serta kelebihan dan kekurangannya — secara mendalam namun tetap mudah dipahami.
 
-{{< /admonition >}}
+<!--more-->
 
 ---
-
-
 
 ## Sejarah Singkat Debian
 

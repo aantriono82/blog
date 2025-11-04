@@ -18,9 +18,9 @@ twemoji: true
 ---
 Artikel ini membahas tentang struktur dokumen LaTeX baik pada kelas dokumen surat, artikel, laporan, dan buku.
 
----
-
 <!--more-->
+
+---
 
 ## Pendahuluan
 

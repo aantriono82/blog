@@ -21,6 +21,8 @@ This article discusses the history of TeX and LaTeX, document typesetting system
 
 <!--more-->
 
+---
+
 {{< admonition >}}
 
 To learn LaTeX more deeply, please visit [LaTeX Learning Guide](https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html)

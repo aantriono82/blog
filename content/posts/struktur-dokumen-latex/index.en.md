@@ -19,9 +19,9 @@ twemoji: true
 
 This article discusses LaTeX document structure for letter, article, report, and book document classes.
 
----
-
 <!--more-->
+
+---
 
 ## Introduction
 

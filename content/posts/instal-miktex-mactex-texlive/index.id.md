@@ -18,10 +18,11 @@ lightgallery: true
 twemoji: true
 ---
 
-{{< admonition >}}
+
 Artikel ini membahas tentang cara menginstal berbagai mesin LaTeX yang digunakan untuk menulis dokumen di lintas sistem operasi.
 Untuk mempelajari LaTeX secara lebih mendalam, silakan kunjungi [Panduan Belajar LaTeX](https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html).
-{{< /admonition >}}
+
+<!--more-->
 
 ---
 

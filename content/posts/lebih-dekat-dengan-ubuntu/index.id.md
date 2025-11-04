@@ -17,12 +17,12 @@ categories: ["Linux"]
 lightgallery: true
 twemoji: true
 ---
-Artikel ini membahas tentang distro linux yang populer, ramah pengguna, mudah digunakan untuk berbagai keperluan yaitu Ubuntu.
 
----
+Artikel ini memperkenalkan **Ubuntu**, distribusi Linux populer dan mudah digunakan yang dirancang untuk beragam kasus penggunaan — mulai dari komputasi personal hingga pengembangan profesional.
 
 <!--more-->
 
+---
 
 ## Pendahuluan
 

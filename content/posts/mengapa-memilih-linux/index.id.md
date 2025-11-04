@@ -19,12 +19,13 @@ emoji: true
 
 Artikel ini membahas tentang alasan migrasi dari Windows ke Linux.
 
-
 <!--more-->
 
+---
 
+## Pengantar
 
-Tidak terasa, sudah 3 tahun penulis menggunakan Linux sebagai sistem operasi di laptop yang saya gunakan untuk menunjang pekerjaan sehari-hari. Berawal dari ~~manisnya kasih sayang~~ kesadaran akan subhatnya dan bahaya aplikasi _bajakan_ atau _crack_ yang terpasang di laptop Windows.
+Tidak terasa, sudah 3 tahun penulis menggunakan Linux sebagai sistem operasi di laptop yang digunakan untuk menunjang pekerjaan sehari-hari. Berawal dari ~~manisnya kasih sayang~~ kesadaran akan subhatnya dan bahaya aplikasi _bajakan_ atau _crack_ yang terpasang di laptop Windows.
 
 Sembari berliterasi secara fisik dan digital dan juga berinteraksi dengan para anggota komunitas Linux lintas distro yang tersebar di internet maupun di Telegram maka terbesit niat untuk bermigrasi dari Windows ke Linux. Dari situ saya memutuskan untuk mencoba Linux secara serius.  
 

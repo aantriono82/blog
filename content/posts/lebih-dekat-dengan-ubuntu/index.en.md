@@ -19,9 +19,9 @@ twemoji: true
 
 This article introduces **Ubuntu**, a popular, user-friendly Linux distribution designed for diverse use cases — from personal computing to professional development.
 
----
-
 <!--more-->
+
+---
 
 ## Introduction
 

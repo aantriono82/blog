@@ -21,6 +21,8 @@ Artikel ini membahas tentang perbedaan sistem operasi BSD dan GNU/Linux
 
 <!--more-->
 
+---
+
 {{< admonition >}}
 Ketika datang ke sistem operasi yang paling berpengaruh sepanjang masa, Anda tidak bisa pergi tanpa menyebutkan Unix, Linux, dan BSD. Dunia modern kita tidak bisa ada tanpa sistem operasi ini.
 

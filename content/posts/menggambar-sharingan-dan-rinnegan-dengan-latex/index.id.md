@@ -17,9 +17,7 @@ lightgallery: true
 twemoji: true
 ---
 
-{{< admonition >}}
 Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di **Serial Anime: Naruto Shippuden** menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.
-{{< /admonition >}}
 
 <!--more-->
 

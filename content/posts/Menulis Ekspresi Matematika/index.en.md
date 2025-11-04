@@ -26,6 +26,8 @@ This article discusses writing mathematical expressions in Markdown using KaTeX.
 
 <!--more-->
 
+--
+
 ## Writing Mathematical Expressions Using KaTeX in Markdown
 
 KaTeX is a JavaScript library that allows you to render mathematical expressions using LaTeX syntax on web pages. KaTeX is known for being fast and lightweight, making it ideal for displaying mathematical expressions in Markdown, especially in web or static site applications like Hugo, Jekyll, or plain HTML sites.

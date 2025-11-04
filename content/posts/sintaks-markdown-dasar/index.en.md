@@ -24,6 +24,8 @@ This article discusses examples of basic Markdown syntax that can be used in Hug
 
 <!--more-->
 
+---
+
 {{< admonition >}}
 This article is a copy from the [Grav original](https://learn.getgrav.org/content/markdown) page.
 

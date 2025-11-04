@@ -17,14 +17,11 @@ lightgallery: true
 twemoji: true
 ---
 
-{{< admonition >}}
 This article discusses how to draw sharingan and rinnegan eyes from **Anime Series: Naruto Shippuden** using LaTeX, with the main package used being Tikz package.
 
-{{< /admonition >}}
+<!--more-->
 
 ---
-
-<!--more-->
 
 > In the *Naruto* anime series, there are several types of eye *jutsu*. **Rinnegan** and **Sharingan** are two of the three most dangerous *Dōjutsu* or eye techniques. Both are rare *Kekkei Genkai* that can only be possessed by specific individuals.
 > 
