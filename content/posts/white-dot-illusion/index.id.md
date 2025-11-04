@@ -10,7 +10,7 @@ description: "rtikel ini membahas ilusi visual berupa titik putih pada kisi hita
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX" , "Ilusi Optik"]
+tags: ["Ilusi Optik"]
 categories: ["LaTeX"]
 
 lightgallery: true

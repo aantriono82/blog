@@ -10,7 +10,7 @@ description: "This article discusses the visual illusion of white dots appearing
 images: []
 featuredImage: "featured-image.png"
 
-tags: ["LaTeX" , "Optical Illusion"]
+tags: ["Optical Illusion"]
 categories: ["LaTeX"]
 
 lightgallery: true
