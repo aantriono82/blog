@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 1
 title: Ilusi Lingkaran: Simetri, Geometri, dan Distorsi Visual"
 date: 2025-11-05
 # lastmod: 2025-11-14

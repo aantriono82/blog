@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 1
 title: "The Circle Illusion: Symmetry, Geometry, and Visual Distortion"
 date: 2025-11-05
 # lastmod: 2025-10-14
