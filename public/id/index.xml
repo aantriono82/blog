@@ -32,7 +32,7 @@
     </author><guid>http://localhost:1313/id/yin-yang-symbol/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/yin-yang-symbol/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya</p>]]></description>
+            </div><p>Artikel ini membahas filosofi dan struktur matematis dari simbol Yin-Yang serta cara menggambarnya menggunakan LaTeX TikZ secara presisi dan estetis.</p>]]></description>
 </item><item>
     <title>Ilusi Dinding Kafe: Garis Lurus yang Terlihat Melengkung</title>
     <link>http://localhost:1313/id/cafe-wall-illusion/</link>

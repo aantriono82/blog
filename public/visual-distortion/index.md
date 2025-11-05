@@ -40,6 +40,7 @@ This article explains how to construct the pattern using **LaTeX TikZ** and expl
 The output produced:
 
 ![ilusi](ilusi.png "visual distortion")
+
 ---
 
 ## Code Structure Explanation

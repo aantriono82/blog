@@ -1,7 +1,7 @@
 # Pemformatan Teks di LaTeX
 
 
-LaTeX adalah sistem penyusunan dokumen yang kuat, terutama digunakan dalam penulisan ilmiah dan teknis. Salah satu keunggulannya adalah kemampuannya dalam memformat teks secara fleksibel dan presisi. Artikel ini akan membahas berbagai teknik pemformatan teks dasar dan lanjutan di LaTeX, termasuk penggunaan gaya font, ukuran font, perataan teks, dan elemen-elemen lain yang sering digunakan dalam dokumen LaTeX.
+Artikel ini akan membahas berbagai teknik pemformatan teks dasar dan lanjutan di LaTeX, termasuk penggunaan gaya font, ukuran font, perataan teks, dan elemen-elemen lain yang sering digunakan dalam dokumen LaTeX.
 
 <!--more-->
 

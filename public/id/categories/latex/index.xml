@@ -30,7 +30,7 @@
     </author><guid>http://localhost:1313/id/yin-yang-symbol/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/yin-yang-symbol/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya</p>]]></description>
+            </div><p>Artikel ini membahas filosofi dan struktur matematis dari simbol Yin-Yang serta cara menggambarnya menggunakan LaTeX TikZ secara presisi dan estetis.</p>]]></description>
 </item><item>
     <title>Ilusi Dinding Kafe: Garis Lurus yang Terlihat Melengkung</title>
     <link>http://localhost:1313/id/cafe-wall-illusion/</link>
@@ -94,6 +94,6 @@ Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang te
     </author><guid>http://localhost:1313/id/text-format-in-latex/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/text-format-in-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>LaTeX adalah sistem penyusunan dokumen yang kuat, terutama digunakan dalam penulisan ilmiah dan teknis. Salah satu keunggulannya adalah kemampuannya dalam memformat teks secara fleksibel dan presisi. Artikel ini akan membahas berbagai teknik pemformatan teks dasar dan lanjutan di LaTeX, termasuk penggunaan gaya font, ukuran font, perataan teks, dan elemen-elemen lain yang sering digunakan dalam dokumen LaTeX.</p>]]></description>
+            </div><p>Artikel ini akan membahas berbagai teknik pemformatan teks dasar dan lanjutan di LaTeX, termasuk penggunaan gaya font, ukuran font, perataan teks, dan elemen-elemen lain yang sering digunakan dalam dokumen LaTeX.</p>]]></description>
 </item></channel>
 </rss>

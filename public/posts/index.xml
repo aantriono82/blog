@@ -5,6 +5,15 @@
         <description>All Posts | Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
             <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Text Formatting in LaTeX</title>
+    <link>http://localhost:1313/text-format-in-latex/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/text-format-in-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/text-format-in-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article will cover various basic and advanced text formatting techniques in LaTeX, including the use of font styles, font sizes, text alignment, and other elements commonly used in LaTeX documents.</p>]]></description>
+</item><item>
     <title>The Yin-Yang Symbol: The Philosophy of Duality</title>
     <link>http://localhost:1313/yin-yang-symbol/</link>
     <pubDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</pubDate><author>
@@ -104,15 +113,6 @@ To learn LaTeX in depth, visit <a href="https://www.aantriono.com/2022/07/buku-p
     <description><![CDATA[<div class="featured-image">
                 <img src="/latex-document-structure/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses LaTeX document structure for letter, article, report, and book document classes.</p>]]></description>
-</item><item>
-    <title>Text Formatting in LaTeX</title>
-    <link>http://localhost:1313/text-format-in-latex/</link>
-    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/text-format-in-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/text-format-in-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>LaTeX is a powerful document preparation system, primarily used in scientific and technical writing. One of its strengths is its ability to format text flexibly and precisely. This article will cover various basic and advanced text formatting techniques in LaTeX, including the use of font styles, font sizes, text alignment, and other elements commonly used in LaTeX documents.</p>]]></description>
 </item><item>
     <title>Debian: The Universal Operating System</title>
     <link>http://localhost:1313/debian-linux/</link>
