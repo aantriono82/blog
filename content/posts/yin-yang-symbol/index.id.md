@@ -16,7 +16,7 @@ categories: ["LaTeX"]
 lightgallery: true
 ---
 
-Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya
+Artikel ini membahas filosofi dan struktur matematis dari simbol Yin-Yang serta cara menggambarnya menggunakan LaTeX TikZ secara presisi dan estetis.
 
 <!--more-->
 
