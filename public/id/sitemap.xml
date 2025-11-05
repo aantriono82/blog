@@ -2,16 +2,34 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/id/menggambar-sharingan-dan-rinnegan-dengan-latex/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/visual-distortion/</loc><lastmod>2025-11-05T13:34:38&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/menggambar-sharingan-dan-rinnegan-dengan-latex/"
+                        href="http://localhost:1313/visual-distortion/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/menggambar-sharingan-dan-rinnegan-dengan-latex/"
+                    href="http://localhost:1313/id/visual-distortion/"
                     /></url><url>
-            <loc>http://localhost:1313/id/cafe-wall-illusion/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/sharingan-and-rinnegan/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/sharingan-and-rinnegan/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="id"
+                    href="http://localhost:1313/id/sharingan-and-rinnegan/"
+                    /></url><url>
+            <loc>http://localhost:1313/id/yin-yang-symbol/</loc><lastmod>2025-11-05T13:34:38&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/yin-yang-symbol/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="id"
+                    href="http://localhost:1313/id/yin-yang-symbol/"
+                    /></url><url>
+            <loc>http://localhost:1313/id/cafe-wall-illusion/</loc><lastmod>2025-11-04T20:50:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/cafe-wall-illusion/"
@@ -20,7 +38,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/cafe-wall-illusion/"
                     /></url><url>
-            <loc>http://localhost:1313/id/white-dot-illusion/</loc><lastmod>2025-11-04T10:07:30&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/white-dot-illusion/</loc><lastmod>2025-11-04T20:50:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/white-dot-illusion/"
@@ -29,7 +47,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/white-dot-illusion/"
                     /></url><url>
-            <loc>http://localhost:1313/id/circle-illusion/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/circle-illusion/</loc><lastmod>2025-11-04T20:50:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/circle-illusion/"
@@ -38,7 +56,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/circle-illusion/"
                     /></url><url>
-            <loc>http://localhost:1313/id/optical-illusion/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/optical-illusion/</loc><lastmod>2025-11-04T20:50:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/optical-illusion/"
@@ -47,115 +65,115 @@
                     hreflang="id"
                     href="http://localhost:1313/id/optical-illusion/"
                     /></url><url>
-            <loc>http://localhost:1313/id/mengenal-paket-latex/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/latex-packages/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/mengenal-paket-latex/"
+                        href="http://localhost:1313/latex-packages/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/mengenal-paket-latex/"
+                    href="http://localhost:1313/id/latex-packages/"
                     /></url><url>
-            <loc>http://localhost:1313/id/kompilasi-dokumen-di-latex/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/compile-document-in-latex/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/kompilasi-dokumen-di-latex/"
+                        href="http://localhost:1313/compile-document-in-latex/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/kompilasi-dokumen-di-latex/"
+                    href="http://localhost:1313/id/compile-document-in-latex/"
                     /></url><url>
-            <loc>http://localhost:1313/id/distro-linux-debian/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/debian-linux/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/distro-linux-debian/"
+                        href="http://localhost:1313/debian-linux/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/distro-linux-debian/"
+                    href="http://localhost:1313/id/debian-linux/"
                     /></url><url>
-            <loc>http://localhost:1313/id/format-teks-di-latex/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/text-format-in-latex/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/format-teks-di-latex/"
+                        href="http://localhost:1313/text-format-in-latex/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/format-teks-di-latex/"
+                    href="http://localhost:1313/id/text-format-in-latex/"
                     /></url><url>
-            <loc>http://localhost:1313/id/struktur-dokumen-latex/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/latex-document-structure/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/struktur-dokumen-latex/"
+                        href="http://localhost:1313/latex-document-structure/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/struktur-dokumen-latex/"
+                    href="http://localhost:1313/id/latex-document-structure/"
                     /></url><url>
-            <loc>http://localhost:1313/id/instal-miktex-mactex-texlive/</loc><lastmod>2025-11-04T19:25:07&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/latex-machine/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/instal-miktex-mactex-texlive/"
+                        href="http://localhost:1313/latex-machine/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/instal-miktex-mactex-texlive/"
+                    href="http://localhost:1313/id/latex-machine/"
                     /></url><url>
-            <loc>http://localhost:1313/id/lebih-dekat-dengan-ubuntu/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/closer-to-ubuntu/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/lebih-dekat-dengan-ubuntu/"
+                        href="http://localhost:1313/closer-to-ubuntu/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/lebih-dekat-dengan-ubuntu/"
+                    href="http://localhost:1313/id/closer-to-ubuntu/"
                     /></url><url>
-            <loc>http://localhost:1313/id/sejarah-tex-dan-latex/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/history-of-tex-and-latex/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/sejarah-tex-dan-latex/"
+                        href="http://localhost:1313/history-of-tex-and-latex/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/sejarah-tex-dan-latex/"
+                    href="http://localhost:1313/id/history-of-tex-and-latex/"
                     /></url><url>
-            <loc>http://localhost:1313/id/mengapa-memilih-linux/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/why-choose-linux/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/mengapa-memilih-linux/"
+                        href="http://localhost:1313/why-choose-linux/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/mengapa-memilih-linux/"
+                    href="http://localhost:1313/id/why-choose-linux/"
                     /></url><url>
-            <loc>http://localhost:1313/id/lingkungan-desktop-linux/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/desktop-environment/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/lingkungan-desktop-linux/"
+                        href="http://localhost:1313/desktop-environment/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/lingkungan-desktop-linux/"
+                    href="http://localhost:1313/id/desktop-environment/"
                     /></url><url>
-            <loc>http://localhost:1313/id/menulis-ekspresi-matematika/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/write-mathematical-expressions/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/menulis-ekspresi-matematika/"
+                        href="http://localhost:1313/write-mathematical-expressions/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/menulis-ekspresi-matematika/"
+                    href="http://localhost:1313/id/write-mathematical-expressions/"
                     /></url><url>
-            <loc>http://localhost:1313/id/sintaks-markdown-dasar/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/basic-markdown-syntax/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/sintaks-markdown-dasar/"
+                        href="http://localhost:1313/basic-markdown-syntax/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/sintaks-markdown-dasar/"
+                    href="http://localhost:1313/id/basic-markdown-syntax/"
                     /></url><url>
-            <loc>http://localhost:1313/id/gnu-linux/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/gnu-linux/</loc><lastmod>2025-11-04T20:50:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/gnu-linux/"
@@ -164,16 +182,16 @@
                     hreflang="id"
                     href="http://localhost:1313/id/gnu-linux/"
                     /></url><url>
-            <loc>http://localhost:1313/id/perbedaan-bsd-dan-linux/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/difference-between-bsd-and-linux/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:1313/perbedaan-bsd-dan-linux/"
+                        href="http://localhost:1313/difference-between-bsd-and-linux/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="id"
-                    href="http://localhost:1313/id/perbedaan-bsd-dan-linux/"
+                    href="http://localhost:1313/id/difference-between-bsd-and-linux/"
                     /></url><url>
-            <loc>http://localhost:1313/id/</loc><lastmod>2025-11-04T19:25:07&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/</loc><lastmod>2025-11-05T13:34:38&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/"
@@ -182,7 +200,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/"
                     /></url><url>
-            <loc>http://localhost:1313/id/categories/</loc><lastmod>2025-11-04T19:25:07&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/categories/</loc><lastmod>2025-11-05T13:34:38&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/categories/"
@@ -191,8 +209,8 @@
                     hreflang="id"
                     href="http://localhost:1313/id/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/ilusi-optik/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/id/categories/latex/</loc><lastmod>2025-11-04T19:25:07&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/ilusi-optik/</loc><lastmod>2025-11-05T13:34:38&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/id/categories/latex/</loc><lastmod>2025-11-05T13:34:38&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/categories/latex/"
@@ -201,16 +219,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/categories/latex/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/optical-illusion/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/tags/optical-illusion/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="id"
-                    href="http://localhost:1313/id/tags/optical-illusion/"
-                    /></url><url>
-            <loc>http://localhost:1313/id/posts/</loc><lastmod>2025-11-04T19:25:07&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/posts/</loc><lastmod>2025-11-05T13:34:38&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/posts/"
@@ -219,7 +228,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/</loc><lastmod>2025-11-04T19:25:07&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/</loc><lastmod>2025-11-05T13:34:38&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/"
@@ -228,7 +237,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/tags/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/tikz/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/tikz/</loc><lastmod>2025-11-05T13:34:38&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/tikz/"
@@ -237,7 +246,16 @@
                     hreflang="id"
                     href="http://localhost:1313/id/tags/tikz/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/bsd/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/optical-illusion/</loc><lastmod>2025-11-04T20:50:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/tags/optical-illusion/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="id"
+                    href="http://localhost:1313/id/tags/optical-illusion/"
+                    /></url><url>
+            <loc>http://localhost:1313/id/tags/bsd/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/bsd/"
@@ -246,8 +264,8 @@
                     hreflang="id"
                     href="http://localhost:1313/id/tags/bsd/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/kompilasi/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/id/categories/linux/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/kompilasi/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/id/categories/linux/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/categories/linux/"
@@ -256,8 +274,8 @@
                     hreflang="id"
                     href="http://localhost:1313/id/categories/linux/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/paket/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/id/tags/debian/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/paket/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/id/tags/debian/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/debian/"
@@ -266,10 +284,10 @@
                     hreflang="id"
                     href="http://localhost:1313/id/tags/debian/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/format/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/id/tags/struktur/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/id/tags/texlive/</loc><lastmod>2025-11-04T19:25:07&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/id/tags/tex/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/format/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/id/tags/struktur/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/id/tags/texlive/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/id/tags/tex/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/tex/"
@@ -278,7 +296,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/tags/tex/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/ubuntu/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/ubuntu/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/ubuntu/"
@@ -287,7 +305,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/tags/ubuntu/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/linux/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/linux/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/linux/"
@@ -296,8 +314,8 @@
                     hreflang="id"
                     href="http://localhost:1313/id/tags/linux/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/lingkungan-desktop/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/id/tags/gnu/</loc><lastmod>2025-11-04T19:21:10&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/lingkungan-desktop/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/id/tags/gnu/</loc><lastmod>2025-11-04T20:50:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/gnu/"
@@ -306,7 +324,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/tags/gnu/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/katex/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/katex/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/katex/"
@@ -324,7 +342,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/about/"
                     /></url><url>
-            <loc>http://localhost:1313/id/categories/markdown/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/categories/markdown/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/categories/markdown/"
@@ -333,7 +351,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/categories/markdown/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/markdown/</loc><lastmod>2025-11-02T20:17:55&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/markdown/</loc><lastmod>2025-11-05T09:42:57&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/markdown/"

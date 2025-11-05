@@ -4,29 +4,153 @@
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>The Yin-Yang Symbol: The Philosophy of Duality</title>
+    <link>http://localhost:1313/yin-yang-symbol/</link>
+    <pubDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/yin-yang-symbol/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/yin-yang-symbol/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the philosophy and mathematical structure of the Yin-Yang symbol and demonstrates how to draw it precisely and beautifully using LaTeX TikZ.</p>]]></description>
+</item><item>
+    <title>The Circle Illusion: Symmetry, Geometry, and Visual Distortion</title>
+    <link>http://localhost:1313/visual-distortion/</link>
+    <pubDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/visual-distortion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/visual-distortion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article explores the geometric circle illusion created with LaTeX TikZ, where concentric circles and rotated squares interact to produce visual distortion despite perfect mathematical symmetry.</p>]]></description>
+</item><item>
+    <title>Differences Between BSD and Linux</title>
+    <link>http://localhost:1313/difference-between-bsd-and-linux/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/difference-between-bsd-and-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/difference-between-bsd-and-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the differences between BSD and GNU/Linux operating systems.</p>]]></description>
+</item><item>
+    <title>Basic Markdown Syntax</title>
+    <link>http://localhost:1313/basic-markdown-syntax/</link>
+    <pubDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/basic-markdown-syntax/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/basic-markdown-syntax/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses examples of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item><item>
+    <title>Writing Mathematical Expressions in Markdown</title>
+    <link>http://localhost:1313/write-mathematical-expressions/</link>
+    <pubDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/write-mathematical-expressions/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/write-mathematical-expressions/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses writing mathematical expressions in Markdown using KaTeX.</p>]]></description>
+</item><item>
+    <title>Linux Desktop Environments</title>
+    <link>http://localhost:1313/desktop-environment/</link>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/desktop-environment/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/desktop-environment/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the <strong>desktop environments</strong> used across different Linux distributions.</p>]]></description>
+</item><item>
+    <title>Why Choose Linux</title>
+    <link>http://localhost:1313/why-choose-linux/</link>
+    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/why-choose-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/why-choose-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the reasons for migrating from Windows to Linux.</p>]]></description>
+</item><item>
+    <title>History of TeX and LaTeX: Evolution of Digital Document Typesetting Systems</title>
+    <link>http://localhost:1313/history-of-tex-and-latex/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/history-of-tex-and-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/history-of-tex-and-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the history of TeX and LaTeX, document typesetting systems by Knuth and Lamport, from their inception in 1978 to modern academic standards, focusing on development, features, and future prospects to date.</p>]]></description>
+</item><item>
+    <title>Getting to Know Ubuntu: A User-Friendly Linux Distribution for All Needs</title>
+    <link>http://localhost:1313/closer-to-ubuntu/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/closer-to-ubuntu/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/closer-to-ubuntu/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article introduces <strong>Ubuntu</strong>, a popular, user-friendly Linux distribution designed for diverse use cases — from personal computing to professional development.</p>]]></description>
+</item><item>
     <title>Installation Guide for MiKTeX, MacTeX, and TeX Live Across Operating Systems</title>
-    <link>http://localhost:1313/instal-miktex-mactex-texlive/</link>
+    <link>http://localhost:1313/latex-machine/</link>
     <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/instal-miktex-mactex-texlive/</guid>
+    </author><guid>http://localhost:1313/latex-machine/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">This article discusses how to install various LaTeX engines used for creating documents across different operating systems.
-To learn LaTeX in depth, visit <a href="https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html" target="_blank" rel="noopener noreferrer">LaTeX Learning Guide</a>.</div></div></div>
-<hr>
-<h2 id="introduction" class="headerLink">
-    <a href="#introduction" class="header-mark"></a>40 Introduction</h2><blockquote>
-  <p><strong>Want to write your thesis, scientific report, or book with the appearance of an international academic publication?</strong><br>
-This guide will help you understand and install LaTeX on Windows, macOS, and Linux — from choosing the right distribution to solving common issues.<br>
-Perfect for both beginners and advanced users who want to work efficiently and professionally.</p>]]></description>
+                <img src="/latex-machine/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses how to install various LaTeX engines used for creating documents across different operating systems.
+To learn LaTeX in depth, visit <a href="https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html" target="_blank" rel="noopener noreferrer">LaTeX Learning Guide</a>.</p>]]></description>
+</item><item>
+    <title>LaTeX Document Structure</title>
+    <link>http://localhost:1313/latex-document-structure/</link>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/latex-document-structure/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/latex-document-structure/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses LaTeX document structure for letter, article, report, and book document classes.</p>]]></description>
+</item><item>
+    <title>Text Formatting in LaTeX</title>
+    <link>http://localhost:1313/text-format-in-latex/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/text-format-in-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/text-format-in-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>LaTeX is a powerful document preparation system, primarily used in scientific and technical writing. One of its strengths is its ability to format text flexibly and precisely. This article will cover various basic and advanced text formatting techniques in LaTeX, including the use of font styles, font sizes, text alignment, and other elements commonly used in LaTeX documents.</p>]]></description>
+</item><item>
+    <title>Debian: The Universal Operating System</title>
+    <link>http://localhost:1313/debian-linux/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/debian-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/debian-linux/Featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Debian is one of the oldest and most respected Linux distributions, known for its stability, security, and free software principles.<br>
+In this article, we will discuss its history, characteristics, variants, use in software development, as well as its advantages and disadvantages — in depth yet easy to understand.</p>]]></description>
+</item><item>
+    <title>Understanding Packages in LaTeX</title>
+    <link>http://localhost:1313/latex-packages/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/latex-packages/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/latex-packages/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the concepts, types, and functions of packages in LaTeX.</p>]]></description>
+</item><item>
+    <title>Technical Guide: How to Compile LaTeX Documents Completely and Efficiently</title>
+    <link>http://localhost:1313/compile-document-in-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/compile-document-in-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/compile-document-in-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Compilation is the process of translating LaTeX commands into a ready-to-print document.<br>
+This article discusses how LaTeX compilation works, types of compilers available, the compilation sequence, and how to resolve errors efficiently.</p>]]></description>
+</item><item>
+    <title>Drawing Sharingan and Rinnegan Eyes with LaTeX</title>
+    <link>http://localhost:1313/sharingan-and-rinnegan/</link>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/sharingan-and-rinnegan/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sharingan-and-rinnegan/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses how to draw sharingan and rinnegan eyes from <strong>Anime Series: Naruto Shippuden</strong> using LaTeX, with the main package used being Tikz package.</p>]]></description>
 </item><item>
     <title>A Brief History of GNU/Linux</title>
     <link>http://localhost:1313/gnu-linux/</link>
@@ -35,118 +159,18 @@ Perfect for both beginners and advanced users who want to work efficiently and p
     </author><guid>http://localhost:1313/gnu-linux/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">This article discusses the brief history of the GNU/Linux operating system.
+            </div><p>This article discusses the brief history of the GNU/Linux operating system.
 For more complete sources, please read <a href="https://www.gnu.org/gnu/gnu.html" target="_blank" rel="noopener noreferrer">About GNU</a>.
-For reliable and complete sources about Linux, please read <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">About Linux</a>.</div></div></div>
-<hr>
-<h2 id="understanding-gnulinux-a-free-and-open-operating-system" class="headerLink">
-    <a href="#understanding-gnulinux-a-free-and-open-operating-system" class="header-mark"></a>1 Understanding GNU/Linux: A Free and Open Operating System</h2><p>GNU/Linux is an operating system consisting of two main components: the GNU project and the Linux kernel. This operating system is known for its free and open nature, which allows users to modify, distribute, and use it without the strict restrictions found in proprietary operating systems. GNU/Linux has become the primary choice for many users, from individuals to large organizations, due to its flexibility, security, and stability.</p>]]></description>
+For reliable and complete sources about Linux, please read <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">About Linux</a>.</p>]]></description>
 </item><item>
-    <title>Text Formatting in LaTeX</title>
-    <link>http://localhost:1313/format-teks-di-latex/</link>
-    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/format-teks-di-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/format-teks-di-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">This article discusses text formatting commonly used in documents written with LaTeX.
-LaTeX is a powerful document preparation system, primarily used in scientific and technical writing. One of its strengths is its ability to format text flexibly and precisely. This article will cover various basic and advanced text formatting techniques in LaTeX, including the use of font styles, font sizes, text alignment, and other elements commonly used in LaTeX documents.</div></div></div>
-<h2 id="font-styles" class="headerLink">
-    <a href="#font-styles" class="header-mark"></a>1 Font Styles</h2><p>LaTeX provides various commands to change text font styles:</p>]]></description>
-</item><item>
-    <title>Debian: The Universal Operating System</title>
-    <link>http://localhost:1313/distro-linux-debian/</link>
-    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/distro-linux-debian/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/distro-linux-debian/Featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">Debian is one of the oldest and most respected Linux distributions, known for its stability, security, and free software principles.<br>
-In this article, we will discuss its history, characteristics, variants, use in software development, as well as its advantages and disadvantages — in depth yet easy to understand.</div></div></div>
-<hr>
-<h2 id="a-brief-history-of-debian" class="headerLink">
-    <a href="#a-brief-history-of-debian" class="header-mark"></a>28 A Brief History of Debian</h2><ul>
-<li>Debian was founded in August 1993 by <strong>Ian Murdock</strong> as a community project aimed at providing a <em>universal, free, and high-quality</em> Linux operating system.</li>
-<li>From the beginning, Debian has embraced the spirit of free software and global collaboration.</li>
-<li>Debian release names follow characters from the <em>Toy Story</em> movies (such as &ldquo;Jessie&rdquo;, &ldquo;Bullseye&rdquo;, &ldquo;Bookworm&rdquo;, and so on).</li>
-<li>Debian serves as the foundation for many other popular distributions such as <strong>Ubuntu</strong>, <strong>Linux Mint</strong>, and other variants.</li>
-<li>Analysis of Debian 3.0 showed that this project was massive in code scope: over 105 million lines of source code.
-<blockquote>
-  <p>Source: <a href="https://arxiv.org/abs/cs/0506067" target="_blank" rel="noopener noreferrer">arxiv.org</a></p>]]></description>
-</item><item>
-    <title>Technical Guide: How to Compile LaTeX Documents Completely and Efficiently</title>
-    <link>http://localhost:1313/kompilasi-dokumen-di-latex/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/kompilasi-dokumen-di-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">Compilation is the process of translating LaTeX commands into a ready-to-print document.<br>
-This article discusses how LaTeX compilation works, types of compilers available, the compilation sequence, and how to resolve errors efficiently.</div></div></div>
-<hr>]]></description>
-</item><item>
-    <title>Circle Illusion: The Perceptual Phenomenon of Size Around a Central Circle</title>
-    <link>http://localhost:1313/circle-illusion/</link>
+    <title>The Circle Illusion: Between Geometry and Visual Perception</title>
+    <link>http://localhost:1313/optical-illusion/</link>
     <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/circle-illusion/</guid>
+    </author><guid>http://localhost:1313/optical-illusion/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">This article discusses the circle illusion, where two identical central circles appear different in size due to surrounding visual context. Built with LaTeX TikZ, this article provides a complete explanation of the code structure and perceptual science behind it.</div></div></div>]]></description>
-</item><item>
-    <title>The Café Wall Illusion: Straight Lines That Appear Curved</title>
-    <link>http://localhost:1313/cafe-wall-illusion/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/cafe-wall-illusion/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/cafe-wall-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">This article explores the Café Wall Illusion, where parallel lines appear curved or slanted due to alternating black and white squares and horizontal offsets. Built using LaTeX TikZ, the article provides a complete explanation of both the code and the perceptual mechanisms behind it.&quot;</div></div></div>
-<h2 id="introduction" class="headerLink">
-    <a href="#introduction" class="header-mark"></a>25 Introduction</h2><p>Have you ever looked at a tiled wall or brick pattern that seemed wavy even though the lines were perfectly straight?<br>
-This is known as the <strong>Café Wall Illusion</strong>, an optical illusion where <strong>parallel horizontal lines</strong> appear tilted or curved due to the <strong>alternating contrast of black and white tiles</strong> and <strong>horizontal offset between rows</strong>.</p>]]></description>
+                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article explores how an <strong>arrangement of squares</strong> can form a rotating circular illusion using <strong>LaTeX and TikZ</strong>. We will examine the structure of the code, the visual principles behind the illusion, and its significance in perception and visual art.</p>]]></description>
 </item><item>
     <title>White Dot Illusion: Perceptual Contrast in a Dark Grid Pattern</title>
     <link>http://localhost:1313/white-dot-illusion/</link>
@@ -157,115 +181,22 @@ This is known as the <strong>Café Wall Illusion</strong>, an optical illusion w
                 <img src="/white-dot-illusion/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses the visual illusion of white dots appearing in a dark grid pattern, where the brain creates contrast perceptions that are not physically present. Built using LaTeX PSTricks, it provides a complete explanation of the code structure and the perceptual mechanisms behind it.</p>]]></description>
 </item><item>
-    <title>Differences Between BSD and Linux</title>
-    <link>http://localhost:1313/perbedaan-bsd-dan-linux/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/perbedaan-bsd-dan-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/perbedaan-bsd-dan-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the differences between BSD and GNU/Linux operating systems.</p>]]></description>
-</item><item>
-    <title>Basic Markdown Syntax</title>
-    <link>http://localhost:1313/sintaks-markdown-dasar/</link>
-    <pubDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/sintaks-markdown-dasar/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/sintaks-markdown-dasar/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses examples of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
-</item><item>
-    <title>Writing Mathematical Expressions in Markdown</title>
-    <link>http://localhost:1313/menulis-ekspresi-matematika/</link>
-    <pubDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/menulis-ekspresi-matematika/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/menulis-ekspresi-matematika/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses writing mathematical expressions in Markdown using KaTeX.</p>]]></description>
-</item><item>
-    <title>Linux Desktop Environments</title>
-    <link>http://localhost:1313/lingkungan-desktop-linux/</link>
-    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/lingkungan-desktop-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/lingkungan-desktop-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the <strong>desktop environments</strong> used across different Linux distributions.</p>]]></description>
-</item><item>
-    <title>Why Choose Linux</title>
-    <link>http://localhost:1313/mengapa-memilih-linux/</link>
-    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/mengapa-memilih-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the reasons for migrating from Windows to Linux.</p>]]></description>
-</item><item>
-    <title>History of TeX and LaTeX: Evolution of Digital Document Typesetting Systems</title>
-    <link>http://localhost:1313/sejarah-tex-dan-latex/</link>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/sejarah-tex-dan-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the history of TeX and LaTeX, document typesetting systems by Knuth and Lamport, from their inception in 1978 to modern academic standards, focusing on development, features, and future prospects to date.</p>]]></description>
-</item><item>
-    <title>Getting to Know Ubuntu: A User-Friendly Linux Distribution for All Needs</title>
-    <link>http://localhost:1313/lebih-dekat-dengan-ubuntu/</link>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/lebih-dekat-dengan-ubuntu/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article introduces <strong>Ubuntu</strong>, a popular, user-friendly Linux distribution designed for diverse use cases — from personal computing to professional development.</p>
-<hr>]]></description>
-</item><item>
-    <title>LaTeX Document Structure</title>
-    <link>http://localhost:1313/struktur-dokumen-latex/</link>
-    <pubDate>Tue, 14 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/struktur-dokumen-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/struktur-dokumen-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses LaTeX document structure for letter, article, report, and book document classes.</p>
-<hr>]]></description>
-</item><item>
-    <title>Understanding Packages in LaTeX</title>
-    <link>http://localhost:1313/mengenal-paket-latex/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/mengenal-paket-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/mengenal-paket-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article discusses the concepts, types, and functions of packages in LaTeX.</p>
-<hr>]]></description>
-</item><item>
-    <title>The Circle Illusion: Between Geometry and Visual Perception</title>
-    <link>http://localhost:1313/optical-illusion/</link>
+    <title>The Café Wall Illusion: Straight Lines That Appear Curved</title>
+    <link>http://localhost:1313/cafe-wall-illusion/</link>
     <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/optical-illusion/</guid>
+    </author><guid>http://localhost:1313/cafe-wall-illusion/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article explores how an <strong>arrangement of squares</strong> can form a rotating circular illusion using <strong>LaTeX and TikZ</strong>. We will examine the structure of the code, the visual principles behind the illusion, and its significance in perception and visual art.</p>
-<hr>]]></description>
+                <img src="/cafe-wall-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article explores the Café Wall Illusion, where parallel lines appear curved or slanted due to alternating black and white squares and horizontal offsets. Built using LaTeX TikZ, the article provides a complete explanation of both the code and the perceptual mechanisms behind it.&quot;</p>]]></description>
 </item><item>
-    <title>Drawing Sharingan and Rinnegan Eyes with LaTeX</title>
-    <link>http://localhost:1313/menggambar-sharingan-dan-rinnegan-dengan-latex/</link>
-    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+    <title>The Circle Illusion: The Perceptual Phenomenon of Size Around a Central Circle</title>
+    <link>http://localhost:1313/circle-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/menggambar-sharingan-dan-rinnegan-dengan-latex/</guid>
+    </author><guid>http://localhost:1313/circle-illusion/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">This article discusses how to draw sharingan and rinnegan eyes from <strong>Anime Series: Naruto Shippuden</strong> using LaTeX, with the main package used being Tikz package.</div></div></div>
-<hr>]]></description>
+                <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses the circle illusion, where two identical central circles appear different in size due to surrounding visual context. Built with LaTeX TikZ, this article provides a complete explanation of the code structure and perceptual science behind it.</p>]]></description>
 </item></channel>
 </rss>

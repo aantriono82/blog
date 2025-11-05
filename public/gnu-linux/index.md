@@ -1,11 +1,11 @@
 # A Brief History of GNU/Linux
 
 
-{{< admonition >}}
 This article discusses the brief history of the GNU/Linux operating system.
 For more complete sources, please read [About GNU](https://www.gnu.org/gnu/gnu.html).
 For reliable and complete sources about Linux, please read [About Linux](https://www.linux.org/).
-{{< /admonition >}}
+
+<!--more-->
 
 ---
 

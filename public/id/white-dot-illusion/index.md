@@ -1,8 +1,11 @@
 # Ilusi Titik Putih: Persepsi Kontras dalam Pola Kisi Gelap
 
+
 Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya
 
 <!--more-->
+
+---
 
 {{< admonition >}}
 **Catatan**: Artikel ini dihasilkan dengan bantuan teknologi AI dan telah direview secara manual untuk memastikan keakuratan dan kejelasan informasi.

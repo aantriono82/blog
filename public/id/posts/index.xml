@@ -4,29 +4,153 @@
         <link>http://localhost:1313/id/posts/</link>
         <description>Semua Pos | Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Simbol Yin-Yang: Filosofi Dualitas</title>
+    <link>http://localhost:1313/id/yin-yang-symbol/</link>
+    <pubDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/yin-yang-symbol/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/yin-yang-symbol/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya</p>]]></description>
+</item><item>
+    <title>Ilusi Lingkaran: Simetri, Geometri, dan Distorsi Visual</title>
+    <link>http://localhost:1313/id/visual-distortion/</link>
+    <pubDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/visual-distortion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/visual-distortion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas ilusi lingkaran geometris yang dibuat dengan LaTeX TikZ, di mana lingkaran konsentris dan persegi berotasi saling berinteraksi menghasilkan distorsi visual meskipun secara matematis simetris sempurna.</p>]]></description>
+</item><item>
+    <title>Perbedaan BSD dan Linux</title>
+    <link>http://localhost:1313/id/difference-between-bsd-and-linux/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/difference-between-bsd-and-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/difference-between-bsd-and-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang perbedaan sistem operasi BSD dan GNU/Linux</p>]]></description>
+</item><item>
+    <title>Sintaks Markdown Dasar</title>
+    <link>http://localhost:1313/id/basic-markdown-syntax/</link>
+    <pubDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/basic-markdown-syntax/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/basic-markdown-syntax/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas contoh sintaks Markdown dasar yang dapat digunakan dalam file konten Hugo.</p>]]></description>
+</item><item>
+    <title>Menulis Ekspresi Matematika di Markdown</title>
+    <link>http://localhost:1313/id/write-mathematical-expressions/</link>
+    <pubDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/write-mathematical-expressions/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/write-mathematical-expressions/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang penulisan ekspresi matematika di markdown menggunakan KaTeX.</p>]]></description>
+</item><item>
+    <title>Lingkungan Desktop Linux</title>
+    <link>http://localhost:1313/id/desktop-environment/</link>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/desktop-environment/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/desktop-environment/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang lingkungan desktop (desktop environment) yang digunakan di berbagai distro Linux.</p>]]></description>
+</item><item>
+    <title>Mengapa Memilih Linux</title>
+    <link>http://localhost:1313/id/why-choose-linux/</link>
+    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/why-choose-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/why-choose-linux/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang alasan migrasi dari Windows ke Linux.</p>]]></description>
+</item><item>
+    <title>Sejarah TeX dan LaTeX: Evolusi Sistem Penyusunan Dokumen Digital</title>
+    <link>http://localhost:1313/id/history-of-tex-and-latex/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/history-of-tex-and-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/history-of-tex-and-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas sejarah TeX dan LaTeX, sistem penyusunan dokumen oleh Knuth dan Lamport, dari awal pada 1978 hingga standar akademik modern, dengan fokus pada perkembangan, fitur, dan prospek masa depan hingga saat ini.</p>]]></description>
+</item><item>
+    <title>Mengenal Ubuntu: Distribusi Linux Ramah Pengguna untuk Berbagai Kebutuhan</title>
+    <link>http://localhost:1313/id/closer-to-ubuntu/</link>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/closer-to-ubuntu/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/closer-to-ubuntu/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini memperkenalkan <strong>Ubuntu</strong>, distribusi Linux populer dan mudah digunakan yang dirancang untuk beragam kasus penggunaan — mulai dari komputasi personal hingga pengembangan profesional.</p>]]></description>
+</item><item>
     <title>Panduan Instalasi MikTeX, MacTeX, dan TeXlive di Berbagai Platform Sistem Operasi</title>
-    <link>http://localhost:1313/id/instal-miktex-mactex-texlive/</link>
+    <link>http://localhost:1313/id/latex-machine/</link>
     <pubDate>Wed, 08 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/instal-miktex-mactex-texlive/</guid>
+    </author><guid>http://localhost:1313/id/latex-machine/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/instal-miktex-mactex-texlive/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Catatan<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">Artikel ini membahas tentang cara menginstal berbagai mesin LaTeX yang digunakan untuk menulis dokumen di lintas sistem operasi.
-Untuk mempelajari LaTeX secara lebih mendalam, silakan kunjungi <a href="https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html" target="_blank" rel="noopener noreferrer">Panduan Belajar LaTeX</a>.</div></div></div>
-<hr>
-<h2 id="pendahuluan" class="headerLink">
-    <a href="#pendahuluan" class="header-mark"></a>40 Pendahuluan</h2><blockquote>
-  <p><strong>Ingin menulis skripsi, laporan ilmiah, atau buku dengan tampilan layaknya publikasi akademik internasional?</strong><br>
-Panduan ini akan membantu Anda memahami dan menginstal LaTeX di Windows, macOS, dan Linux — mulai dari memilih distribusi terbaik hingga menyelesaikan masalah umum.<br>
-Cocok untuk pemula maupun pengguna tingkat lanjut yang ingin bekerja secara efisien dan profesional.</p>]]></description>
+                <img src="/latex-machine/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang cara menginstal berbagai mesin LaTeX yang digunakan untuk menulis dokumen di lintas sistem operasi.
+Untuk mempelajari LaTeX secara lebih mendalam, silakan kunjungi <a href="https://www.aantriono.com/2022/07/buku-panduan-belajar-latex.html" target="_blank" rel="noopener noreferrer">Panduan Belajar LaTeX</a>.</p>]]></description>
+</item><item>
+    <title>Struktur Dokumen LaTeX</title>
+    <link>http://localhost:1313/id/latex-document-structure/</link>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/latex-document-structure/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/latex-document-structure/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang struktur dokumen LaTeX baik pada kelas dokumen surat, artikel, laporan, dan buku.</p>]]></description>
+</item><item>
+    <title>Pemformatan Teks di LaTeX</title>
+    <link>http://localhost:1313/id/text-format-in-latex/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/text-format-in-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/text-format-in-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>LaTeX adalah sistem penyusunan dokumen yang kuat, terutama digunakan dalam penulisan ilmiah dan teknis. Salah satu keunggulannya adalah kemampuannya dalam memformat teks secara fleksibel dan presisi. Artikel ini akan membahas berbagai teknik pemformatan teks dasar dan lanjutan di LaTeX, termasuk penggunaan gaya font, ukuran font, perataan teks, dan elemen-elemen lain yang sering digunakan dalam dokumen LaTeX.</p>]]></description>
+</item><item>
+    <title>Debian: Sistem Operasi Universal</title>
+    <link>http://localhost:1313/id/debian-linux/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/debian-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/debian-linux/Featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Debian adalah salah satu distribusi Linux tertua dan paling dihormati, dikenal karena stabilitas, keamanan, dan prinsip perangkat lunak bebasnya.<br>
+Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di bidang pengembangan perangkat lunak, serta kelebihan dan kekurangannya — secara mendalam namun tetap mudah dipahami.</p>]]></description>
+</item><item>
+    <title>Panduan Teknis: Cara Mengompilasi Dokumen LaTeX Secara Lengkap dan Efisien</title>
+    <link>http://localhost:1313/id/compile-document-in-latex/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/compile-document-in-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/compile-document-in-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Kompilasi ini merupakan proses menerjemahkan perintah LaTeX menjadi dokumen siap cetak.<br>
+Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang tersedia, urutan proses, hingga penyelesaian error secara efisien.</p>]]></description>
+</item><item>
+    <title>Mengenal Paket di LaTeX</title>
+    <link>http://localhost:1313/id/latex-packages/</link>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/latex-packages/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/latex-packages/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang konsep, jenis dan fungsi paket yang ada di LaTeX.</p>]]></description>
+</item><item>
+    <title>Menggambar Mata Sharingan dan Rinnegan dengan LaTeX</title>
+    <link>http://localhost:1313/id/sharingan-and-rinnegan/</link>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/sharingan-and-rinnegan/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sharingan-and-rinnegan/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di <strong>Serial Anime: Naruto Shippuden</strong> menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.</p>]]></description>
 </item><item>
     <title>Sejarah Singkat GNU/Linux</title>
     <link>http://localhost:1313/id/gnu-linux/</link>
@@ -35,86 +159,18 @@ Cocok untuk pemula maupun pengguna tingkat lanjut yang ingin bekerja secara efis
     </author><guid>http://localhost:1313/id/gnu-linux/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/gnu-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Catatan<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">Artikel ini membahas tentang sejarah singkat sistem operasi GNU/Linux.
+            </div><p>Artikel ini membahas tentang sejarah singkat sistem operasi GNU/Linux.
 Untuk mendapatkan sumber yang lebih lengkap, silakan baca <a href="https://www.gnu.org/gnu/gnu.html" target="_blank" rel="noopener noreferrer">Tentang GNU</a>.
-Untuk mendapatkan sumber yang terpercaya dan lengkap tentang Linux, silakan baca <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">Tentang Linux</a>.</div></div></div>
-<hr>
-<h2 id="pengertian-gnulinux-sistem-operasi-bebas-dan-terbuka" class="headerLink">
-    <a href="#pengertian-gnulinux-sistem-operasi-bebas-dan-terbuka" class="header-mark"></a>1 <em>Pengertian GNU/Linux: Sistem Operasi Bebas dan Terbuka</em></h2><p>GNU/Linux adalah sistem operasi yang terdiri dari dua komponen utama, yaitu proyek GNU dan kernel Linux. Sistem operasi ini dikenal karena sifatnya yang bebas dan terbuka, yang memungkinkan pengguna untuk memodifikasi, mendistribusikan, dan menggunakannya tanpa batasan yang ketat seperti pada sistem operasi proprietary. GNU/Linux telah menjadi pilihan utama bagi banyak pengguna, mulai dari individu hingga organisasi besar, karena fleksibilitas, keamanan, dan stabilitasnya.</p>]]></description>
+Untuk mendapatkan sumber yang terpercaya dan lengkap tentang Linux, silakan baca <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">Tentang Linux</a>.</p>]]></description>
 </item><item>
-    <title>Pemformatan Teks di LaTeX</title>
-    <link>http://localhost:1313/id/format-teks-di-latex/</link>
-    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+    <title>Ilusi Lingkaran: Antara Geometri dan Persepsi Visual</title>
+    <link>http://localhost:1313/id/optical-illusion/</link>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/format-teks-di-latex/</guid>
+    </author><guid>http://localhost:1313/id/optical-illusion/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/format-teks-di-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Catatan<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">Artikel ini membahas tentang pemformatan teks yang biasanya dilakukan di dokumen yang ditulis menggunakan LaTeX.
-LaTeX adalah sistem penyusunan dokumen yang kuat, terutama digunakan dalam penulisan ilmiah dan teknis. Salah satu keunggulannya adalah kemampuannya dalam memformat teks secara fleksibel dan presisi. Artikel ini akan membahas berbagai teknik pemformatan teks dasar dan lanjutan di LaTeX, termasuk penggunaan gaya font, ukuran font, perataan teks, dan elemen-elemen lain yang sering digunakan dalam dokumen LaTeX.</div></div></div>
-<h2 id="gaya-font" class="headerLink">
-    <a href="#gaya-font" class="header-mark"></a>1 Gaya Font</h2><p>LaTeX menyediakan berbagai perintah untuk mengubah gaya font teks:</p>]]></description>
-</item><item>
-    <title>Debian: Sistem Operasi Universal</title>
-    <link>http://localhost:1313/id/distro-linux-debian/</link>
-    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/distro-linux-debian/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/distro-linux-debian/Featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Catatan<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">Debian adalah salah satu distribusi Linux tertua dan paling dihormati, dikenal karena stabilitas, keamanan, dan prinsip perangkat lunak bebasnya.<br>
-Di artikel ini, kita akan membahas sejarah, karakteristik, varian, penggunaan di bidang pengembangan perangkat lunak, serta kelebihan dan kekurangannya — secara mendalam namun tetap mudah dipahami.</div></div></div>
-<hr>
-<h2 id="sejarah-singkat-debian" class="headerLink">
-    <a href="#sejarah-singkat-debian" class="header-mark"></a>28 Sejarah Singkat Debian</h2><ul>
-<li>Debian didirikan pada Agustus 1993 oleh <strong>Ian Murdock</strong> sebagai proyek komunitas yang bertujuan menyediakan sistem operasi Linux yang <em>universal, bebas, dan berkualitas tinggi</em>.</li>
-<li>Sejak awal, Debian mengusung semangat perangkat lunak bebas (<em>free software</em>) dan kolaborasi global.</li>
-<li>Nama rilis Debian mengikuti karakter dari film <em>Toy Story</em> (misalnya &ldquo;Jessie&rdquo;, &ldquo;Bullseye&rdquo;, &ldquo;Bookworm&rdquo;, dan seterusnya).</li>
-<li>Debian menjadi basis bagi banyak distro populer lainnya seperti <strong>Ubuntu</strong>, <strong>Linux Mint</strong>, dan varian lain.</li>
-<li>Analisis terhadap Debian 3.0 menunjukkan bahwa proyek ini sangat besar dalam cakupan kode: lebih dari 105 juta baris kode sumber.
-<blockquote>
-  <p>Sumber: <a href="https://arxiv.org/abs/cs/0506067" target="_blank" rel="noopener noreferrer">arxiv.org</a></p>]]></description>
-</item><item>
-    <title>Panduan Teknis: Cara Mengompilasi Dokumen LaTeX Secara Lengkap dan Efisien</title>
-    <link>http://localhost:1313/id/kompilasi-dokumen-di-latex/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/kompilasi-dokumen-di-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/kompilasi-dokumen-di-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Catatan<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">Kompilasi ini merupakan proses menerjemahkan perintah LaTeX menjadi dokumen siap cetak.<br>
-Artikel ini membahas cara kerja kompilasi LaTeX, jenis <em>compiler</em> yang tersedia, urutan proses, hingga penyelesaian error secara efisien.</div></div></div>
-<hr>
-<h2 id="pendahuluan" class="headerLink">
-    <a href="#pendahuluan" class="header-mark"></a>28 Pendahuluan</h2><p>LaTeX adalah sistem penataan dokumen yang menghasilkan keluaran berkualitas tinggi, terutama untuk teks ilmiah dan teknis.<br>
-Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dikompilasi</strong> terlebih dahulu agar file <code>.tex</code> dapat berubah menjadi format akhir seperti <code>.pdf</code>, <code>.dvi</code>, atau <code>.ps</code>.</p>]]></description>
+                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas bagaimana sebuah <strong>susunan persegi</strong> dapat membentuk kesan lingkaran berputar menggunakan <strong>LaTeX dan TikZ</strong>. Kita akan mempelajari struktur kodenya, prinsip visual yang mendasari ilusi ini, serta maknanya dalam konteks persepsi dan seni visual.</p>]]></description>
 </item><item>
     <title>Ilusi Lingkaran: Fenomena Persepsi Ukuran di Sekitar Lingkaran Tengah</title>
     <link>http://localhost:1313/id/circle-illusion/</link>
@@ -123,36 +179,7 @@ Namun, tidak seperti pengolah kata konvensional, dokumen LaTeX <strong>harus dik
     </author><guid>http://localhost:1313/id/circle-illusion/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/circle-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Catatan<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">Artikel ini membahas ilusi lingkaran, di mana dua lingkaran pusat yang identik tampak berbeda ukuran karena konteks visual di sekitarnya. Dibuat menggunakan LaTeX TikZ, artikel ini memberikan penjelasan lengkap mengenai struktur kode dan konsep persepsi dibaliknya.</div></div></div>
-<h2 id="pendahuluan" class="headerLink">
-    <a href="#pendahuluan" class="header-mark"></a>28 Pendahuluan</h2><p>Dalam ranah persepsi visual, otak manusia sering kali memproses ukuran <strong>secara relatif</strong>, bukan <strong>secara absolut</strong>.<br>
-Salah satu contoh paling terkenal dari fenomena ini adalah <strong>Ilusi Ebbinghaus</strong>, atau <strong>Ilusi Lingkaran</strong>, di mana dua lingkaran identik tampak memiliki ukuran berbeda karena bentuk-bentuk di sekelilingnya.</p>]]></description>
-</item><item>
-    <title>Ilusi Dinding Kafe: Garis Lurus yang Terlihat Melengkung</title>
-    <link>http://localhost:1313/id/cafe-wall-illusion/</link>
-    <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/cafe-wall-illusion/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/cafe-wall-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Catatan<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">Artikel ini membahas ilusi visual di mana garis-garis sejajar tampak melengkung akibat pola persegi kontras dan offset posisi antar baris. Ilustrasi dibuat dengan LaTeX TikZ lengkap dengan penjelasan struktur kodenya.</div></div></div>
-<h2 id="pendahuluan" class="headerLink">
-    <a href="#pendahuluan" class="header-mark"></a>25 Pendahuluan</h2><p>Pernahkah kamu melihat dinding atau ubin yang terlihat seolah-olah bergelombang padahal sebenarnya lurus?<br>
-Fenomena ini dikenal sebagai <strong>Café Wall Illusion</strong> — sebuah ilusi optik di mana <strong>garis sejajar</strong> tampak miring atau melengkung akibat <strong>kontras persegi hitam-putih</strong> dan <strong>offset (geseran) horizontal antar baris</strong>.</p>]]></description>
+            </div><p>Artikel ini membahas ilusi lingkaran, di mana dua lingkaran pusat yang identik tampak berbeda ukuran karena konteks visual di sekitarnya. Dibuat menggunakan LaTeX TikZ, artikel ini memberikan penjelasan lengkap mengenai struktur kode dan konsep persepsi dibaliknya.</p>]]></description>
 </item><item>
     <title>Ilusi Titik Putih: Persepsi Kontras dalam Pola Kisi Gelap</title>
     <link>http://localhost:1313/id/white-dot-illusion/</link>
@@ -163,114 +190,13 @@ Fenomena ini dikenal sebagai <strong>Café Wall Illusion</strong> — sebuah ilu
                 <img src="/white-dot-illusion/featured-image.png" referrerpolicy="no-referrer">
             </div><p>Artikel ini membahas ilusi visual berupa titik putih pada kisi hitam, di mana otak memunculkan persepsi kontras yang tidak nyata. Dibuat menggunakan LaTeX PSTricks, artikel ini menjelaskan struktur kode dan konsep persepsi yang mendasarinya</p>]]></description>
 </item><item>
-    <title>Perbedaan BSD dan Linux</title>
-    <link>http://localhost:1313/id/perbedaan-bsd-dan-linux/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/perbedaan-bsd-dan-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/perbedaan-bsd-dan-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang perbedaan sistem operasi BSD dan GNU/Linux</p>]]></description>
-</item><item>
-    <title>Sintaks Markdown Dasar</title>
-    <link>http://localhost:1313/id/sintaks-markdown-dasar/</link>
-    <pubDate>Mon, 01 Sep 2025 21:57:40 &#43;0800</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/sintaks-markdown-dasar/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/sintaks-markdown-dasar/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas contoh sintaks Markdown dasar yang dapat digunakan dalam file konten Hugo.</p>]]></description>
-</item><item>
-    <title>Menulis Ekspresi Matematika di Markdown</title>
-    <link>http://localhost:1313/id/menulis-ekspresi-matematika/</link>
-    <pubDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/menulis-ekspresi-matematika/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/menulis-ekspresi-matematika/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang penulisan ekspresi matematika di markdown menggunakan KaTeX.</p>]]></description>
-</item><item>
-    <title>Lingkungan Desktop Linux</title>
-    <link>http://localhost:1313/id/lingkungan-desktop-linux/</link>
-    <pubDate>Thu, 02 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/lingkungan-desktop-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/lingkungan-desktop-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang lingkungan desktop (desktop environment) yang digunakan di berbagai distro Linux</p>]]></description>
-</item><item>
-    <title>Mengapa Memilih Linux</title>
-    <link>http://localhost:1313/id/mengapa-memilih-linux/</link>
-    <pubDate>Fri, 03 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/mengapa-memilih-linux/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/mengapa-memilih-linux/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang alasan migrasi dari Windows ke Linux.</p>]]></description>
-</item><item>
-    <title>Sejarah TeX dan LaTeX: Evolusi Sistem Penyusunan Dokumen Digital</title>
-    <link>http://localhost:1313/id/sejarah-tex-dan-latex/</link>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/sejarah-tex-dan-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/sejarah-tex-dan-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas sejarah TeX dan LaTeX, sistem penyusunan dokumen oleh Knuth dan Lamport, dari awal pada 1978 hingga standar akademik modern, dengan fokus pada perkembangan, fitur, dan prospek masa depan hingga saat ini.</p>]]></description>
-</item><item>
-    <title>Mengenal Ubuntu: Distribusi Linux Ramah Pengguna untuk Berbagai Kebutuhan</title>
-    <link>http://localhost:1313/id/lebih-dekat-dengan-ubuntu/</link>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/lebih-dekat-dengan-ubuntu/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/lebih-dekat-dengan-ubuntu/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang distro linux yang populer, ramah pengguna, mudah digunakan untuk berbagai keperluan yaitu Ubuntu.</p>
-<hr>]]></description>
-</item><item>
-    <title>Struktur Dokumen LaTeX</title>
-    <link>http://localhost:1313/id/struktur-dokumen-latex/</link>
-    <pubDate>Tue, 14 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/struktur-dokumen-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/struktur-dokumen-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang struktur dokumen LaTeX baik pada kelas dokumen surat, artikel, laporan, dan buku.</p>
-<hr>]]></description>
-</item><item>
-    <title>Mengenal Paket di LaTeX</title>
-    <link>http://localhost:1313/id/mengenal-paket-latex/</link>
-    <pubDate>Fri, 17 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/mengenal-paket-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/mengenal-paket-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas tentang konsep, jenis dan fungsi paket yang ada di LaTeX.</p>
-<hr>]]></description>
-</item><item>
-    <title>Ilusi Lingkaran: Antara Geometri dan Persepsi Visual</title>
-    <link>http://localhost:1313/id/optical-illusion/</link>
+    <title>Ilusi Dinding Kafe: Garis Lurus yang Terlihat Melengkung</title>
+    <link>http://localhost:1313/id/cafe-wall-illusion/</link>
     <pubDate>Fri, 31 Oct 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/optical-illusion/</guid>
+    </author><guid>http://localhost:1313/id/cafe-wall-illusion/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/optical-illusion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Artikel ini membahas bagaimana sebuah <strong>susunan persegi</strong> dapat membentuk kesan lingkaran berputar menggunakan <strong>LaTeX dan TikZ</strong>. Kita akan mempelajari struktur kodenya, prinsip visual yang mendasari ilusi ini, serta maknanya dalam konteks persepsi dan seni visual.</p>
-<hr>]]></description>
-</item><item>
-    <title>Menggambar Mata Sharingan dan Rinnegan dengan LaTeX</title>
-    <link>http://localhost:1313/id/menggambar-sharingan-dan-rinnegan-dengan-latex/</link>
-    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/menggambar-sharingan-dan-rinnegan-dengan-latex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/menggambar-sharingan-dan-rinnegan-dengan-latex/featured-image.png" referrerpolicy="no-referrer">
-            </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-        <span class="icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Catatan<span class="details-icon"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
-    </div>
-    <div class="details-content">
-        <div class="admonition-content">Artikel ini membahas tentang cara menggambar mata sharingan dan rinnegan di <strong>Serial Anime: Naruto Shippuden</strong> menggunakan LaTeX dengan paket utama yang digunakan adalah paket Tikz.</div></div></div>]]></description>
+                <img src="/cafe-wall-illusion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas ilusi visual di mana garis-garis sejajar tampak melengkung akibat pola persegi kontras dan offset posisi antar baris. Ilustrasi dibuat dengan LaTeX TikZ lengkap dengan penjelasan struktur kodenya.</p>]]></description>
 </item></channel>
 </rss>

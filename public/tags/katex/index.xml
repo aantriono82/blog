@@ -6,12 +6,12 @@
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
             <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/katex/" rel="self" type="application/rss+xml" /><item>
     <title>Writing Mathematical Expressions in Markdown</title>
-    <link>http://localhost:1313/menulis-ekspresi-matematika/</link>
+    <link>http://localhost:1313/write-mathematical-expressions/</link>
     <pubDate>Sat, 27 Sep 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/menulis-ekspresi-matematika/</guid>
+    </author><guid>http://localhost:1313/write-mathematical-expressions/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/menulis-ekspresi-matematika/featured-image.png" referrerpolicy="no-referrer">
+                <img src="/write-mathematical-expressions/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses writing mathematical expressions in Markdown using KaTeX.</p>]]></description>
 </item></channel>
 </rss>

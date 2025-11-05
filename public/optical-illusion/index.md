@@ -2,9 +2,9 @@
 
 This article explores how an **arrangement of squares** can form a rotating circular illusion using **LaTeX and TikZ**. We will examine the structure of the code, the visual principles behind the illusion, and its significance in perception and visual art.
 
----
-
 <!--more-->
+
+---
 
 ## Introduction
 

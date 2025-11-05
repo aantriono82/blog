@@ -3,10 +3,9 @@
 
 Artikel ini membahas bagaimana sebuah **susunan persegi** dapat membentuk kesan lingkaran berputar menggunakan **LaTeX dan TikZ**. Kita akan mempelajari struktur kodenya, prinsip visual yang mendasari ilusi ini, serta maknanya dalam konteks persepsi dan seni visual.
 
----
-
 <!--more-->
 
+---
 
 ## Pendahuluan
 

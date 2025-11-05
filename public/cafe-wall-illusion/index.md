@@ -1,11 +1,11 @@
 # The Café Wall Illusion: Straight Lines That Appear Curved
 
 
-{{< admonition >}}
-
 This article explores the Café Wall Illusion, where parallel lines appear curved or slanted due to alternating black and white squares and horizontal offsets. Built using LaTeX TikZ, the article provides a complete explanation of both the code and the perceptual mechanisms behind it."
 
-{{< /admonition >}}
+<!--more-->
+
+---
 
 ## Introduction
 
