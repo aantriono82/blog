@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: Ilusi Lingkaran: Simetri, Geometri, dan Distorsi Visual"
-date: 2025-10-05
+date: 2025-11-05
 # lastmod: 2025-11-14
 draft: false
 author: "Aan Triono"
