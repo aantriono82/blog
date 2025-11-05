@@ -5,7 +5,6 @@ draft: false
 description: "عني"
 images: ["/avatar.png"]
 lightgallery: true
-lang: ar
 math:
   enable: true
 ---
