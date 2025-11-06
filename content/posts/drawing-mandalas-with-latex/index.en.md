@@ -118,6 +118,8 @@ The output Produced:
 
 ![mandala](mandala.png "Mandala")
 
+---
+
 ## Basic Document Setup
 
 The initial part of the code prepares the document type and canvas size.

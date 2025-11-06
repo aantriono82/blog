@@ -118,6 +118,8 @@ Keluaran yang dihasilkan:
 
 ![mandala](mandala.png "Mandala")
 
+---
+
 ## Persiapan Dasar Dokumen
 
 Bagian awal kode menyiapkan jenis dokumen dan ukuran kanvas gambar.
