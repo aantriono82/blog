@@ -73,7 +73,7 @@ Berikut adalah kode lengkap untuk menggambar simbol Yin-Yang menggunakan TikZ:
 ```
 Keluaran yang dihasilkan:
 
-![yinyang](yinyang.png "yin-yang symbol")
+![yinyang](yinyang.png "simbol yin-yang")
 
 ---
 

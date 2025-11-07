@@ -4,7 +4,25 @@
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 07 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Creating a Mandala with LaTeX TikZ</title>
+    <link>http://localhost:1313/drawing-mandalas-with-latex/</link>
+    <pubDate>Thu, 06 Nov 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/drawing-mandalas-with-latex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/drawing-mandalas-with-latex/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>A complete guide to drawing mandalas using LaTeX TikZ — including full .tex source code and detailed line-by-line explanations.</p>]]></description>
+</item><item>
+    <title>The Circle Illusion: Symmetry, Geometry, and Visual Distortion</title>
+    <link>http://localhost:1313/visual-distortion/</link>
+    <pubDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/visual-distortion/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/visual-distortion/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article explores the geometric circle illusion created with LaTeX TikZ, where concentric circles and rotated squares interact to produce visual distortion despite perfect mathematical symmetry.</p>]]></description>
+</item><item>
     <title>Text Formatting in LaTeX</title>
     <link>http://localhost:1313/text-format-in-latex/</link>
     <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -22,15 +40,6 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/yin-yang-symbol/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article discusses the philosophy and mathematical structure of the Yin-Yang symbol and demonstrates how to draw it precisely and beautifully using LaTeX TikZ.</p>]]></description>
-</item><item>
-    <title>The Circle Illusion: Symmetry, Geometry, and Visual Distortion</title>
-    <link>http://localhost:1313/visual-distortion/</link>
-    <pubDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/visual-distortion/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/visual-distortion/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>This article explores the geometric circle illusion created with LaTeX TikZ, where concentric circles and rotated squares interact to produce visual distortion despite perfect mathematical symmetry.</p>]]></description>
 </item><item>
     <title>Differences Between BSD and Linux</title>
     <link>http://localhost:1313/difference-between-bsd-and-linux/</link>

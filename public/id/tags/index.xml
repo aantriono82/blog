@@ -4,19 +4,19 @@
         <link>http://localhost:1313/id/tags/</link>
         <description>Tags - Label - Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 07 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>TikZ</title>
+    <link>http://localhost:1313/id/tags/tikz/</link>
+    <pubDate>Fri, 07 Nov 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/tags/tikz/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Ilusi Optik</title>
     <link>http://localhost:1313/id/tags/ilusi-optik/</link>
     <pubDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Aan Triono</name>
     </author><guid>http://localhost:1313/id/tags/ilusi-optik/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>TikZ</title>
-    <link>http://localhost:1313/id/tags/tikz/</link>
-    <pubDate>Wed, 05 Nov 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Aan Triono</name>
-    </author><guid>http://localhost:1313/id/tags/tikz/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Optical Illusion</title>
