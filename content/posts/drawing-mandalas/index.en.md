@@ -225,13 +225,10 @@ A deep understanding of its structure opens endless possibilities for computatio
 
 ## References
 
-    Tantau, T. *The TikZ and PGF Manual*, Version 3.1.10 (2024).
-
-    Wolfram Research, *Radial Symmetry in Geometry and Art*.
-
-    Triono, Aan. Aesthetic Experiments with TikZ: From Fractals to Mandalas.
-
-    Snyder, J. (2022). Mathematical Patterns in Sacred Geometry.
+1. Tantau, T. *The TikZ and PGF Manual*, Version 3.1.10 (2024).
+2. Wolfram Research, *Radial Symmetry in Geometry and Art*.
+3. Triono, Aan. *Eksperimen Estetika dengan TikZ: Dari Fraktal hingga Mandala*.
+4. Snyder, J. (2022). *Mathematical Patterns in Sacred Geometry*.
 
 ---
 

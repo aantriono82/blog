@@ -4,7 +4,16 @@
         <link>http://localhost:1313/tags/tikz/</link>
         <description>TikZ - Tag - Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 07 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tikz/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 08 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tikz/" rel="self" type="application/rss+xml" /><item>
+    <title>Creating Pompeii Mosaic Patterns with LaTeX TikZ</title>
+    <link>http://localhost:1313/mosaic-from-pompeii/</link>
+    <pubDate>Sat, 08 Nov 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/mosaic-from-pompeii/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mosaic-from-pompeii/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>This article discusses a comprehensive analysis of Daniel Steger&rsquo;s LaTeX TikZ code for generating Pompeii mosaic patterns — covering code structure, visual philosophy, and scientific and artistic relevance.</p>]]></description>
+</item><item>
     <title>Drawing a Mandala with the TikZ Package in LaTeX</title>
     <link>http://localhost:1313/drawing-mandalas/</link>
     <pubDate>Fri, 07 Nov 2025 00:00:00 &#43;0000</pubDate><author>

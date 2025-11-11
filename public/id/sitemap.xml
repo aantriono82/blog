@@ -2,7 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/id/drawing-mandalas/</loc><lastmod>2025-11-07T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/mosaic-from-pompeii/</loc><lastmod>2025-11-08T12:38:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/mosaic-from-pompeii/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="id"
+                    href="http://localhost:1313/id/mosaic-from-pompeii/"
+                    /></url><url>
+            <loc>http://localhost:1313/id/drawing-mandalas/</loc><lastmod>2025-11-07T16:37:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/drawing-mandalas/"
@@ -38,7 +47,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/sharingan-and-rinnegan/"
                     /></url><url>
-            <loc>http://localhost:1313/id/yin-yang-symbol/</loc><lastmod>2025-11-05T13:52:21&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/yin-yang-symbol/</loc><lastmod>2025-11-07T16:37:03&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/yin-yang-symbol/"
@@ -209,7 +218,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/difference-between-bsd-and-linux/"
                     /></url><url>
-            <loc>http://localhost:1313/id/</loc><lastmod>2025-11-07T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/</loc><lastmod>2025-11-08T12:38:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/"
@@ -218,7 +227,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/"
                     /></url><url>
-            <loc>http://localhost:1313/id/categories/</loc><lastmod>2025-11-07T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/categories/</loc><lastmod>2025-11-08T12:38:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/categories/"
@@ -227,7 +236,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/id/categories/latex/</loc><lastmod>2025-11-07T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/categories/latex/</loc><lastmod>2025-11-08T12:38:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/categories/latex/"
@@ -236,7 +245,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/categories/latex/"
                     /></url><url>
-            <loc>http://localhost:1313/id/posts/</loc><lastmod>2025-11-07T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/posts/</loc><lastmod>2025-11-08T12:38:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/posts/"
@@ -245,7 +254,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/</loc><lastmod>2025-11-07T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/</loc><lastmod>2025-11-08T12:38:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/"
@@ -254,7 +263,7 @@
                     hreflang="id"
                     href="http://localhost:1313/id/tags/"
                     /></url><url>
-            <loc>http://localhost:1313/id/tags/tikz/</loc><lastmod>2025-11-07T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/id/tags/tikz/</loc><lastmod>2025-11-08T12:38:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/tags/tikz/"

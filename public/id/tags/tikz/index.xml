@@ -4,7 +4,16 @@
         <link>http://localhost:1313/id/tags/tikz/</link>
         <description>TikZ - Label - Aan Triono</description>
         <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>aantriono82@gmail.com (Aan Triono)</managingEditor>
-            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 07 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/tags/tikz/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>aantriono82@gmail.com (Aan Triono)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 08 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/id/tags/tikz/" rel="self" type="application/rss+xml" /><item>
+    <title>Membuat Pola Mosaik Pompeii dengan LaTeX TikZ</title>
+    <link>http://localhost:1313/id/mosaic-from-pompeii/</link>
+    <pubDate>Sat, 08 Nov 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Aan Triono</name>
+    </author><guid>http://localhost:1313/id/mosaic-from-pompeii/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mosaic-from-pompeii/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Artikel ini membahas analisis komprehensif terhadap kode LaTeX TikZ karya Daniel Steger untuk menghasilkan pola mosaik Pompeii — mencakup struktur kode, filosofi visual, serta relevansi ilmiah dan artistik.</p>]]></description>
+</item><item>
     <title>Menggambar Mandala dengan Paket TikZ di LaTeX</title>
     <link>http://localhost:1313/id/drawing-mandalas/</link>
     <pubDate>Fri, 07 Nov 2025 00:00:00 &#43;0000</pubDate><author>
